@@ -1,0 +1,6 @@
+league,n_matches,model_brier,pinnacle_brier,bss
+A-League,5,0.265064,0.263740,-0.0050
+J.League,11,0.236138,0.224127,-0.0536
+K-League 1,2,0.171876,0.188724,+0.0893
+Saudi Pro League,15,0.147395,0.144195,-0.0222
+ALL,33,0.196288,0.191651,-0.0242
