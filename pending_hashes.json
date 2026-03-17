@@ -1,0 +1,113 @@
+{
+  "schema": "veriasia-lock-commitment-v1",
+  "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
+  "published_at": "2026-03-17T12:57:46Z",
+  "n_pending_locks": 15,
+  "commitments": [
+    {
+      "match": "Cerezo Osaka vs Fagiano Okayama FC",
+      "league": "J.League",
+      "date": "2026-03-18",
+      "pv_matchid": "PV-j_league-19630392",
+      "commitment_hash": "fd37f6522972b1769e0d3d5d9612bc8f03d4f519fbd6050acea22ae2ed9bf0d8"
+    },
+    {
+      "match": "JEF United Chiba vs FC Tokyo",
+      "league": "J.League",
+      "date": "2026-03-18",
+      "pv_matchid": "PV-j_league--1229000794",
+      "commitment_hash": "2253b1edd50b6762de38aeca0941688fdb2b5d3c8e092a655f52b2daf6c3c3d2"
+    },
+    {
+      "match": "Vissel Kobe vs Gamba Osaka",
+      "league": "J.League",
+      "date": "2026-03-18",
+      "pv_matchid": "PV-j_league-19630391",
+      "commitment_hash": "2038fa7abfbb4750fb5e32d066f80942d98465abfc644d49b6c780d9bf9b62dd"
+    },
+    {
+      "match": "Nagoya Grampus vs Sanfrecce Hiroshima",
+      "league": "J.League",
+      "date": "2026-03-18",
+      "pv_matchid": "PV-j_league-19630393",
+      "commitment_hash": "f7b783a6c05d6f40e55a08a8b05743fe78e2ee8732d9709bfbc4d150ea30afd3"
+    },
+    {
+      "match": "Tokyo Verdy vs Kawasaki Frontale",
+      "league": "J.League",
+      "date": "2026-03-18",
+      "pv_matchid": "PV-j_league-19630395",
+      "commitment_hash": "de9b4898fd57211cb9b1a0013bde0fdf997742ed39f509e3874404b2abed905f"
+    },
+    {
+      "match": "Urawa Red Diamonds vs Kashiwa Reysol",
+      "league": "J.League",
+      "date": "2026-03-18",
+      "pv_matchid": "PV-j_league-19630397",
+      "commitment_hash": "69d6619e7a2fa0dcdc6e7607301cbf1b1abcea2a92af95b57f509c375919f4c3"
+    },
+    {
+      "match": "Pohang Steelers vs Seoul FC",
+      "league": "K-League 1",
+      "date": "2026-03-18",
+      "pv_matchid": "PV-k_league-19648209",
+      "commitment_hash": "50829918a23760694fe73bd2a6bfb1018d5b08164c11afa63c41fac2e2a7c435"
+    },
+    {
+      "match": "Jeonbuk Hyundai Motors vs FC Anyang",
+      "league": "K-League 1",
+      "date": "2026-03-18",
+      "pv_matchid": "PV-k_league--660055017",
+      "commitment_hash": "bb3479b7e7f9e6b4ef15090dccf37585b6a745ccdf833feb19fb23baa0b3f787"
+    },
+    {
+      "match": "Incheon United vs Daejeon Hana Citizen",
+      "league": "K-League 1",
+      "date": "2026-03-18",
+      "pv_matchid": "PV-k_league-19648212",
+      "commitment_hash": "cd08627d5353d97a4c68347c0f714c9509e91b1df48f5539cc5569f874bbeab7"
+    },
+    {
+      "match": "Western Sydney Wanderers vs Adelaide United",
+      "league": "A-League",
+      "date": "2026-03-20",
+      "pv_matchid": "PV-a_league-19577491",
+      "commitment_hash": "b0feeb92d3219e0d37ba21c38d343d08b2269af7e13e4621930fe12c4a7086ca"
+    },
+    {
+      "match": "Auckland FC vs Macarthur FC",
+      "league": "A-League",
+      "date": "2026-03-21",
+      "pv_matchid": "PV-a_league-19577492",
+      "commitment_hash": "3a6c1c0c9406a83587bde5de28de1f437155b70f69782fefece651a26c9b62e8"
+    },
+    {
+      "match": "Brisbane Roar vs Wellington Phoenix",
+      "league": "A-League",
+      "date": "2026-03-21",
+      "pv_matchid": "PV-a_league-19578596",
+      "commitment_hash": "40ce894f7986065e3d26cab925bc5db08281f2006b5bd0c5b540f26a5e6ea3a1"
+    },
+    {
+      "match": "Melbourne Victory vs Central Coast Mariners",
+      "league": "A-League",
+      "date": "2026-03-21",
+      "pv_matchid": "PV-a_league-19577493",
+      "commitment_hash": "b8a240757bead8e74c4d99c9d25c7857e36bc574ae15ecb9d71c48c2f4f11911"
+    },
+    {
+      "match": "Yunnan Yukun vs Shandong Luneng Taishan FC",
+      "league": "Chinese Super League",
+      "date": "2026-03-21",
+      "pv_matchid": "PV-chinese_super_league--1183103131",
+      "commitment_hash": "88470d0ca7f997765e7f40954fb08fbb5d2a5db6faf9211d8c127d0f106fe447"
+    },
+    {
+      "match": "Perth Glory vs Melbourne City FC",
+      "league": "A-League",
+      "date": "2026-03-22",
+      "pv_matchid": "PV-a_league-19577495",
+      "commitment_hash": "11006efd793d0e89f1ce85fd3be54db935839ae2ede43b29fdd219da2ee2a269"
+    }
+  ]
+}
