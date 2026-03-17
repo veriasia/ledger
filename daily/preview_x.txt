@@ -1,17 +1,15 @@
 Veri Asia | Matchday Mar 18
 14 fixtures | 9 locked plays
+@sbobet @pinnacle @betinasia
 
 J.League:
 JEF United Chiba v FC Tokyo
-HOME @ 3.19 (edge 7.4%)
+AH +0.0 | HOME @ 3.19 (edge 7.4%)
 
 K-League 1:
 Incheon United v Daejeon Hana Citizen
-AWAY @ 2.15 (edge 7.5%)
+AH +0.0 | AWAY @ 2.15 (edge 7.5%)
 
 + 7 more locked plays
 
-All locks pre-match committed (SHA-256)
-github.com/veriasia/ledger
-
-PV10 v7 | DNB (AH 0.0) | @sbobet @pinnacle @betinasia
+SHA-256 committed | github.com/veriasia/ledger
