@@ -1,0 +1,354 @@
+{
+  "meta": {
+    "provider": "Veri Asia",
+    "description": "Asian football probability engine \u2014 the gold standard for match probability in Asian leagues.",
+    "model": "PV10 v7 Unified",
+    "market": "DNB (Draw No Bet)",
+    "benchmark": "Pinnacle Starting Prices",
+    "leagues": [
+      "A-League",
+      "J.League",
+      "K-League 1",
+      "Saudi Pro League",
+      "Chinese Super League"
+    ],
+    "updated_at": "2026-03-17T12:17:03Z",
+    "source": "https://github.com/veriasia/engine",
+    "methodology": "Four-pillar performance rating (Finishing, Creation, Progression, Defensive) with per-league optimised pillar weights, logistic probability model, and market SP blending. Walk-forward backtest with no data leakage."
+  },
+  "model_accuracy": {
+    "description": "Brier Skill Score (BSS) vs Pinnacle starting prices. Positive = model beats the market.",
+    "overall": {
+      "bss_vs_pinnacle_sp_pct": 1.0706,
+      "n_matches": 1682,
+      "model_brier": 0.207553,
+      "market_brier": 0.209799
+    },
+    "by_league": {
+      "a_league": {
+        "league_name": "A-League",
+        "bss_vs_pinnacle_sp_pct": 1.4981,
+        "n_sp_matches": 336,
+        "bss_vs_naive_pct": 7.7635,
+        "n_naive_matches": 376
+      },
+      "j_league": {
+        "league_name": "J.League",
+        "bss_vs_pinnacle_sp_pct": 0.3785,
+        "n_sp_matches": 666,
+        "bss_vs_naive_pct": 7.9979,
+        "n_naive_matches": 777
+      },
+      "k_league": {
+        "league_name": "K-League 1",
+        "bss_vs_pinnacle_sp_pct": 0.6237,
+        "n_sp_matches": 282,
+        "bss_vs_naive_pct": 2.041,
+        "n_naive_matches": 477
+      },
+      "saudi_pro_league": {
+        "league_name": "Saudi Pro League",
+        "bss_vs_pinnacle_sp_pct": 7.7345,
+        "n_sp_matches": 51,
+        "bss_vs_naive_pct": 23.966,
+        "n_naive_matches": 696
+      },
+      "chinese_super_league": {
+        "league_name": "Chinese Super League",
+        "bss_vs_pinnacle_sp_pct": 2.058,
+        "n_sp_matches": 347,
+        "bss_vs_naive_pct": 40.7899,
+        "n_naive_matches": 353
+      }
+    }
+  },
+  "locked_plays": {
+    "description": "Timestamped value plays locked pre-match. All plays verifiable against match_repo.",
+    "summary": {
+      "total_plays": 20,
+      "wins": 6,
+      "losses": 9,
+      "pushes": 5,
+      "total_staked": 19.5,
+      "total_pl": 5.66,
+      "roi_pct": 29.03,
+      "avg_odds": 3.95
+    },
+    "by_league": {
+      "A-League": {
+        "plays": 3,
+        "wins": 1,
+        "losses": 1,
+        "pushes": 1,
+        "staked": 3.0,
+        "pl": 3.31,
+        "roi_pct": 110.33
+      },
+      "Saudi Pro League": {
+        "plays": 8,
+        "wins": 2,
+        "losses": 5,
+        "pushes": 1,
+        "staked": 6.5,
+        "pl": 0.29,
+        "roi_pct": 4.46
+      },
+      "J.League": {
+        "plays": 9,
+        "wins": 3,
+        "losses": 3,
+        "pushes": 3,
+        "staked": 10.0,
+        "pl": 2.06,
+        "roi_pct": 20.6
+      }
+    },
+    "clv": {
+      "n_plays_with_closing": 20,
+      "n_clv_positive": 9,
+      "avg_clv_pct": 0.24
+    },
+    "plays": [
+      {
+        "date": "2026-03-04",
+        "league": "A-League",
+        "home": "Macarthur",
+        "away": "Central Coast Mariners",
+        "proposition": "away",
+        "locked_odds": 3.87,
+        "pinnacle_closing_odds": 4.07,
+        "clv_pct": -4.91,
+        "result": "profit",
+        "pl_units": 4.31
+      },
+      {
+        "date": "2026-03-06",
+        "league": "Saudi Pro League",
+        "home": "Al Hilal",
+        "away": "Al Najma",
+        "proposition": "away",
+        "locked_odds": 18.76,
+        "pinnacle_closing_odds": 20.73,
+        "clv_pct": -9.5,
+        "result": "loss",
+        "pl_units": -0.5
+      },
+      {
+        "date": "2026-03-06",
+        "league": "Saudi Pro League",
+        "home": "Al Khaleej",
+        "away": "Al Hazm",
+        "proposition": "home",
+        "locked_odds": 1.52,
+        "pinnacle_closing_odds": 1.46,
+        "clv_pct": 4.11,
+        "result": "profit",
+        "pl_units": 0.52
+      },
+      {
+        "date": "2026-03-07",
+        "league": "A-League",
+        "home": "Newcastle United Jets",
+        "away": "Western Sydney Wanderers",
+        "proposition": "away",
+        "locked_odds": 2.41,
+        "pinnacle_closing_odds": 2.28,
+        "clv_pct": 5.7,
+        "result": "loss",
+        "pl_units": -1.0
+      },
+      {
+        "date": "2026-03-07",
+        "league": "J.League",
+        "home": "FC Tokyo",
+        "away": "Yokohama F. Marinos",
+        "proposition": "home",
+        "locked_odds": 1.53,
+        "pinnacle_closing_odds": 1.49,
+        "clv_pct": 2.68,
+        "result": "profit",
+        "pl_units": 0.53
+      },
+      {
+        "date": "2026-03-07",
+        "league": "J.League",
+        "home": "Cerezo Osaka",
+        "away": "Shimizu S-Pulse",
+        "proposition": "away",
+        "locked_odds": 2.29,
+        "pinnacle_closing_odds": 2.56,
+        "clv_pct": -10.55,
+        "result": "push",
+        "pl_units": 0.0
+      },
+      {
+        "date": "2026-03-07",
+        "league": "Saudi Pro League",
+        "home": "Al Ettifaq",
+        "away": "Al Shabab",
+        "proposition": "home",
+        "locked_odds": 2.41,
+        "pinnacle_closing_odds": 2.42,
+        "clv_pct": -0.41,
+        "result": "push",
+        "pl_units": 0.0
+      },
+      {
+        "date": "2026-03-08",
+        "league": "A-League",
+        "home": "Auckland",
+        "away": "Perth Glory",
+        "proposition": "away",
+        "locked_odds": 5.85,
+        "pinnacle_closing_odds": 5.84,
+        "clv_pct": 0.17,
+        "result": "push",
+        "pl_units": 0.0
+      },
+      {
+        "date": "2026-03-08",
+        "league": "J.League",
+        "home": "Fagiano Okayama FC",
+        "away": "Kyoto Sanga",
+        "proposition": "home",
+        "locked_odds": 2.62,
+        "pinnacle_closing_odds": 2.67,
+        "clv_pct": -1.87,
+        "result": "profit",
+        "pl_units": 2.43
+      },
+      {
+        "date": "2026-03-08",
+        "league": "J.League",
+        "home": "Gamba Osaka",
+        "away": "V-Varen Nagasaki",
+        "proposition": "away",
+        "locked_odds": 2.65,
+        "pinnacle_closing_odds": 2.66,
+        "clv_pct": -0.38,
+        "result": "loss",
+        "pl_units": -1.0
+      },
+      {
+        "date": "2026-03-12",
+        "league": "Saudi Pro League",
+        "home": "Al Hazm",
+        "away": "Al Kholood",
+        "proposition": "away",
+        "locked_odds": 2.02,
+        "pinnacle_closing_odds": 1.81,
+        "clv_pct": 11.6,
+        "result": "loss",
+        "pl_units": -1.0
+      },
+      {
+        "date": "2026-03-12",
+        "league": "Saudi Pro League",
+        "home": "Al Najma",
+        "away": "Damac FC",
+        "proposition": "home",
+        "locked_odds": 2.64,
+        "pinnacle_closing_odds": 2.19,
+        "clv_pct": 20.55,
+        "result": "loss",
+        "pl_units": -1.0
+      },
+      {
+        "date": "2026-03-13",
+        "league": "Saudi Pro League",
+        "home": "Al Riyadh",
+        "away": "Al Ittihad",
+        "proposition": "home",
+        "locked_odds": 4.27,
+        "pinnacle_closing_odds": 4.11,
+        "clv_pct": 3.89,
+        "result": "profit",
+        "pl_units": 3.27
+      },
+      {
+        "date": "2026-03-14",
+        "league": "J.League",
+        "home": "Nagoya Grampus",
+        "away": "Vissel Kobe",
+        "proposition": "home",
+        "locked_odds": 2.42,
+        "pinnacle_closing_odds": 2.33,
+        "clv_pct": 3.86,
+        "result": "loss",
+        "pl_units": -1.0
+      },
+      {
+        "date": "2026-03-14",
+        "league": "J.League",
+        "home": "Tokyo Verdy",
+        "away": "Urawa Red Diamonds",
+        "proposition": "home",
+        "locked_odds": 2.4,
+        "pinnacle_closing_odds": 2.6,
+        "clv_pct": -7.69,
+        "result": "profit",
+        "pl_units": 2.1
+      },
+      {
+        "date": "2026-03-14",
+        "league": "J.League",
+        "home": "Shimizu S-Pulse",
+        "away": "Fagiano Okayama FC",
+        "proposition": "home",
+        "locked_odds": 1.75,
+        "pinnacle_closing_odds": 1.74,
+        "clv_pct": 0.57,
+        "result": "push",
+        "pl_units": 0.0
+      },
+      {
+        "date": "2026-03-14",
+        "league": "J.League",
+        "home": "Kyoto Sanga",
+        "away": "Cerezo Osaka",
+        "proposition": "home",
+        "locked_odds": 1.58,
+        "pinnacle_closing_odds": 1.66,
+        "clv_pct": -4.82,
+        "result": "loss",
+        "pl_units": -1.0
+      },
+      {
+        "date": "2026-03-14",
+        "league": "J.League",
+        "home": "Mito Hollyhock",
+        "away": "FC Tokyo",
+        "proposition": "home",
+        "locked_odds": 2.49,
+        "pinnacle_closing_odds": 2.69,
+        "clv_pct": -7.43,
+        "result": "push",
+        "pl_units": 0.0
+      },
+      {
+        "date": "2026-03-14",
+        "league": "Saudi Pro League",
+        "home": "Al Fateh",
+        "away": "Al Hilal",
+        "proposition": "home",
+        "locked_odds": 9.01,
+        "pinnacle_closing_odds": 9.01,
+        "clv_pct": 0.0,
+        "result": "loss",
+        "pl_units": -0.5
+      },
+      {
+        "date": "2026-03-14",
+        "league": "Saudi Pro League",
+        "home": "Al Khaleej",
+        "away": "Al Nassr",
+        "proposition": "home",
+        "locked_odds": 6.42,
+        "pinnacle_closing_odds": 6.47,
+        "clv_pct": -0.77,
+        "result": "loss",
+        "pl_units": -0.5
+      }
+    ]
+  }
+}
