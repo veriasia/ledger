@@ -1,5 +1,17 @@
-Veri Asia | Mar 17
+Veri Asia | Matchday Mar 18
+14 fixtures | 9 locked plays
 
-No matches today across our Asian leagues.
+J.League:
+JEF United Chiba v FC Tokyo
+HOME @ 3.19 (edge 7.4%)
 
-Model: PV10 v7 | DNB (AH 0.0)
+K-League 1:
+Incheon United v Daejeon Hana Citizen
+AWAY @ 2.15 (edge 7.5%)
+
++ 7 more locked plays
+
+All locks pre-match committed (SHA-256)
+github.com/veriasia/ledger
+
+PV10 v7 | DNB (AH 0.0) | @sbobet @pinnacle @betinasia
