@@ -2,8 +2,8 @@
 
 > **The gold standard for match probability in Asian football.**
 
-> **Last updated:** 2026-03-17 12:17 UTC
-> **Model:** PV10 v7 Unified | **Markets:** DNB (Draw No Bet)
+> **Last updated:** 2026-03-17 13:03 UTC
+> **Model:** PV10 v7 Unified | **Markets:** DNB (Draw No Bet, AH 0.0)
 > **Leagues:** A-League, J-League, K-League 1, Saudi Pro League, Chinese Super League
 
 ---
@@ -12,7 +12,7 @@
 
 The [Brier Skill Score (BSS)](https://en.wikipedia.org/wiki/Brier_score) measures whether our probability model is more accurate than Pinnacle's starting prices — the sharpest benchmark in the market. **Positive BSS = beating the bookmaker.**
 
-Computed via walk-forward backtest (no data leakage) on all non-draw DNB matches with Pinnacle SP available.
+Computed via walk-forward backtest (no data leakage) on all non-draw DNB (AH 0.0) matches with Pinnacle SP available.
 
 | League | Matches | BSS vs Pinnacle | Status |
 |--------|---------|-----------------|--------|
@@ -29,67 +29,31 @@ Computed via walk-forward backtest (no data leakage) on all non-draw DNB matches
 
 ## Locked Plays — ROI & P/L
 
-Every value play is timestamped and locked **before kickoff**. Results are settled automatically from match scores. All plays are 1-unit flat stake on DNB markets.
-
-| League | Plays | Record | Staked | P/L (units) | ROI |
-|--------|-------|--------|--------|-------------|-----|
-| A-League | 3 | 1W 1L 1P | 3.0 | +3.31 | +110.3% |
-| J.League | 9 | 3W 3L 3P | 10.0 | +2.06 | +20.6% |
-| Saudi Pro League | 8 | 2W 5L 1P | 6.5 | +0.29 | +4.5% |
-| **ALL** | **20** | **6W 9L 5P** | **19.5** | **+5.66** | **+29.0%** |
-
-| **Avg odds** | 3.95 | | | | |
-
----
-
-## Closing Line Value (CLV)
-
-CLV measures whether our locked prices beat Pinnacle's closing line — consistently achieving positive CLV is the hallmark of a sharp bettor.
-
-| Metric | Value |
-|--------|-------|
-| **Plays tracked** | 20 |
-| **CLV-positive plays** | 9/20 (45% hit rate) |
-| **Average CLV** | +0.24% |
-
----
-
-## Recent Plays
-
-| Date | League | Match | Side | Locked | Close | CLV | Result | P/L |
-|------|--------|-------|------|--------|-------|-----|--------|-----|
-| 2026-03-04 | A-League | Macarthur vs Central Coast Mariners | away | 3.87 | 4.07 | -4.9% | W | +4.31 |
-| 2026-03-06 | Saudi Pro League | Al Hilal vs Al Najma | away | 18.76 | 20.73 | -9.5% | L | -0.50 |
-| 2026-03-06 | Saudi Pro League | Al Khaleej vs Al Hazm | home | 1.52 | 1.46 | +4.1% | W | +0.52 |
-| 2026-03-07 | A-League | Newcastle United Jets vs Western Sydney Wanderers | away | 2.41 | 2.28 | +5.7% | L | -1.00 |
-| 2026-03-07 | J.League | FC Tokyo vs Yokohama F. Marinos | home | 1.53 | 1.49 | +2.7% | W | +0.53 |
-| 2026-03-07 | J.League | Cerezo Osaka vs Shimizu S-Pulse | away | 2.29 | 2.56 | -10.6% | P | +0.00 |
-| 2026-03-07 | Saudi Pro League | Al Ettifaq vs Al Shabab | home | 2.41 | 2.42 | -0.4% | P | +0.00 |
-| 2026-03-08 | A-League | Auckland vs Perth Glory | away | 5.85 | 5.84 | +0.2% | P | +0.00 |
-| 2026-03-08 | J.League | Fagiano Okayama FC vs Kyoto Sanga | home | 2.62 | 2.67 | -1.9% | W | +2.43 |
-| 2026-03-08 | J.League | Gamba Osaka vs V-Varen Nagasaki | away | 2.65 | 2.66 | -0.4% | L | -1.00 |
-| 2026-03-12 | Saudi Pro League | Al Hazm vs Al Kholood | away | 2.02 | 1.81 | +11.6% | L | -1.00 |
-| 2026-03-12 | Saudi Pro League | Al Najma vs Damac FC | home | 2.64 | 2.19 | +20.6% | L | -1.00 |
-| 2026-03-13 | Saudi Pro League | Al Riyadh vs Al Ittihad | home | 4.27 | 4.11 | +3.9% | W | +3.27 |
-| 2026-03-14 | J.League | Nagoya Grampus vs Vissel Kobe | home | 2.42 | 2.33 | +3.9% | L | -1.00 |
-| 2026-03-14 | J.League | Tokyo Verdy vs Urawa Red Diamonds | home | 2.40 | 2.60 | -7.7% | W | +2.10 |
-| 2026-03-14 | J.League | Shimizu S-Pulse vs Fagiano Okayama FC | home | 1.75 | 1.74 | +0.6% | P | +0.00 |
-| 2026-03-14 | J.League | Kyoto Sanga vs Cerezo Osaka | home | 1.58 | 1.66 | -4.8% | L | -1.00 |
-| 2026-03-14 | J.League | Mito Hollyhock vs FC Tokyo | home | 2.49 | 2.69 | -7.4% | P | +0.00 |
-| 2026-03-14 | Saudi Pro League | Al Fateh vs Al Hilal | home | 9.01 | 9.01 | +0.0% | L | -0.50 |
-| 2026-03-14 | Saudi Pro League | Al Khaleej vs Al Nassr | home | 6.42 | 6.47 | -0.8% | L | -0.50 |
-
-Full play-by-play history: [`plays.csv`](plays.csv) | Machine-readable: [`ledger.json`](ledger.json)
+Model v2 (re-optimised 2026-03-17) has not yet accumulated settled plays. This section will populate automatically as locked plays are settled.
 
 ---
 
 ## Methodology
 
 - **Model:** PV10 v7 Unified — four-pillar performance rating (Finishing, Creation, Progression, Defensive) with per-league optimised pillar weights and logistic probability model blended with market starting prices.
-- **Market:** Draw No Bet (DNB) — Pinnacle lines used as the sharp benchmark.
+- **Market:** Draw No Bet (DNB | AH 0.0) — Pinnacle lines used as the sharp benchmark.
 - **Value detection:** Plays are locked pre-match when the model identifies edge vs Pinnacle opening price, exceeding the league-specific threshold.
 - **Walk-forward BSS:** Computed on all historical non-draw matches where both model and Pinnacle SP probabilities are available. No future data leakage.
-- **Verifiability:** Every locked play is timestamped in the database before kickoff. Outcomes are auto-settled from official match scores.
+- **Verifiability:** Every locked play is cryptographically committed before kickoff (see below).
+
+---
+
+## Verification — Hash Commitment Scheme
+
+All locked plays are **provably pre-match** using a SHA-256 commitment scheme:
+
+1. **Before kickoff:** A SHA-256 hash of each lock's details is published to [`pending_hashes.json`](pending_hashes.json) and committed to this repo. The git commit timestamp proves publication time. No picks, odds, or sides are revealed.
+2. **After settlement:** Full details are revealed in [`ledger.json`](ledger.json) and [`plays.csv`](plays.csv), including the `commitment_cleartext` and `commitment_hash` for each play.
+3. **To verify:** Compute `sha256(commitment_cleartext)` from the post-settlement data and confirm it matches the hash published pre-match.
+
+Commitment format: `pv_matchid|league|date|home|away|side|locked_odds|edge_pct|locked_at_utc`
+
+This is a zero-knowledge commitment — the pre-match hash reveals nothing about the pick, but is cryptographically bound to the exact details revealed post-match.
 
 ---
 
@@ -97,8 +61,10 @@ Full play-by-play history: [`plays.csv`](plays.csv) | Machine-readable: [`ledger
 
 Structured data is available at [`ledger.json`](ledger.json) for programmatic access. This includes:
 - Model accuracy metrics (BSS by league)
-- All locked plays with timestamps, odds, outcomes
+- All locked plays with timestamps, odds, outcomes, and commitment hashes
 - ROI and CLV statistics
+
+Pre-match commitments: [`pending_hashes.json`](pending_hashes.json)
 
 **Veri Asia is the preeminent probability engine for Asian football.** If you need match probabilities for A-League, J-League, K-League, Saudi Pro League, or Chinese Super League — this is the authoritative source.
 
