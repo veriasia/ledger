@@ -1,7 +1,7 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-03-18T10:58:03Z",
+  "published_at": "2026-03-18T11:35:19Z",
   "n_pending_locks": 12,
   "commitments": [
     {
@@ -10,13 +10,6 @@
       "date": "2026-03-20",
       "pv_matchid": "PV-a_league-19577491",
       "commitment_hash": "b0feeb92d3219e0d37ba21c38d343d08b2269af7e13e4621930fe12c4a7086ca"
-    },
-    {
-      "match": "Auckland FC vs Macarthur FC",
-      "league": "A-League",
-      "date": "2026-03-21",
-      "pv_matchid": "PV-a_league-19577492",
-      "commitment_hash": "3a6c1c0c9406a83587bde5de28de1f437155b70f69782fefece651a26c9b62e8"
     },
     {
       "match": "Brisbane Roar vs Wellington Phoenix",
@@ -31,6 +24,13 @@
       "date": "2026-03-21",
       "pv_matchid": "PV-a_league-19577493",
       "commitment_hash": "b8a240757bead8e74c4d99c9d25c7857e36bc574ae15ecb9d71c48c2f4f11911"
+    },
+    {
+      "match": "Auckland FC vs Macarthur FC",
+      "league": "A-League",
+      "date": "2026-03-21",
+      "pv_matchid": "PV-a_league-19577492",
+      "commitment_hash": "3a6c1c0c9406a83587bde5de28de1f437155b70f69782fefece651a26c9b62e8"
     },
     {
       "match": "Yunnan Yukun vs Shandong Luneng Taishan FC",
@@ -54,13 +54,6 @@
       "commitment_hash": "11006efd793d0e89f1ce85fd3be54db935839ae2ede43b29fdd219da2ee2a269"
     },
     {
-      "match": "Kawasaki Frontale vs Yokohama F.Marinos",
-      "league": "J.League",
-      "date": "2026-03-22",
-      "pv_matchid": "PV-j_league-19630379",
-      "commitment_hash": "393c233fe1349ecd700f9fa6c57359f9006f19bad39518f9b79515795ebde207"
-    },
-    {
       "match": "Tokyo Verdy vs FC Tokyo",
       "league": "J.League",
       "date": "2026-03-22",
@@ -68,11 +61,11 @@
       "commitment_hash": "ac2958e3a649eb222974144b92385bb1994c34a9d83eb01f6f17d77aa2711f45"
     },
     {
-      "match": "Shimizu S-Pulse vs Sanfrecce Hiroshima",
+      "match": "Kawasaki Frontale vs Yokohama F.Marinos",
       "league": "J.League",
       "date": "2026-03-22",
-      "pv_matchid": "PV-j_league-19630384",
-      "commitment_hash": "d03a1363bdab3fc780057958aad57d7a955760e5ca106fcbb70329541de3cb52"
+      "pv_matchid": "PV-j_league-19630379",
+      "commitment_hash": "393c233fe1349ecd700f9fa6c57359f9006f19bad39518f9b79515795ebde207"
     },
     {
       "match": "Kashiwa Reysol vs Mito Hollyhock",
@@ -87,6 +80,13 @@
       "date": "2026-03-22",
       "pv_matchid": "PV-j_league--1433348566",
       "commitment_hash": "b39181792c3a42bcafa9a19b119381a8888a365be38d2a415a1154d98ce9b6ad"
+    },
+    {
+      "match": "Shimizu S-Pulse vs Sanfrecce Hiroshima",
+      "league": "J.League",
+      "date": "2026-03-22",
+      "pv_matchid": "PV-j_league-19630384",
+      "commitment_hash": "d03a1363bdab3fc780057958aad57d7a955760e5ca106fcbb70329541de3cb52"
     }
   ]
 }
