@@ -12,14 +12,14 @@
       "Saudi Pro League",
       "Chinese Super League"
     ],
-    "updated_at": "2026-03-18T11:37:04Z",
+    "updated_at": "2026-03-18T11:55:46Z",
     "source": "https://github.com/veriasia/engine",
     "methodology": "Four-pillar performance rating (Finishing, Creation, Progression, Defensive) with per-league optimised pillar weights, logistic probability model, and market SP blending. Walk-forward backtest with no data leakage."
   },
   "model_accuracy": {
     "description": "Brier Skill Score (BSS) vs Pinnacle starting prices. Positive = model beats the market.",
     "overall": {
-      "bss_vs_pinnacle_sp_pct": 1.0689,
+      "bss_vs_pinnacle_sp_pct": 1.069,
       "n_matches": 1682,
       "model_brier": 0.207557,
       "market_brier": 0.209799
@@ -27,24 +27,24 @@
     "by_league": {
       "a_league": {
         "league_name": "A-League",
-        "bss_vs_pinnacle_sp_pct": 1.5042,
+        "bss_vs_pinnacle_sp_pct": 1.5046,
         "n_sp_matches": 336,
-        "bss_vs_naive_pct": 7.7477,
+        "bss_vs_naive_pct": 7.7441,
         "n_naive_matches": 377
       },
       "j_league": {
         "league_name": "J.League",
         "bss_vs_pinnacle_sp_pct": 0.3785,
         "n_sp_matches": 666,
-        "bss_vs_naive_pct": 7.9978,
-        "n_naive_matches": 777
+        "bss_vs_naive_pct": 7.8394,
+        "n_naive_matches": 786
       },
       "k_league": {
         "league_name": "K-League 1",
         "bss_vs_pinnacle_sp_pct": 0.6237,
         "n_sp_matches": 282,
-        "bss_vs_naive_pct": 2.0696,
-        "n_naive_matches": 477
+        "bss_vs_naive_pct": 2.3171,
+        "n_naive_matches": 479
       },
       "saudi_pro_league": {
         "league_name": "Saudi Pro League",
