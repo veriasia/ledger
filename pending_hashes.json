@@ -1,7 +1,7 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-03-18T11:35:19Z",
+  "published_at": "2026-03-18T11:55:09Z",
   "n_pending_locks": 12,
   "commitments": [
     {
@@ -19,18 +19,18 @@
       "commitment_hash": "40ce894f7986065e3d26cab925bc5db08281f2006b5bd0c5b540f26a5e6ea3a1"
     },
     {
-      "match": "Melbourne Victory vs Central Coast Mariners",
-      "league": "A-League",
-      "date": "2026-03-21",
-      "pv_matchid": "PV-a_league-19577493",
-      "commitment_hash": "b8a240757bead8e74c4d99c9d25c7857e36bc574ae15ecb9d71c48c2f4f11911"
-    },
-    {
       "match": "Auckland FC vs Macarthur FC",
       "league": "A-League",
       "date": "2026-03-21",
       "pv_matchid": "PV-a_league-19577492",
       "commitment_hash": "3a6c1c0c9406a83587bde5de28de1f437155b70f69782fefece651a26c9b62e8"
+    },
+    {
+      "match": "Melbourne Victory vs Central Coast Mariners",
+      "league": "A-League",
+      "date": "2026-03-21",
+      "pv_matchid": "PV-a_league-19577493",
+      "commitment_hash": "b8a240757bead8e74c4d99c9d25c7857e36bc574ae15ecb9d71c48c2f4f11911"
     },
     {
       "match": "Yunnan Yukun vs Shandong Luneng Taishan FC",
@@ -54,13 +54,6 @@
       "commitment_hash": "11006efd793d0e89f1ce85fd3be54db935839ae2ede43b29fdd219da2ee2a269"
     },
     {
-      "match": "Tokyo Verdy vs FC Tokyo",
-      "league": "J.League",
-      "date": "2026-03-22",
-      "pv_matchid": "PV-j_league-19630385",
-      "commitment_hash": "ac2958e3a649eb222974144b92385bb1994c34a9d83eb01f6f17d77aa2711f45"
-    },
-    {
       "match": "Kawasaki Frontale vs Yokohama F.Marinos",
       "league": "J.League",
       "date": "2026-03-22",
@@ -80,6 +73,13 @@
       "date": "2026-03-22",
       "pv_matchid": "PV-j_league--1433348566",
       "commitment_hash": "b39181792c3a42bcafa9a19b119381a8888a365be38d2a415a1154d98ce9b6ad"
+    },
+    {
+      "match": "Tokyo Verdy vs FC Tokyo",
+      "league": "J.League",
+      "date": "2026-03-22",
+      "pv_matchid": "PV-j_league-19630385",
+      "commitment_hash": "ac2958e3a649eb222974144b92385bb1994c34a9d83eb01f6f17d77aa2711f45"
     },
     {
       "match": "Shimizu S-Pulse vs Sanfrecce Hiroshima",
