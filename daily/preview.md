@@ -6,23 +6,22 @@
 
 ---
 
-## Today's Fixtures (14 matches, 9 locked plays — 2 free)
+## Today's Fixtures (14 matches, 11 locked plays — 2 free)
 
-### J.League (10 matches, 6 locks)
+### J.League (10 matches, 8 locks)
 
 Avispa Fukuoka vs Shimizu S-Pulse
 - No lock (below threshold)
 
 **Cerezo Osaka vs Fagiano Okayama FC** — 🔒 LOCKED
 
-**JEF United Chiba vs FC Tokyo** — Fair: 2.72 / 1.58 | Pin: 3.19 / 1.46
+**JEF United Chiba vs FC Tokyo** — Fair: 4.35 / 1.30 | Pin: 3.18 / 1.46
 - � **FREE PICK — HOME @ 3.19** (edge 7.4%)
 
 Machida Zelvia vs Kashima Antlers
 - No lock (below threshold)
 
-Mito Hollyhock vs Yokohama F.Marinos
-- No lock (below threshold)
+**Mito Hollyhock vs Yokohama F.Marinos** — 🔒 LOCKED
 
 **Nagoya Grampus vs Sanfrecce Hiroshima** — 🔒 LOCKED
 
@@ -32,12 +31,11 @@ Mito Hollyhock vs Yokohama F.Marinos
 
 **Vissel Kobe vs Gamba Osaka** — 🔒 LOCKED
 
-V-Varen Nagasaki vs Kyoto Sanga FC
-- No lock (below threshold)
+**V-Varen Nagasaki vs Kyoto Sanga FC** — 🔒 LOCKED
 
 ### K-League 1 (4 matches, 3 locks)
 
-**Incheon United vs Daejeon Hana Citizen** — Fair: 2.00 / 2.00 | Pin: 1.77 / 2.15
+**Incheon United vs Daejeon Hana Citizen** — Fair: 1.63 / 2.60 | Pin: 1.78 / 2.15
 - � **FREE PICK — AWAY @ 2.15** (edge 7.5%)
 
 Jeju United FC vs Ulsan Hyundai FC

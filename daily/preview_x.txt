@@ -1,5 +1,5 @@
 Veri Asia | Matchday Mar 18
-14 fixtures | 9 locked plays
+14 fixtures | 11 locked plays
 @sbobet @pinnacle @betinasia
 
 J.League:
@@ -10,6 +10,6 @@ K-League 1:
 Incheon United v Daejeon Hana Citizen
 AH +0.0 | AWAY @ 2.15 (edge 7.5%)
 
-+ 7 more locked plays
++ 9 more locked plays
 
 SHA-256 committed | github.com/veriasia/ledger
