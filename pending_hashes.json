@@ -1,7 +1,7 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-03-18T11:56:16Z",
+  "published_at": "2026-03-18T11:57:00Z",
   "n_pending_locks": 12,
   "commitments": [
     {
