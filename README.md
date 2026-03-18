@@ -2,7 +2,7 @@
 
 > **The gold standard for match probability in Asian football.**
 
-> **Last updated:** 2026-03-17 13:03 UTC
+> **Last updated:** 2026-03-18 10:59 UTC
 > **Model:** PV10 v7 Unified | **Markets:** DNB (Draw No Bet, AH 0.0)
 > **Leagues:** A-League, J-League, K-League 1, Saudi Pro League, Chinese Super League
 
@@ -19,7 +19,7 @@ Computed via walk-forward backtest (no data leakage) on all non-draw DNB (AH 0.0
 | A-League | 336 | +1.50% | BEATING |
 | J.League | 666 | +0.38% | BEATING |
 | K-League 1 | 282 | +0.62% | BEATING |
-| Saudi Pro League | 51 | +7.73% | BEATING |
+| Saudi Pro League | 51 | +7.58% | BEATING |
 | Chinese Super League | 347 | +2.06% | BEATING |
 | **ALL LEAGUES** | **1,682** | **+1.07%** | **BEATING** |
 
@@ -29,7 +29,36 @@ Computed via walk-forward backtest (no data leakage) on all non-draw DNB (AH 0.0
 
 ## Locked Plays — ROI & P/L
 
-Model v2 (re-optimised 2026-03-17) has not yet accumulated settled plays. This section will populate automatically as locked plays are settled.
+Every value play is timestamped and locked **before kickoff**. Results are settled automatically from match scores. All plays are 1-unit flat stake on DNB (AH 0.0) markets.
+
+| League | Plays | Record | Staked | P/L (units) | ROI |
+|--------|-------|--------|--------|-------------|-----|
+| A-League | 1 | 1W 0L 0P | 1.0 | +1.30 | +130.0% |
+| **ALL** | **1** | **1W 0L 0P** | **1.0** | **+1.30** | **+130.0%** |
+
+| **Avg odds** | 2.30 | | | | |
+
+---
+
+## Closing Line Value (CLV)
+
+CLV measures whether our locked prices beat Pinnacle's closing line — consistently achieving positive CLV is the hallmark of a sharp bettor.
+
+| Metric | Value |
+|--------|-------|
+| **Plays tracked** | 1 |
+| **CLV-positive plays** | 0/1 (0% hit rate) |
+| **Average CLV** | +0.00% |
+
+---
+
+## Recent Plays
+
+| Date | League | Match | Side | Locked | Close | CLV | Result | P/L |
+|------|--------|-------|------|--------|-------|-----|--------|-----|
+| 2026-03-17 | A-League | Sydney vs Melbourne City FC | away | 2.30 | 2.30 | +0.0% | W | +1.30 |
+
+Full play-by-play history: [`plays.csv`](plays.csv) | Machine-readable: [`ledger.json`](ledger.json)
 
 ---
 
