@@ -6,7 +6,7 @@
 
 ---
 
-## Day Summary: 9 locked plays | 4W 4L 1P | P/L: +0.11u
+## Day Summary: 9 locked plays | 4W 3L 2P | P/L: +1.08u
 
 ### J.League
 
@@ -16,7 +16,7 @@ Avispa Fukuoka 1-1 Shimizu S-Pulse
 **Cerezo Osaka 1-2 Fagiano Okayama FC**
 - 🔒 HOME @ 1.50 → **L ❌** | P/L: -1.00u | CLV -0.7%
 
-Machida Zelvia 0-2 Kashima Antlers
+Machida Zelvia 0-3 Kashima Antlers
 - No lock
 
 **Mito Hollyhock 1-0 Yokohama F. Marinos**
@@ -28,21 +28,21 @@ Machida Zelvia 0-2 Kashima Antlers
 **Tokyo Verdy 0-2 Kawasaki Frontale**
 - 🔒 HOME @ 2.49 → **L ❌** | P/L: -1.00u | CLV -6.0%
 
-**Urawa Red Diamonds 1-0 Kashiwa Reysol**
-- 🔒 HOME @ 2.18 → **W ✅** | P/L: +1.18u | CLV -10.7%
+**Urawa Red Diamonds 1-1 Kashiwa Reysol**
+- 🔒 HOME @ 2.18 → **P ➖** | P/L: +0.00u | CLV -10.7%
 
-**Vissel Kobe 1-2 Gamba Osaka**
-- 🔒 HOME @ 1.39 → **L ❌** | P/L: -1.00u | CLV -1.4%
+**Vissel Kobe 2-2 Gamba Osaka**
+- 🔒 HOME @ 1.39 → **P ➖** | P/L: +0.00u | CLV -1.4%
 
 **V-Varen Nagasaki 1-2 Kyoto Sanga**
 - 🔒 HOME @ 2.10 → **L ❌** | P/L: -1.00u | CLV +4.0%
 
 ### K-League 1
 
-**Incheon United 1-1 Daejeon Hana Citizen**
-- 🔒 AWAY @ 2.15 → **P ➖** | P/L: +0.00u | CLV +1.4%
+**Incheon United 1-3 Daejeon Hana Citizen**
+- 🔒 AWAY @ 2.15 → **W ✅** | P/L: +1.15u | CLV +1.4%
 
-Jeju United 0-1 Ulsan Hyundai
+Jeju United 0-2 Ulsan Hyundai
 - No lock
 
 **Pohang Steelers 0-1 Seoul FC**
@@ -55,16 +55,16 @@ Jeju United 0-1 Ulsan Hyundai
 | Metric | Value |
 |--------|-------|
 | **Plays** | 10 |
-| **Record** | 5W 4L 1P |
+| **Record** | 5W 3L 2P |
 | **Staked** | 10.0u |
-| **P/L** | +1.41u |
-| **ROI** | +14.1% |
+| **P/L** | +2.38u |
+| **ROI** | +23.8% |
 
 | League | Plays | Record | P/L | ROI |
 |--------|-------|--------|-----|-----|
 | A-League | 1 | 1W 0L 0P | +1.30u | +130.0% |
-| J.League | 7 | 3W 4L 0P | -0.66u | -9.4% |
-| K-League 1 | 2 | 1W 0L 1P | +0.77u | +38.5% |
+| J.League | 7 | 2W 3L 2P | -0.84u | -12.0% |
+| K-League 1 | 2 | 2W 0L 0P | +1.92u | +96.0% |
 
 ---
 
