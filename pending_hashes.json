@@ -1,29 +1,15 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-03-17T20:49:35Z",
-  "n_pending_locks": 15,
+  "published_at": "2026-03-18T04:15:19Z",
+  "n_pending_locks": 17,
   "commitments": [
     {
-      "match": "Cerezo Osaka vs Fagiano Okayama FC",
+      "match": "Mito Hollyhock vs Yokohama F.Marinos",
       "league": "J.League",
       "date": "2026-03-18",
-      "pv_matchid": "PV-j_league-19630392",
-      "commitment_hash": "fd37f6522972b1769e0d3d5d9612bc8f03d4f519fbd6050acea22ae2ed9bf0d8"
-    },
-    {
-      "match": "JEF United Chiba vs FC Tokyo",
-      "league": "J.League",
-      "date": "2026-03-18",
-      "pv_matchid": "PV-j_league--1229000794",
-      "commitment_hash": "2253b1edd50b6762de38aeca0941688fdb2b5d3c8e092a655f52b2daf6c3c3d2"
-    },
-    {
-      "match": "Vissel Kobe vs Gamba Osaka",
-      "league": "J.League",
-      "date": "2026-03-18",
-      "pv_matchid": "PV-j_league-19630391",
-      "commitment_hash": "2038fa7abfbb4750fb5e32d066f80942d98465abfc644d49b6c780d9bf9b62dd"
+      "pv_matchid": "PV-j_league-19630398",
+      "commitment_hash": "c52a7cb40c09d7a2c727614c19b745b4d438f04aabb1bbe6c7d3dc83e6e3fdd7"
     },
     {
       "match": "Nagoya Grampus vs Sanfrecce Hiroshima",
@@ -45,6 +31,34 @@
       "date": "2026-03-18",
       "pv_matchid": "PV-j_league-19630397",
       "commitment_hash": "69d6619e7a2fa0dcdc6e7607301cbf1b1abcea2a92af95b57f509c375919f4c3"
+    },
+    {
+      "match": "Cerezo Osaka vs Fagiano Okayama FC",
+      "league": "J.League",
+      "date": "2026-03-18",
+      "pv_matchid": "PV-j_league-19630392",
+      "commitment_hash": "fd37f6522972b1769e0d3d5d9612bc8f03d4f519fbd6050acea22ae2ed9bf0d8"
+    },
+    {
+      "match": "V-Varen Nagasaki vs Kyoto Sanga FC",
+      "league": "J.League",
+      "date": "2026-03-18",
+      "pv_matchid": "PV-j_league-19630389",
+      "commitment_hash": "faf5d32171332bb924be61d3535420b00ffd8a5e64d0d6f8dbff9aa5e3e1537e"
+    },
+    {
+      "match": "JEF United Chiba vs FC Tokyo",
+      "league": "J.League",
+      "date": "2026-03-18",
+      "pv_matchid": "PV-j_league--1229000794",
+      "commitment_hash": "2253b1edd50b6762de38aeca0941688fdb2b5d3c8e092a655f52b2daf6c3c3d2"
+    },
+    {
+      "match": "Vissel Kobe vs Gamba Osaka",
+      "league": "J.League",
+      "date": "2026-03-18",
+      "pv_matchid": "PV-j_league-19630391",
+      "commitment_hash": "2038fa7abfbb4750fb5e32d066f80942d98465abfc644d49b6c780d9bf9b62dd"
     },
     {
       "match": "Pohang Steelers vs Seoul FC",
@@ -75,6 +89,13 @@
       "commitment_hash": "b0feeb92d3219e0d37ba21c38d343d08b2269af7e13e4621930fe12c4a7086ca"
     },
     {
+      "match": "Melbourne Victory vs Central Coast Mariners",
+      "league": "A-League",
+      "date": "2026-03-21",
+      "pv_matchid": "PV-a_league-19577493",
+      "commitment_hash": "b8a240757bead8e74c4d99c9d25c7857e36bc574ae15ecb9d71c48c2f4f11911"
+    },
+    {
       "match": "Auckland FC vs Macarthur FC",
       "league": "A-League",
       "date": "2026-03-21",
@@ -87,13 +108,6 @@
       "date": "2026-03-21",
       "pv_matchid": "PV-a_league-19578596",
       "commitment_hash": "40ce894f7986065e3d26cab925bc5db08281f2006b5bd0c5b540f26a5e6ea3a1"
-    },
-    {
-      "match": "Melbourne Victory vs Central Coast Mariners",
-      "league": "A-League",
-      "date": "2026-03-21",
-      "pv_matchid": "PV-a_league-19577493",
-      "commitment_hash": "b8a240757bead8e74c4d99c9d25c7857e36bc574ae15ecb9d71c48c2f4f11911"
     },
     {
       "match": "Yunnan Yukun vs Shandong Luneng Taishan FC",
