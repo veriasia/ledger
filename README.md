@@ -2,7 +2,7 @@
 
 > **The gold standard for match probability in Asian football.**
 
-> **Last updated:** 2026-03-18 11:58 UTC
+> **Last updated:** 2026-03-18 11:59 UTC
 > **Model:** PV10 v7 Unified | **Markets:** DNB (Draw No Bet, AH 0.0)
 > **Leagues:** A-League, J-League, K-League 1, Saudi Pro League, Chinese Super League
 
