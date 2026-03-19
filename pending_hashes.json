@@ -1,15 +1,36 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-03-19T15:22:54Z",
-  "n_pending_locks": 13,
+  "published_at": "2026-03-19T15:42:18Z",
+  "n_pending_locks": 16,
   "commitments": [
+    {
+      "match": "Dalian Yingbo vs Shanghai SIPG FC",
+      "league": "Chinese Super League",
+      "date": "2026-03-20",
+      "pv_matchid": "PV-chinese_super_league--7048554",
+      "commitment_hash": "bc2ed0cac5caba690cecb6353a46da6c4d8394b77ee4a6ed473c16549d92d319"
+    },
     {
       "match": "Melbourne Victory vs Central Coast Mariners",
       "league": "A-League",
       "date": "2026-03-21",
       "pv_matchid": "PV-a_league-19577493",
       "commitment_hash": "43f1ebf26d7be6bd2ff9a1f7402771c2df367db2b45e7530fc00f4e35306f327"
+    },
+    {
+      "match": "Henan FC vs Wuhan Three Towns",
+      "league": "Chinese Super League",
+      "date": "2026-03-21",
+      "pv_matchid": "PV-chinese_super_league--1855822025",
+      "commitment_hash": "223548e0af5b220ffd1b4c05a8f139b504c33180e04c0b34ce404854ea00505e"
+    },
+    {
+      "match": "Beijing FC vs Shanghai Shenhua FC",
+      "league": "Chinese Super League",
+      "date": "2026-03-21",
+      "pv_matchid": "PV-chinese_super_league--1147176796",
+      "commitment_hash": "4efd0d6066b40251a05c36e9b88658f2dd9d7db554fb62e3386a0b1286b247a8"
     },
     {
       "match": "Yunnan Yukun vs Shandong Luneng Taishan FC",
@@ -75,18 +96,18 @@
       "commitment_hash": "ac2958e3a649eb222974144b92385bb1994c34a9d83eb01f6f17d77aa2711f45"
     },
     {
-      "match": "Gangwon FC vs Jeju United FC",
-      "league": "K-League 1",
-      "date": "2026-03-22",
-      "pv_matchid": "PV-k_league-19648204",
-      "commitment_hash": "198362f2e33d0d8951bbbda6be69cc1254c19a3950b7c3da739f7f6f0fc92df7"
-    },
-    {
       "match": "Seoul FC vs Gwangju FC",
       "league": "K-League 1",
       "date": "2026-03-22",
       "pv_matchid": "PV-k_league-19648207",
       "commitment_hash": "01ec20de587cb8ad1c9a8d3f7ba1861394e3bfb95f9f763079e325bff1fef0bf"
+    },
+    {
+      "match": "Gangwon FC vs Jeju United FC",
+      "league": "K-League 1",
+      "date": "2026-03-22",
+      "pv_matchid": "PV-k_league-19648204",
+      "commitment_hash": "198362f2e33d0d8951bbbda6be69cc1254c19a3950b7c3da739f7f6f0fc92df7"
     },
     {
       "match": "Ulsan Hyundai FC vs Sangju Sangmu FC",
