@@ -1,7 +1,7 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-03-19T20:48:46Z",
+  "published_at": "2026-03-19T21:49:50Z",
   "n_pending_locks": 16,
   "commitments": [
     {
@@ -19,13 +19,6 @@
       "commitment_hash": "43f1ebf26d7be6bd2ff9a1f7402771c2df367db2b45e7530fc00f4e35306f327"
     },
     {
-      "match": "Henan FC vs Wuhan Three Towns",
-      "league": "Chinese Super League",
-      "date": "2026-03-21",
-      "pv_matchid": "PV-chinese_super_league--1855822025",
-      "commitment_hash": "223548e0af5b220ffd1b4c05a8f139b504c33180e04c0b34ce404854ea00505e"
-    },
-    {
       "match": "Beijing FC vs Shanghai Shenhua FC",
       "league": "Chinese Super League",
       "date": "2026-03-21",
@@ -38,6 +31,13 @@
       "date": "2026-03-21",
       "pv_matchid": "PV-chinese_super_league--1183103131",
       "commitment_hash": "88470d0ca7f997765e7f40954fb08fbb5d2a5db6faf9211d8c127d0f106fe447"
+    },
+    {
+      "match": "Henan FC vs Wuhan Three Towns",
+      "league": "Chinese Super League",
+      "date": "2026-03-21",
+      "pv_matchid": "PV-chinese_super_league--1855822025",
+      "commitment_hash": "223548e0af5b220ffd1b4c05a8f139b504c33180e04c0b34ce404854ea00505e"
     },
     {
       "match": "Fagiano Okayama FC vs V-Varen Nagasaki",
@@ -68,18 +68,18 @@
       "commitment_hash": "59fca533fc96ad28cb7f76ee2b6976d3855eb078f3ae63a6b628018861f7537c"
     },
     {
+      "match": "Cerezo Osaka vs Vissel Kobe",
+      "league": "J.League",
+      "date": "2026-03-22",
+      "pv_matchid": "PV-j_league-19630382",
+      "commitment_hash": "30b5fd36fb045e0fff40c83c19b0299e48508b9445719af54bbfeb2e423af6ce"
+    },
+    {
       "match": "Kyoto Sanga FC vs Nagoya Grampus",
       "league": "J.League",
       "date": "2026-03-22",
       "pv_matchid": "PV-j_league-19630383",
       "commitment_hash": "8a4cb2fe002a33571ab1558faaff37414bc477e1b5d318e8f9f2dba98d888037"
-    },
-    {
-      "match": "Kashima Antlers vs JEF United",
-      "league": "J.League",
-      "date": "2026-03-22",
-      "pv_matchid": "PV-j_league-19630388",
-      "commitment_hash": "54ba8a277908e58d9210b79b1653a08527ac422948d31e6a79416f8f79ac1fc5"
     },
     {
       "match": "Kawasaki Frontale vs Yokohama F.Marinos",
@@ -89,11 +89,11 @@
       "commitment_hash": "393c233fe1349ecd700f9fa6c57359f9006f19bad39518f9b79515795ebde207"
     },
     {
-      "match": "Cerezo Osaka vs Vissel Kobe",
+      "match": "Kashima Antlers vs JEF United",
       "league": "J.League",
       "date": "2026-03-22",
-      "pv_matchid": "PV-j_league-19630382",
-      "commitment_hash": "30b5fd36fb045e0fff40c83c19b0299e48508b9445719af54bbfeb2e423af6ce"
+      "pv_matchid": "PV-j_league-19630388",
+      "commitment_hash": "54ba8a277908e58d9210b79b1653a08527ac422948d31e6a79416f8f79ac1fc5"
     },
     {
       "match": "Ulsan Hyundai FC vs Sangju Sangmu FC",
