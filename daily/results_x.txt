@@ -1,34 +1,5 @@
-Veri Asia | Results Mar 18
-9 plays | 4W 3L 2P | P/L: +1.08u
+Veri Asia | Results Mar 19
+
+No locked plays settled today.
+
 @sbobet @pinnacle @betinasia
-
-❌ Cerezo Osaka 1-2 Fagiano Okayama FC
-   AH +0.0 | HOME @ 1.50 → -1.00u
-
-✅ Mito Hollyhock 1-0 Yokohama F. Marinos
-   AH +0.0 | HOME @ 1.83 → +0.83u
-
-✅ Nagoya Grampus 2-1 Sanfrecce Hiroshima
-   AH +0.0 | HOME @ 2.33 → +1.33u
-
-❌ Tokyo Verdy 0-2 Kawasaki Frontale
-   AH +0.0 | HOME @ 2.49 → -1.00u
-
-➖ Urawa Red Diamonds 1-1 Kashiwa Reysol
-   AH +0.0 | HOME @ 2.18 → +0.00u
-
-➖ Vissel Kobe 2-2 Gamba Osaka
-   AH +0.0 | HOME @ 1.39 → +0.00u
-
-❌ V-Varen Nagasaki 1-2 Kyoto Sanga
-   AH +0.0 | HOME @ 2.10 → -1.00u
-
-✅ Incheon United 1-3 Daejeon Hana Citizen
-   AH +0.0 | AWAY @ 2.15 → +1.15u
-
-✅ Pohang Steelers 0-1 Seoul FC
-   AH +0.0 | AWAY @ 1.77 → +0.77u
-
-Season: 10P 5W 3L | P/L: +2.38u | ROI: +23.8%
-
-SHA-256 committed | github.com/veriasia/ledger
