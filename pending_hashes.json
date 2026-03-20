@@ -1,9 +1,16 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-03-20T13:19:35Z",
-  "n_pending_locks": 13,
+  "published_at": "2026-03-20T14:54:19Z",
+  "n_pending_locks": 14,
   "commitments": [
+    {
+      "match": "Auckland FC vs Macarthur FC",
+      "league": "A-League",
+      "date": "2026-03-21",
+      "pv_matchid": "PV-a_league-19577492",
+      "commitment_hash": "1bb05d116a9a2ea44f6d3dec5c4f31f7d05d7616bfb0e58e2ac2d57110edfaa0"
+    },
     {
       "match": "Melbourne Victory vs Central Coast Mariners",
       "league": "A-League",
@@ -12,18 +19,18 @@
       "commitment_hash": "43f1ebf26d7be6bd2ff9a1f7402771c2df367db2b45e7530fc00f4e35306f327"
     },
     {
-      "match": "Yunnan Yukun vs Shandong Taishan",
-      "league": "Chinese Super League",
-      "date": "2026-03-21",
-      "pv_matchid": "PV-chinese_super_league-19674794",
-      "commitment_hash": "e173d257598003275b47f1a8e5673ae9b45d8e3cee8c855cb51c39d3a58a4b03"
-    },
-    {
       "match": "Beijing Guoan vs Shanghai Shenhua FC",
       "league": "Chinese Super League",
       "date": "2026-03-21",
       "pv_matchid": "PV-chinese_super_league-19674799",
       "commitment_hash": "f7fc6ffa50b21a7008a2e8e7398feaccd8422c973e2c003e23ddf78362cfe25e"
+    },
+    {
+      "match": "Yunnan Yukun vs Shandong Taishan",
+      "league": "Chinese Super League",
+      "date": "2026-03-21",
+      "pv_matchid": "PV-chinese_super_league-19674794",
+      "commitment_hash": "e173d257598003275b47f1a8e5673ae9b45d8e3cee8c855cb51c39d3a58a4b03"
     },
     {
       "match": "Avispa Fukuoka vs Gamba Osaka",
