@@ -1,8 +1,8 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-03-20T22:23:42Z",
-  "n_pending_locks": 14,
+  "published_at": "2026-03-20T23:50:18Z",
+  "n_pending_locks": 15,
   "commitments": [
     {
       "match": "Auckland FC vs Macarthur FC",
@@ -26,6 +26,13 @@
       "commitment_hash": "f7fc6ffa50b21a7008a2e8e7398feaccd8422c973e2c003e23ddf78362cfe25e"
     },
     {
+      "match": "Henan Songshan Longmen vs Wuhan Three Towns",
+      "league": "Chinese Super League",
+      "date": "2026-03-21",
+      "pv_matchid": "PV-chinese_super_league-19674797",
+      "commitment_hash": "7222791e938cfe7be6af530579804d9a2fd8956f88738cafc040df0b1b3b824d"
+    },
+    {
       "match": "Yunnan Yukun vs Shandong Taishan",
       "league": "Chinese Super League",
       "date": "2026-03-21",
@@ -33,18 +40,18 @@
       "commitment_hash": "e173d257598003275b47f1a8e5673ae9b45d8e3cee8c855cb51c39d3a58a4b03"
     },
     {
-      "match": "Avispa Fukuoka vs Gamba Osaka",
-      "league": "J.League",
-      "date": "2026-03-21",
-      "pv_matchid": "PV-j_league-19630380",
-      "commitment_hash": "b56381122edc2283dba067325d8b52eb75c6fd5a57c86b5ae1a15da752037e4f"
-    },
-    {
       "match": "Fagiano Okayama FC vs V-Varen Nagasaki",
       "league": "J.League",
       "date": "2026-03-21",
       "pv_matchid": "PV-j_league-19630381",
       "commitment_hash": "fc06a66a9636b1991402b60054a1c67b3cf44af0cebe4bf5bb7e49d9b0a62a05"
+    },
+    {
+      "match": "Avispa Fukuoka vs Gamba Osaka",
+      "league": "J.League",
+      "date": "2026-03-21",
+      "pv_matchid": "PV-j_league-19630380",
+      "commitment_hash": "b56381122edc2283dba067325d8b52eb75c6fd5a57c86b5ae1a15da752037e4f"
     },
     {
       "match": "Daejeon Hana Citizen vs Jeonbuk Motors",
@@ -61,13 +68,6 @@
       "commitment_hash": "30b5fd36fb045e0fff40c83c19b0299e48508b9445719af54bbfeb2e423af6ce"
     },
     {
-      "match": "Urawa Red Diamonds vs Machida Zelvia",
-      "league": "J.League",
-      "date": "2026-03-22",
-      "pv_matchid": "PV-j_league-19630387",
-      "commitment_hash": "59fca533fc96ad28cb7f76ee2b6976d3855eb078f3ae63a6b628018861f7537c"
-    },
-    {
       "match": "Tokyo Verdy vs FC Tokyo",
       "league": "J.League",
       "date": "2026-03-22",
@@ -80,6 +80,13 @@
       "date": "2026-03-22",
       "pv_matchid": "PV-j_league-19630379",
       "commitment_hash": "0bda1f22762657f73c4fbc1a8648fe3d8e4c574a1e1af222731e3596935e071a"
+    },
+    {
+      "match": "Urawa Red Diamonds vs Machida Zelvia",
+      "league": "J.League",
+      "date": "2026-03-22",
+      "pv_matchid": "PV-j_league-19630387",
+      "commitment_hash": "59fca533fc96ad28cb7f76ee2b6976d3855eb078f3ae63a6b628018861f7537c"
     },
     {
       "match": "Kyoto Sanga FC vs Nagoya Grampus",
