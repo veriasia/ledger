@@ -12,7 +12,7 @@
       "Saudi Pro League",
       "Chinese Super League"
     ],
-    "updated_at": "2026-03-20T22:25:10Z",
+    "updated_at": "2026-03-20T22:28:44Z",
     "source": "https://github.com/veriasia/engine",
     "methodology": "Four-pillar performance rating (Finishing, Creation, Progression, Defensive) with per-league optimised pillar weights, logistic probability model, and market SP blending. Walk-forward backtest with no data leakage."
   },
@@ -22,13 +22,17 @@
       "bss_vs_pinnacle_sp_pct": 1.0573,
       "n_matches": 1708,
       "model_brier": 0.208049,
-      "market_brier": 0.210272
+      "market_brier": 0.210272,
+      "bss_this_month_pct": 0.8584,
+      "n_matches_month": 32
     },
     "by_league": {
       "a_league": {
         "league_name": "A-League",
         "bss_vs_pinnacle_sp_pct": 1.5256,
         "n_sp_matches": 342,
+        "bss_this_month_pct": 2.7751,
+        "n_sp_matches_month": 6,
         "bss_vs_naive_pct": 7.7312,
         "n_naive_matches": 378
       },
@@ -36,6 +40,8 @@
         "league_name": "J.League",
         "bss_vs_pinnacle_sp_pct": 0.3824,
         "n_sp_matches": 683,
+        "bss_this_month_pct": 0.5309,
+        "n_sp_matches_month": 17,
         "bss_vs_naive_pct": 8.0179,
         "n_naive_matches": 784
       },
@@ -43,6 +49,8 @@
         "league_name": "K-League 1",
         "bss_vs_pinnacle_sp_pct": 0.6819,
         "n_sp_matches": 284,
+        "bss_this_month_pct": 7.3794,
+        "n_sp_matches_month": 2,
         "bss_vs_naive_pct": 2.3905,
         "n_naive_matches": 481
       },
@@ -50,6 +58,8 @@
         "league_name": "Saudi Pro League",
         "bss_vs_pinnacle_sp_pct": 7.5612,
         "n_sp_matches": 51,
+        "bss_this_month_pct": null,
+        "n_sp_matches_month": 0,
         "bss_vs_naive_pct": 23.9161,
         "n_naive_matches": 696
       },
@@ -57,6 +67,8 @@
         "league_name": "Chinese Super League",
         "bss_vs_pinnacle_sp_pct": 1.9066,
         "n_sp_matches": 348,
+        "bss_this_month_pct": -4.0514,
+        "n_sp_matches_month": 7,
         "bss_vs_naive_pct": 40.3623,
         "n_naive_matches": 355
       }

@@ -2,7 +2,7 @@
 
 > **The gold standard for match probability in Asian football.**
 
-> **Last updated:** 2026-03-20 22:25 UTC
+> **Last updated:** 2026-03-20 22:28 UTC
 > **Model:** PV10 v7 Unified | **Markets:** DNB (Draw No Bet, AH 0.0)
 > **Leagues:** A-League, J-League, K-League 1, Saudi Pro League, Chinese Super League
 
@@ -14,14 +14,14 @@ The [Brier Skill Score (BSS)](https://en.wikipedia.org/wiki/Brier_score) measure
 
 Computed via walk-forward backtest (no data leakage) on all non-draw DNB (AH 0.0) matches with Pinnacle SP available.
 
-| League | Matches | BSS vs Pinnacle | Status |
-|--------|---------|-----------------|--------|
-| A-League | 342 | +1.53% | BEATING |
-| J.League | 683 | +0.38% | BEATING |
-| K-League 1 | 284 | +0.68% | BEATING |
-| Saudi Pro League | 51 | +7.56% | BEATING |
-| Chinese Super League | 348 | +1.91% | BEATING |
-| **ALL LEAGUES** | **1,708** | **+1.06%** | **BEATING** |
+| League | Matches | BSS vs Pinnacle | Mar 2026 | Status |
+|--------|---------|-----------------|----------|--------|
+| A-League | 342 | +1.53% | +2.78% (6) | BEATING |
+| J.League | 683 | +0.38% | +0.53% (17) | BEATING |
+| K-League 1 | 284 | +0.68% | +7.38% (2) | BEATING |
+| Saudi Pro League | 51 | +7.56% | — | BEATING |
+| Chinese Super League | 348 | +1.91% | -4.05% (7) | BEATING |
+| **ALL LEAGUES** | **1,708** | **+1.06%** | **+0.86% (32)** | **BEATING** |
 
 > *1,708 matches evaluated. Walk-forward backtest using optimised per-league parameters.*
 
