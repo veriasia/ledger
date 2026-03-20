@@ -1,7 +1,7 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-03-20T14:54:19Z",
+  "published_at": "2026-03-20T16:57:11Z",
   "n_pending_locks": 14,
   "commitments": [
     {
@@ -54,11 +54,11 @@
       "commitment_hash": "87667a0c9a753a3726b7321f53fe68d8998704bbe8cbe53f80d8e1630bd938b9"
     },
     {
-      "match": "Cerezo Osaka vs Vissel Kobe",
+      "match": "Kyoto Sanga FC vs Nagoya Grampus",
       "league": "J.League",
       "date": "2026-03-22",
-      "pv_matchid": "PV-j_league-19630382",
-      "commitment_hash": "30b5fd36fb045e0fff40c83c19b0299e48508b9445719af54bbfeb2e423af6ce"
+      "pv_matchid": "PV-j_league-19630383",
+      "commitment_hash": "8a4cb2fe002a33571ab1558faaff37414bc477e1b5d318e8f9f2dba98d888037"
     },
     {
       "match": "Urawa Red Diamonds vs Machida Zelvia",
@@ -68,11 +68,11 @@
       "commitment_hash": "59fca533fc96ad28cb7f76ee2b6976d3855eb078f3ae63a6b628018861f7537c"
     },
     {
-      "match": "Tokyo Verdy vs FC Tokyo",
+      "match": "Cerezo Osaka vs Vissel Kobe",
       "league": "J.League",
       "date": "2026-03-22",
-      "pv_matchid": "PV-j_league-19630385",
-      "commitment_hash": "503345ccbbb3898ef3e2246dcfa045255e899803f61091b1d7cc73b78f2e07bb"
+      "pv_matchid": "PV-j_league-19630382",
+      "commitment_hash": "30b5fd36fb045e0fff40c83c19b0299e48508b9445719af54bbfeb2e423af6ce"
     },
     {
       "match": "Kawasaki Frontale vs Yokohama F.Marinos",
@@ -82,11 +82,11 @@
       "commitment_hash": "0bda1f22762657f73c4fbc1a8648fe3d8e4c574a1e1af222731e3596935e071a"
     },
     {
-      "match": "Kyoto Sanga FC vs Nagoya Grampus",
+      "match": "Tokyo Verdy vs FC Tokyo",
       "league": "J.League",
       "date": "2026-03-22",
-      "pv_matchid": "PV-j_league-19630383",
-      "commitment_hash": "8a4cb2fe002a33571ab1558faaff37414bc477e1b5d318e8f9f2dba98d888037"
+      "pv_matchid": "PV-j_league-19630385",
+      "commitment_hash": "503345ccbbb3898ef3e2246dcfa045255e899803f61091b1d7cc73b78f2e07bb"
     },
     {
       "match": "Kashima Antlers vs JEF United",
