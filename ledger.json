@@ -12,38 +12,38 @@
       "Saudi Pro League",
       "Chinese Super League"
     ],
-    "updated_at": "2026-03-20T21:55:50Z",
+    "updated_at": "2026-03-20T22:19:08Z",
     "source": "https://github.com/veriasia/engine",
     "methodology": "Four-pillar performance rating (Finishing, Creation, Progression, Defensive) with per-league optimised pillar weights, logistic probability model, and market SP blending. Walk-forward backtest with no data leakage."
   },
   "model_accuracy": {
     "description": "Brier Skill Score (BSS) vs Pinnacle starting prices. Positive = model beats the market.",
     "overall": {
-      "bss_vs_pinnacle_sp_pct": 1.0686,
-      "n_matches": 1682,
-      "model_brier": 0.207558,
-      "market_brier": 0.209799
+      "bss_vs_pinnacle_sp_pct": 1.0573,
+      "n_matches": 1708,
+      "model_brier": 0.208049,
+      "market_brier": 0.210272
     },
     "by_league": {
       "a_league": {
         "league_name": "A-League",
-        "bss_vs_pinnacle_sp_pct": 1.5047,
-        "n_sp_matches": 336,
-        "bss_vs_naive_pct": 7.6785,
+        "bss_vs_pinnacle_sp_pct": 1.5256,
+        "n_sp_matches": 342,
+        "bss_vs_naive_pct": 7.7312,
         "n_naive_matches": 378
       },
       "j_league": {
         "league_name": "J.League",
-        "bss_vs_pinnacle_sp_pct": 0.3785,
-        "n_sp_matches": 666,
-        "bss_vs_naive_pct": 7.9229,
+        "bss_vs_pinnacle_sp_pct": 0.3824,
+        "n_sp_matches": 683,
+        "bss_vs_naive_pct": 8.0179,
         "n_naive_matches": 784
       },
       "k_league": {
         "league_name": "K-League 1",
-        "bss_vs_pinnacle_sp_pct": 0.6237,
-        "n_sp_matches": 282,
-        "bss_vs_naive_pct": 2.5479,
+        "bss_vs_pinnacle_sp_pct": 0.6819,
+        "n_sp_matches": 284,
+        "bss_vs_naive_pct": 2.3905,
         "n_naive_matches": 481
       },
       "saudi_pro_league": {
@@ -55,9 +55,9 @@
       },
       "chinese_super_league": {
         "league_name": "Chinese Super League",
-        "bss_vs_pinnacle_sp_pct": 2.058,
-        "n_sp_matches": 347,
-        "bss_vs_naive_pct": 40.2706,
+        "bss_vs_pinnacle_sp_pct": 1.9066,
+        "n_sp_matches": 348,
+        "bss_vs_naive_pct": 40.3623,
         "n_naive_matches": 355
       }
     }

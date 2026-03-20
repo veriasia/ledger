@@ -2,7 +2,7 @@
 
 > **The gold standard for match probability in Asian football.**
 
-> **Last updated:** 2026-03-20 21:55 UTC
+> **Last updated:** 2026-03-20 22:19 UTC
 > **Model:** PV10 v7 Unified | **Markets:** DNB (Draw No Bet, AH 0.0)
 > **Leagues:** A-League, J-League, K-League 1, Saudi Pro League, Chinese Super League
 
@@ -16,14 +16,14 @@ Computed via walk-forward backtest (no data leakage) on all non-draw DNB (AH 0.0
 
 | League | Matches | BSS vs Pinnacle | Status |
 |--------|---------|-----------------|--------|
-| A-League | 336 | +1.50% | BEATING |
-| J.League | 666 | +0.38% | BEATING |
-| K-League 1 | 282 | +0.62% | BEATING |
+| A-League | 342 | +1.53% | BEATING |
+| J.League | 683 | +0.38% | BEATING |
+| K-League 1 | 284 | +0.68% | BEATING |
 | Saudi Pro League | 51 | +7.56% | BEATING |
-| Chinese Super League | 347 | +2.06% | BEATING |
-| **ALL LEAGUES** | **1,682** | **+1.07%** | **BEATING** |
+| Chinese Super League | 348 | +1.91% | BEATING |
+| **ALL LEAGUES** | **1,708** | **+1.06%** | **BEATING** |
 
-> *1,682 matches evaluated. Walk-forward backtest using optimised per-league parameters.*
+> *1,708 matches evaluated. Walk-forward backtest using optimised per-league parameters.*
 
 ---
 
