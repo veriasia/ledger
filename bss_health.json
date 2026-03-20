@@ -1,12 +1,12 @@
 {
-  "checked_at": "2026-03-20T20:45:38Z",
+  "checked_at": "2026-03-20T21:44:22Z",
   "status": "healthy",
-  "overall_bss_vs_sp_pct": 1.0688,
+  "overall_bss_vs_sp_pct": 1.0686,
   "all_leagues_positive": true,
   "leagues_negative": [],
   "by_league": {
     "a_league": {
-      "bss_vs_sp_pct": 1.5046,
+      "bss_vs_sp_pct": 1.5047,
       "n_sp_matches": 336
     },
     "j_league": {
@@ -18,7 +18,7 @@
       "n_sp_matches": 282
     },
     "saudi_pro_league": {
-      "bss_vs_sp_pct": 7.5741,
+      "bss_vs_sp_pct": 7.5612,
       "n_sp_matches": 51
     },
     "chinese_super_league": {
