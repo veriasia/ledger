@@ -6,12 +6,12 @@
 
 ---
 
-## Today's Fixtures (2 matches, 1 locked plays — 1 free)
+## Today's Fixtures (2 matches, 0 locked plays — 1 free)
 
-### Chinese Super League (2 matches, 1 locks)
+### Chinese Super League (2 matches, 0 locks)
 
-**Dalian Yingbo vs Shanghai SIPG FC** — Fair: 2.25 / 1.80 | Pin: 2.43 / 1.60
-- � **FREE PICK — HOME @ 2.56** (edge 7.6%)
+Dalian Yingbo vs Shanghai Port
+- No lock (below threshold)
 
 Qingdao Hainiu FC vs Zhejiang
 - No lock (below threshold)

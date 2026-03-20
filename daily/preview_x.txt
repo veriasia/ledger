@@ -1,10 +1,9 @@
 Veri Asia | Matchday Mar 20
-2 fixtures | 1 locked plays
+2 fixtures | 0 locked plays
 @sbobet @pinnacle @betinasia
-@aleaguemen @J_League_En @kleague @CSL_China @SaudiProLeague_EN
+@aleaguemen @J_League_En @kleague @CSL_China @SPL
+veriasia.io
 
-Chinese Super League:
-Dalian Yingbo v Shanghai SIPG FC
-AH +0.0 | HOME @ 2.56 (edge 7.6%)
+No plays above threshold today.
 
 SHA-256 committed | github.com/veriasia/ledger
