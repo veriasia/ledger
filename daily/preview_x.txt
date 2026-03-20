@@ -1,9 +1,5 @@
-Veri Asia | Matchday Mar 20
-2 fixtures | 0 locked plays
-@sbobet @pinnacle @betinasia
-@aleaguemen @J_League_En @kleague @CSL_China @SPL
-veriasia.io
+Veri Asia | Mar 20
 
-No plays above threshold today.
+No matches today across our Asian leagues.
 
-SHA-256 committed | github.com/veriasia/ledger
+PV10 v7 | DNB (AH 0.0)
