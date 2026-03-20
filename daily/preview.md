@@ -6,16 +6,11 @@
 
 ---
 
-## Today's Fixtures (3 matches, 1 locked plays — 1 free)
-
-### A-League (1 matches, 0 locks)
-
-Western Sydney Wanderers vs Adelaide United
-- No lock (below threshold)
+## Today's Fixtures (2 matches, 1 locked plays — 1 free)
 
 ### Chinese Super League (2 matches, 1 locks)
 
-**Dalian Yingbo vs Shanghai SIPG FC** — Fair: 2.21 / 1.83 | Pin: 2.37 / 1.62
+**Dalian Yingbo vs Shanghai SIPG FC** — Fair: 2.25 / 1.80 | Pin: 2.43 / 1.60
 - � **FREE PICK — HOME @ 2.56** (edge 7.6%)
 
 Qingdao Hainiu FC vs Zhejiang
