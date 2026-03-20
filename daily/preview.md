@@ -15,7 +15,7 @@ Western Sydney Wanderers vs Adelaide United
 
 ### Chinese Super League (2 matches, 1 locks)
 
-**Dalian Yingbo vs Shanghai SIPG FC** — Fair: 2.54 / 1.65 | Pin: 2.76 / 1.48
+**Dalian Yingbo vs Shanghai SIPG FC** — Fair: 2.21 / 1.83 | Pin: 2.37 / 1.62
 - � **FREE PICK — HOME @ 2.56** (edge 7.6%)
 
 Qingdao Hainiu FC vs Zhejiang
