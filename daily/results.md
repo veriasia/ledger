@@ -1,25 +1,12 @@
 # Veri Asia — Matchday Results
 
-### Friday, March 20 2026
+### Saturday, March 21 2026
 
 > PV10 v7 Unified | DNB (AH 0.0) | Pinnacle benchmark
 
 ---
 
 ## Day Summary: 0 locked plays | 0W 0L 0P | P/L: +0.00u
-
-### A-League
-
-Western Sydney Wanderers 2-4 Adelaide United
-- No lock
-
-### Chinese Super League
-
-Dalian Yingbo 1-0 Shanghai Port
-- No lock
-
-Qingdao Hainiu 1-4 Zhejiang
-- No lock
 
 ---
 
