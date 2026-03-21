@@ -1,22 +1,22 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-03-21T21:19:46Z",
-  "n_pending_locks": 11,
+  "published_at": "2026-03-21T21:41:07Z",
+  "n_pending_locks": 10,
   "commitments": [
-    {
-      "match": "Yunnan Yukun vs Shandong Taishan",
-      "league": "Chinese Super League",
-      "date": "2026-03-21",
-      "pv_matchid": "PV-chinese_super_league-19674794",
-      "commitment_hash": "e173d257598003275b47f1a8e5673ae9b45d8e3cee8c855cb51c39d3a58a4b03"
-    },
     {
       "match": "Sydney FC vs Newcastle United Jets",
       "league": "A-League",
       "date": "2026-03-22",
       "pv_matchid": "PV-a_league-19577494",
       "commitment_hash": "345d5fede5d1003759bcda152ab76f8b9a34ef276333df8930d455991df83fa8"
+    },
+    {
+      "match": "Kashima Antlers vs JEF United",
+      "league": "J.League",
+      "date": "2026-03-22",
+      "pv_matchid": "PV-j_league-19630388",
+      "commitment_hash": "eb70a6ad36bd20ccd62fc17da7e25482b734f9a5cd2b388be3aa4aaeeacf2546"
     },
     {
       "match": "Tokyo Verdy vs FC Tokyo",
@@ -52,13 +52,6 @@
       "date": "2026-03-22",
       "pv_matchid": "PV-j_league-19630387",
       "commitment_hash": "59fca533fc96ad28cb7f76ee2b6976d3855eb078f3ae63a6b628018861f7537c"
-    },
-    {
-      "match": "Kashima Antlers vs JEF United",
-      "league": "J.League",
-      "date": "2026-03-22",
-      "pv_matchid": "PV-j_league-19630388",
-      "commitment_hash": "eb70a6ad36bd20ccd62fc17da7e25482b734f9a5cd2b388be3aa4aaeeacf2546"
     },
     {
       "match": "Ulsan Hyundai FC vs Gimcheon Sangmu",
