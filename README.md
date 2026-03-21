@@ -2,7 +2,7 @@
 
 > **The gold standard for match probability in Asian football.**
 
-> **Last updated:** 2026-03-21 11:51 UTC
+> **Last updated:** 2026-03-21 13:17 UTC
 > **Model:** PV10 v7 Unified | **Markets:** DNB (Draw No Bet, AH 0.0)
 > **Leagues:** A-League, J-League, K-League 1, Saudi Pro League, Chinese Super League
 
@@ -66,8 +66,8 @@ CLV measures whether our locked prices beat Pinnacle's closing line — consiste
 | 2026-03-18 | J.League | Nagoya Grampus vs Sanfrecce Hiroshima | home | 2.33 | 2.84 | -18.0% | W | +1.33 |
 | 2026-03-18 | J.League | Cerezo Osaka vs Fagiano Okayama FC | home | 1.50 | 1.51 | -0.7% | L | -1.00 |
 | 2026-03-18 | J.League | Vissel Kobe vs Gamba Osaka | home | 1.39 | 1.41 | -1.4% | P | +0.00 |
-| 2026-03-18 | K-League 1 | Incheon United vs Daejeon Hana Citizen | away | 2.15 | 2.12 | +1.4% | W | +1.15 |
 | 2026-03-18 | K-League 1 | Pohang Steelers vs Seoul FC | away | 1.77 | 1.75 | +1.1% | W | +0.77 |
+| 2026-03-18 | K-League 1 | Incheon United vs Daejeon Hana Citizen | away | 2.15 | 2.12 | +1.4% | W | +1.15 |
 
 Full play-by-play history: [`plays.csv`](plays.csv) | Machine-readable: [`ledger.json`](ledger.json)
 
