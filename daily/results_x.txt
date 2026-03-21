@@ -1,6 +1,35 @@
 Matchday Mar 21 | veriasia.io
-
-No locked plays settled today.
-
+9 plays | 3W 3L 3P | P/L: -0.25u
 @sbobet @pinnacle @betinasia
 @aleaguemen @J_League_En @kleague
+
+❌ Auckland 1-2 Macarthur
+   AH +0.0 | HOME @ 1.31 → -1.00u
+
+✅ Melbourne Victory 4-1 Central Coast Mariners
+   AH +0.0 | HOME @ 1.21 → +0.21u
+
+➖ Beijing Guoan 1-1 Shanghai Shenhua
+   AH +0.0 | AWAY @ 2.24 → +0.00u
+
+➖ Henan Songshan Longmen 1-1 Wuhan Three Towns
+   AH +0.0 | HOME @ 1.22 → +0.00u
+
+❌ Qingdao West Coast 1-0 Shenzhen Peng City
+   AH +0.0 | AWAY @ 2.29 → -1.00u
+
+✅ Yunnan Yukun 4-0 Shandong Taishan
+   AH +0.0 | HOME @ 2.73 → +1.73u
+
+➖ Avispa Fukuoka 2-2 Gamba Osaka
+   AH +0.0 | HOME @ 2.38 → +0.00u
+
+❌ Fagiano Okayama FC 0-1 V-Varen Nagasaki
+   AH +0.0 | HOME @ 1.62 → -1.00u
+
+✅ Daejeon Hana Citizen 0-1 Jeonbuk Motors
+   AH +0.0 | AWAY @ 1.81 → +0.81u
+
+Season: 19P 8W 6L | P/L: +2.13u | ROI: +11.2%
+
+SHA-256 committed | github.com/veriasia/ledger
