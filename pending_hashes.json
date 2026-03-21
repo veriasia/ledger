@@ -1,7 +1,7 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-03-21T08:55:44Z",
+  "published_at": "2026-03-21T09:52:58Z",
   "n_pending_locks": 12,
   "commitments": [
     {
@@ -33,11 +33,11 @@
       "commitment_hash": "345d5fede5d1003759bcda152ab76f8b9a34ef276333df8930d455991df83fa8"
     },
     {
-      "match": "Tokyo Verdy vs FC Tokyo",
+      "match": "Cerezo Osaka vs Vissel Kobe",
       "league": "J.League",
       "date": "2026-03-22",
-      "pv_matchid": "PV-j_league-19630385",
-      "commitment_hash": "503345ccbbb3898ef3e2246dcfa045255e899803f61091b1d7cc73b78f2e07bb"
+      "pv_matchid": "PV-j_league-19630382",
+      "commitment_hash": "30b5fd36fb045e0fff40c83c19b0299e48508b9445719af54bbfeb2e423af6ce"
     },
     {
       "match": "Kawasaki Frontale vs Yokohama F.Marinos",
@@ -54,18 +54,18 @@
       "commitment_hash": "59fca533fc96ad28cb7f76ee2b6976d3855eb078f3ae63a6b628018861f7537c"
     },
     {
+      "match": "Tokyo Verdy vs FC Tokyo",
+      "league": "J.League",
+      "date": "2026-03-22",
+      "pv_matchid": "PV-j_league-19630385",
+      "commitment_hash": "503345ccbbb3898ef3e2246dcfa045255e899803f61091b1d7cc73b78f2e07bb"
+    },
+    {
       "match": "Kashima Antlers vs JEF United",
       "league": "J.League",
       "date": "2026-03-22",
       "pv_matchid": "PV-j_league-19630388",
       "commitment_hash": "eb70a6ad36bd20ccd62fc17da7e25482b734f9a5cd2b388be3aa4aaeeacf2546"
-    },
-    {
-      "match": "Cerezo Osaka vs Vissel Kobe",
-      "league": "J.League",
-      "date": "2026-03-22",
-      "pv_matchid": "PV-j_league-19630382",
-      "commitment_hash": "30b5fd36fb045e0fff40c83c19b0299e48508b9445719af54bbfeb2e423af6ce"
     },
     {
       "match": "Kyoto Sanga FC vs Nagoya Grampus",
