@@ -1,7 +1,7 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-03-21T21:41:07Z",
+  "published_at": "2026-03-21T21:45:27Z",
   "n_pending_locks": 10,
   "commitments": [
     {
@@ -10,13 +10,6 @@
       "date": "2026-03-22",
       "pv_matchid": "PV-a_league-19577494",
       "commitment_hash": "345d5fede5d1003759bcda152ab76f8b9a34ef276333df8930d455991df83fa8"
-    },
-    {
-      "match": "Kashima Antlers vs JEF United",
-      "league": "J.League",
-      "date": "2026-03-22",
-      "pv_matchid": "PV-j_league-19630388",
-      "commitment_hash": "eb70a6ad36bd20ccd62fc17da7e25482b734f9a5cd2b388be3aa4aaeeacf2546"
     },
     {
       "match": "Tokyo Verdy vs FC Tokyo",
@@ -33,6 +26,13 @@
       "commitment_hash": "8a4cb2fe002a33571ab1558faaff37414bc477e1b5d318e8f9f2dba98d888037"
     },
     {
+      "match": "Urawa Red Diamonds vs Machida Zelvia",
+      "league": "J.League",
+      "date": "2026-03-22",
+      "pv_matchid": "PV-j_league-19630387",
+      "commitment_hash": "59fca533fc96ad28cb7f76ee2b6976d3855eb078f3ae63a6b628018861f7537c"
+    },
+    {
       "match": "Cerezo Osaka vs Vissel Kobe",
       "league": "J.League",
       "date": "2026-03-22",
@@ -47,18 +47,11 @@
       "commitment_hash": "0bda1f22762657f73c4fbc1a8648fe3d8e4c574a1e1af222731e3596935e071a"
     },
     {
-      "match": "Urawa Red Diamonds vs Machida Zelvia",
+      "match": "Kashima Antlers vs JEF United",
       "league": "J.League",
       "date": "2026-03-22",
-      "pv_matchid": "PV-j_league-19630387",
-      "commitment_hash": "59fca533fc96ad28cb7f76ee2b6976d3855eb078f3ae63a6b628018861f7537c"
-    },
-    {
-      "match": "Ulsan Hyundai FC vs Gimcheon Sangmu",
-      "league": "K-League 1",
-      "date": "2026-03-22",
-      "pv_matchid": "PV-k_league-19648206",
-      "commitment_hash": "134a49f4794a75ac7e20b0bf7fbfbc424134c7bb8cb8a90a8b67cc045d3a9e78"
+      "pv_matchid": "PV-j_league-19630388",
+      "commitment_hash": "eb70a6ad36bd20ccd62fc17da7e25482b734f9a5cd2b388be3aa4aaeeacf2546"
     },
     {
       "match": "Gangwon FC vs Jeju United FC",
@@ -66,6 +59,13 @@
       "date": "2026-03-22",
       "pv_matchid": "PV-k_league-19648204",
       "commitment_hash": "3b2ebd8cfe79a849e658005fbfd17b882fbd6efda42cdd4465f76f006339a03c"
+    },
+    {
+      "match": "Ulsan Hyundai FC vs Gimcheon Sangmu",
+      "league": "K-League 1",
+      "date": "2026-03-22",
+      "pv_matchid": "PV-k_league-19648206",
+      "commitment_hash": "134a49f4794a75ac7e20b0bf7fbfbc424134c7bb8cb8a90a8b67cc045d3a9e78"
     },
     {
       "match": "Seoul FC vs Gwangju FC",
