@@ -1,17 +1,13 @@
 Veri Asia | Matchday Mar 21
-11 fixtures | 8 locked plays
+6 fixtures | 4 locked plays
 @sbobet @pinnacle @betinasia
 @aleaguemen @J_League_En @kleague @CSL_China @SPL
 veriasia.io
-
-A-League:
-Melbourne Victory v Central Coast Mariners
-AH +0.0 | HOME @ 1.21 (edge 5.2%)
 
 Chinese Super League:
 Beijing Guoan v Shanghai Shenhua FC
 AH +0.0 | AWAY @ 2.24 (edge 7.2%)
 
-+ 6 more locked plays
++ 3 more locked plays
 
 SHA-256 committed | github.com/veriasia/ledger
