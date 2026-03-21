@@ -12,47 +12,47 @@
       "Saudi Pro League",
       "Chinese Super League"
     ],
-    "updated_at": "2026-03-21T21:21:27Z",
+    "updated_at": "2026-03-21T21:42:47Z",
     "source": "https://github.com/veriasia/engine",
     "methodology": "Four-pillar performance rating (Finishing, Creation, Progression, Defensive) with per-league optimised pillar weights, logistic probability model, and market SP blending. Walk-forward backtest with no data leakage."
   },
   "model_accuracy": {
     "description": "Brier Skill Score (BSS) vs Pinnacle starting prices. Positive = model beats the market.",
     "overall": {
-      "bss_vs_pinnacle_sp_pct": 1.0573,
-      "n_matches": 1708,
-      "model_brier": 0.208049,
-      "market_brier": 0.210272,
-      "bss_this_month_pct": 0.8584,
-      "n_matches_month": 32
+      "bss_vs_pinnacle_sp_pct": 1.0711,
+      "n_matches": 1713,
+      "model_brier": 0.208289,
+      "market_brier": 0.210544,
+      "bss_this_month_pct": 1.4926,
+      "n_matches_month": 37
     },
     "by_league": {
       "a_league": {
         "league_name": "A-League",
-        "bss_vs_pinnacle_sp_pct": 1.5256,
-        "n_sp_matches": 342,
-        "bss_this_month_pct": 2.7751,
-        "n_sp_matches_month": 6,
-        "bss_vs_naive_pct": 7.7312,
-        "n_naive_matches": 378
+        "bss_vs_pinnacle_sp_pct": 1.5988,
+        "n_sp_matches": 344,
+        "bss_this_month_pct": 5.7733,
+        "n_sp_matches_month": 8,
+        "bss_vs_naive_pct": 7.603,
+        "n_naive_matches": 381
       },
       "j_league": {
         "league_name": "J.League",
-        "bss_vs_pinnacle_sp_pct": 0.3824,
-        "n_sp_matches": 683,
-        "bss_this_month_pct": 0.5309,
-        "n_sp_matches_month": 17,
-        "bss_vs_naive_pct": 8.0179,
-        "n_naive_matches": 784
+        "bss_vs_pinnacle_sp_pct": 0.3734,
+        "n_sp_matches": 684,
+        "bss_this_month_pct": 0.1943,
+        "n_sp_matches_month": 18,
+        "bss_vs_naive_pct": 7.959,
+        "n_naive_matches": 785
       },
       "k_league": {
         "league_name": "K-League 1",
-        "bss_vs_pinnacle_sp_pct": 0.6819,
-        "n_sp_matches": 284,
-        "bss_this_month_pct": 7.3794,
-        "n_sp_matches_month": 2,
-        "bss_vs_naive_pct": 2.3905,
-        "n_naive_matches": 481
+        "bss_vs_pinnacle_sp_pct": 0.7342,
+        "n_sp_matches": 285,
+        "bss_this_month_pct": 9.0676,
+        "n_sp_matches_month": 3,
+        "bss_vs_naive_pct": 2.3754,
+        "n_naive_matches": 482
       },
       "saudi_pro_league": {
         "league_name": "Saudi Pro League",
@@ -65,60 +65,69 @@
       },
       "chinese_super_league": {
         "league_name": "Chinese Super League",
-        "bss_vs_pinnacle_sp_pct": 1.9066,
-        "n_sp_matches": 348,
-        "bss_this_month_pct": -4.0514,
-        "n_sp_matches_month": 7,
-        "bss_vs_naive_pct": 40.3623,
-        "n_naive_matches": 355
+        "bss_vs_pinnacle_sp_pct": 1.8486,
+        "n_sp_matches": 349,
+        "bss_this_month_pct": -4.4116,
+        "n_sp_matches_month": 8,
+        "bss_vs_naive_pct": 39.9707,
+        "n_naive_matches": 357
       }
     }
   },
   "locked_plays": {
     "description": "Timestamped value plays locked pre-match. All plays verifiable against match_repo.",
     "summary": {
-      "total_plays": 10,
-      "wins": 5,
-      "losses": 3,
-      "pushes": 2,
-      "total_staked": 10.0,
-      "total_pl": 2.38,
-      "roi_pct": 23.8,
-      "avg_odds": 2.0
+      "total_plays": 19,
+      "wins": 8,
+      "losses": 6,
+      "pushes": 5,
+      "total_staked": 19.0,
+      "total_pl": 2.13,
+      "roi_pct": 11.21,
+      "avg_odds": 1.94
     },
     "by_league": {
       "A-League": {
-        "plays": 1,
-        "wins": 1,
-        "losses": 0,
+        "plays": 3,
+        "wins": 2,
+        "losses": 1,
         "pushes": 0,
-        "staked": 1.0,
-        "pl": 1.3,
-        "roi_pct": 130.0
+        "staked": 3.0,
+        "pl": 0.51,
+        "roi_pct": 17.0
       },
       "J.League": {
-        "plays": 7,
+        "plays": 9,
         "wins": 2,
-        "losses": 3,
-        "pushes": 2,
-        "staked": 7.0,
-        "pl": -0.84,
-        "roi_pct": -12.0
+        "losses": 4,
+        "pushes": 3,
+        "staked": 9.0,
+        "pl": -1.84,
+        "roi_pct": -20.44
       },
       "K-League 1": {
-        "plays": 2,
-        "wins": 2,
+        "plays": 3,
+        "wins": 3,
         "losses": 0,
         "pushes": 0,
-        "staked": 2.0,
-        "pl": 1.92,
-        "roi_pct": 96.0
+        "staked": 3.0,
+        "pl": 2.73,
+        "roi_pct": 91.0
+      },
+      "Chinese Super League": {
+        "plays": 4,
+        "wins": 1,
+        "losses": 1,
+        "pushes": 2,
+        "staked": 4.0,
+        "pl": 0.73,
+        "roi_pct": 18.25
       }
     },
     "clv": {
-      "n_plays_with_closing": 10,
-      "n_clv_positive": 4,
-      "avg_clv_pct": -2.32
+      "n_plays_with_closing": 19,
+      "n_clv_positive": 7,
+      "avg_clv_pct": -1.96
     },
     "plays": [
       {
@@ -154,36 +163,6 @@
       {
         "date": "2026-03-18",
         "league": "J.League",
-        "home": "Mito Hollyhock",
-        "away": "Yokohama F. Marinos",
-        "proposition": "home",
-        "locked_odds": 1.83,
-        "pinnacle_closing_odds": 1.71,
-        "clv_pct": 7.02,
-        "result": "profit",
-        "pl_units": 0.83,
-        "reasoning": "",
-        "commitment_cleartext": "PV-j_league-19630398|J.League|2026-03-18|Mito Hollyhock|Yokohama F. Marinos|home|1.83|3.98|2026-03-17 21:52:25.717482",
-        "commitment_hash": "f4e72168e1721bd5f59d92ba14fd3de80749579a539930a08c3bb2bf9cfb3857"
-      },
-      {
-        "date": "2026-03-18",
-        "league": "J.League",
-        "home": "Tokyo Verdy",
-        "away": "Kawasaki Frontale",
-        "proposition": "home",
-        "locked_odds": 2.49,
-        "pinnacle_closing_odds": 2.65,
-        "clv_pct": -6.04,
-        "result": "loss",
-        "pl_units": -1.0,
-        "reasoning": "",
-        "commitment_cleartext": "PV-j_league-19630395|J.League|2026-03-18|Tokyo Verdy|Kawasaki Frontale|home|2.49|5.51|2026-03-17 12:42:38.406926",
-        "commitment_hash": "de9b4898fd57211cb9b1a0013bde0fdf997742ed39f509e3874404b2abed905f"
-      },
-      {
-        "date": "2026-03-18",
-        "league": "J.League",
         "home": "Vissel Kobe",
         "away": "Gamba Osaka",
         "proposition": "home",
@@ -195,21 +174,6 @@
         "reasoning": "",
         "commitment_cleartext": "PV-j_league-19630391|J.League|2026-03-18|Vissel Kobe|Gamba Osaka|home|1.39|4.51|2026-03-17 12:42:37.896296",
         "commitment_hash": "2038fa7abfbb4750fb5e32d066f80942d98465abfc644d49b6c780d9bf9b62dd"
-      },
-      {
-        "date": "2026-03-18",
-        "league": "J.League",
-        "home": "Nagoya Grampus",
-        "away": "Sanfrecce Hiroshima",
-        "proposition": "home",
-        "locked_odds": 2.33,
-        "pinnacle_closing_odds": 2.84,
-        "clv_pct": -17.96,
-        "result": "profit",
-        "pl_units": 1.33,
-        "reasoning": "",
-        "commitment_cleartext": "PV-j_league-19630393|J.League|2026-03-18|Nagoya Grampus|Sanfrecce Hiroshima|home|2.33|3.10|2026-03-17 12:42:38.274894",
-        "commitment_hash": "f7b783a6c05d6f40e55a08a8b05743fe78e2ee8732d9709bfbc4d150ea30afd3"
       },
       {
         "date": "2026-03-18",
@@ -229,6 +193,36 @@
       {
         "date": "2026-03-18",
         "league": "J.League",
+        "home": "Nagoya Grampus",
+        "away": "Sanfrecce Hiroshima",
+        "proposition": "home",
+        "locked_odds": 2.33,
+        "pinnacle_closing_odds": 2.84,
+        "clv_pct": -17.96,
+        "result": "profit",
+        "pl_units": 1.33,
+        "reasoning": "",
+        "commitment_cleartext": "PV-j_league-19630393|J.League|2026-03-18|Nagoya Grampus|Sanfrecce Hiroshima|home|2.33|3.10|2026-03-17 12:42:38.274894",
+        "commitment_hash": "f7b783a6c05d6f40e55a08a8b05743fe78e2ee8732d9709bfbc4d150ea30afd3"
+      },
+      {
+        "date": "2026-03-18",
+        "league": "J.League",
+        "home": "Tokyo Verdy",
+        "away": "Kawasaki Frontale",
+        "proposition": "home",
+        "locked_odds": 2.49,
+        "pinnacle_closing_odds": 2.65,
+        "clv_pct": -6.04,
+        "result": "loss",
+        "pl_units": -1.0,
+        "reasoning": "",
+        "commitment_cleartext": "PV-j_league-19630395|J.League|2026-03-18|Tokyo Verdy|Kawasaki Frontale|home|2.49|5.51|2026-03-17 12:42:38.406926",
+        "commitment_hash": "de9b4898fd57211cb9b1a0013bde0fdf997742ed39f509e3874404b2abed905f"
+      },
+      {
+        "date": "2026-03-18",
+        "league": "J.League",
         "home": "Urawa Red Diamonds",
         "away": "Kashiwa Reysol",
         "proposition": "home",
@@ -240,6 +234,36 @@
         "reasoning": "",
         "commitment_cleartext": "PV-j_league-19630397|J.League|2026-03-18|Urawa Red Diamonds|Kashiwa Reysol|home|2.18|4.31|2026-03-17 12:42:38.815373",
         "commitment_hash": "69d6619e7a2fa0dcdc6e7607301cbf1b1abcea2a92af95b57f509c375919f4c3"
+      },
+      {
+        "date": "2026-03-18",
+        "league": "J.League",
+        "home": "Mito Hollyhock",
+        "away": "Yokohama F. Marinos",
+        "proposition": "home",
+        "locked_odds": 1.83,
+        "pinnacle_closing_odds": 1.71,
+        "clv_pct": 7.02,
+        "result": "profit",
+        "pl_units": 0.83,
+        "reasoning": "",
+        "commitment_cleartext": "PV-j_league-19630398|J.League|2026-03-18|Mito Hollyhock|Yokohama F. Marinos|home|1.83|3.98|2026-03-17 21:52:25.717482",
+        "commitment_hash": "f4e72168e1721bd5f59d92ba14fd3de80749579a539930a08c3bb2bf9cfb3857"
+      },
+      {
+        "date": "2026-03-18",
+        "league": "K-League 1",
+        "home": "Pohang Steelers",
+        "away": "Seoul FC",
+        "proposition": "away",
+        "locked_odds": 1.77,
+        "pinnacle_closing_odds": 1.75,
+        "clv_pct": 1.14,
+        "result": "profit",
+        "pl_units": 0.77,
+        "reasoning": "",
+        "commitment_cleartext": "PV-k_league-19648209|K-League 1|2026-03-18|Pohang Steelers|Seoul FC|away|1.77|2.91|2026-03-17 12:42:36.867550",
+        "commitment_hash": "50829918a23760694fe73bd2a6bfb1018d5b08164c11afa63c41fac2e2a7c435"
       },
       {
         "date": "2026-03-18",
@@ -257,19 +281,139 @@
         "commitment_hash": "cd08627d5353d97a4c68347c0f714c9509e91b1df48f5539cc5569f874bbeab7"
       },
       {
-        "date": "2026-03-18",
-        "league": "K-League 1",
-        "home": "Pohang Steelers",
-        "away": "Seoul FC",
-        "proposition": "away",
-        "locked_odds": 1.77,
-        "pinnacle_closing_odds": 1.75,
-        "clv_pct": 1.14,
+        "date": "2026-03-21",
+        "league": "A-League",
+        "home": "Melbourne Victory",
+        "away": "Central Coast Mariners",
+        "proposition": "home",
+        "locked_odds": 1.21,
+        "pinnacle_closing_odds": 1.21,
+        "clv_pct": 0.0,
         "result": "profit",
-        "pl_units": 0.77,
-        "reasoning": "",
-        "commitment_cleartext": "PV-k_league-19648209|K-League 1|2026-03-18|Pohang Steelers|Seoul FC|away|1.77|2.91|2026-03-17 12:42:36.867550",
-        "commitment_hash": "50829918a23760694fe73bd2a6bfb1018d5b08164c11afa63c41fac2e2a7c435"
+        "pl_units": 0.21,
+        "reasoning": "HOME lock @ 1.21 (edge +5.2% vs threshold 5.0%). Model fair: 1.15 (87.2% implied). Pinnacle AH 0.0: 1.21 (82.6% implied). Components: market=0.828(w=0.55), PV10-last2=0.702(w=0.11), PV10-last5=0.647(w=0.16), PV10-season=0.595(w=0.04), PV10-H/A=0.597(w=0.14). Adjustments: home_adv=1.020, calibration=+6.0pp.",
+        "commitment_cleartext": "PV-a_league-19577493|A-League|2026-03-21|Melbourne Victory|Central Coast Mariners|home|1.21|5.22|2026-03-19 15:21:38.591106",
+        "commitment_hash": "43f1ebf26d7be6bd2ff9a1f7402771c2df367db2b45e7530fc00f4e35306f327"
+      },
+      {
+        "date": "2026-03-21",
+        "league": "A-League",
+        "home": "Auckland",
+        "away": "Macarthur",
+        "proposition": "home",
+        "locked_odds": 1.31,
+        "pinnacle_closing_odds": 1.33,
+        "clv_pct": -1.5,
+        "result": "loss",
+        "pl_units": -1.0,
+        "reasoning": "HOME lock @ 1.31 (edge +5.7% vs threshold 5.0%). Model fair: 1.24 (80.4% implied). Pinnacle AH 0.0: 1.31 (76.3% implied). Components: market=0.737(w=0.55), PV10-last2=0.797(w=0.11), PV10-last5=0.585(w=0.16), PV10-season=0.555(w=0.04), PV10-H/A=0.582(w=0.14). Adjustments: home_adv=1.020, calibration=+6.0pp.",
+        "commitment_cleartext": "PV-a_league-19577492|A-League|2026-03-21|Auckland|Macarthur|home|1.31|5.65|2026-03-20 14:53:13.431269",
+        "commitment_hash": "9630b3373e828919f55ece23d58c734fedfdb42bc80d2b7bac014b4281a96492"
+      },
+      {
+        "date": "2026-03-21",
+        "league": "Chinese Super League",
+        "home": "Beijing Guoan",
+        "away": "Shanghai Shenhua",
+        "proposition": "away",
+        "locked_odds": 2.24,
+        "pinnacle_closing_odds": 2.26,
+        "clv_pct": -0.88,
+        "result": "push",
+        "pl_units": 0.0,
+        "reasoning": "AWAY lock @ 2.24 (edge +7.2% vs threshold 3.5%). Model fair: 2.09 (47.7% implied). Pinnacle AH 0.0: 2.24 (44.6% implied). Components: market=0.571(w=0.80), PV10-last2=0.311(w=0.03), PV10-last5=0.311(w=0.05), PV10-season=0.311(w=0.02), PV10-H/A=0.100(w=0.10). Adjustments: home_adv=1.020.",
+        "commitment_cleartext": "PV-chinese_super_league-19674799|Chinese Super League|2026-03-21|Beijing Guoan|Shanghai Shenhua|away|2.24|7.18|2026-03-20 10:00:38.801989",
+        "commitment_hash": "a0b8a5f25ae0bc09f4804941b7fe98038120ff82a9b6ef9a1c4986801a82e446"
+      },
+      {
+        "date": "2026-03-21",
+        "league": "Chinese Super League",
+        "home": "Yunnan Yukun",
+        "away": "Shandong Taishan",
+        "proposition": "home",
+        "locked_odds": 2.73,
+        "pinnacle_closing_odds": 2.43,
+        "clv_pct": 12.35,
+        "result": "profit",
+        "pl_units": 1.73,
+        "reasoning": "HOME lock @ 2.73 (edge +7.1% vs threshold 3.5%). Model fair: 2.55 (39.2% implied). Pinnacle AH 0.0: 2.73 (36.6% implied). Components: market=0.350(w=0.80), PV10-last2=0.478(w=0.03), PV10-last5=0.478(w=0.05), PV10-season=0.478(w=0.02), PV10-H/A=0.900(w=0.10). Adjustments: home_adv=1.020.",
+        "commitment_cleartext": "PV-chinese_super_league-19674794|Chinese Super League|2026-03-21|Yunnan Yukun|Shandong Taishan|home|2.73|7.06|2026-03-20 10:00:40.243692",
+        "commitment_hash": "e173d257598003275b47f1a8e5673ae9b45d8e3cee8c855cb51c39d3a58a4b03"
+      },
+      {
+        "date": "2026-03-21",
+        "league": "Chinese Super League",
+        "home": "Qingdao West Coast",
+        "away": "Shenzhen Peng City",
+        "proposition": "away",
+        "locked_odds": 2.29,
+        "pinnacle_closing_odds": 2.37,
+        "clv_pct": -3.38,
+        "result": "loss",
+        "pl_units": -1.0,
+        "reasoning": "AWAY lock @ 2.29 (edge +3.6% vs threshold 3.5%). Model fair: 2.21 (45.2% implied). Pinnacle AH 0.0: 2.29 (43.7% implied). Components: market=0.580(w=0.80), PV10-last2=0.469(w=0.03), PV10-last5=0.469(w=0.05), PV10-season=0.469(w=0.02), PV10-H/A=0.100(w=0.10). Adjustments: home_adv=1.020.",
+        "commitment_cleartext": "PV-chinese_super_league-19674795|Chinese Super League|2026-03-21|Qingdao West Coast|Shenzhen Peng City|away|2.29|3.62|2026-03-21 03:06:16.061381",
+        "commitment_hash": "e622f4552cc1c098a3dd0abd2cb284c5907510d88fec9eca43dad1bbf0c83e93"
+      },
+      {
+        "date": "2026-03-21",
+        "league": "Chinese Super League",
+        "home": "Henan Songshan Longmen",
+        "away": "Wuhan Three Towns",
+        "proposition": "home",
+        "locked_odds": 1.22,
+        "pinnacle_closing_odds": 1.19,
+        "clv_pct": 2.52,
+        "result": "push",
+        "pl_units": 0.0,
+        "reasoning": "HOME lock @ 1.22 (edge +4.3% vs threshold 3.5%). Model fair: 1.17 (85.6% implied). Pinnacle AH 0.0: 1.22 (82.0% implied). Components: market=0.819(w=0.80), PV10-last2=0.690(w=0.03), PV10-last5=0.690(w=0.05), PV10-season=0.690(w=0.02), PV10-H/A=0.900(w=0.10). Adjustments: travel=0.950, home_adv=1.020.",
+        "commitment_cleartext": "PV-chinese_super_league-19674797|Chinese Super League|2026-03-21|Henan Songshan Longmen|Wuhan Three Towns|home|1.22|4.27|2026-03-20 23:49:29.845176",
+        "commitment_hash": "7222791e938cfe7be6af530579804d9a2fd8956f88738cafc040df0b1b3b824d"
+      },
+      {
+        "date": "2026-03-21",
+        "league": "J.League",
+        "home": "Fagiano Okayama FC",
+        "away": "V-Varen Nagasaki",
+        "proposition": "home",
+        "locked_odds": 1.62,
+        "pinnacle_closing_odds": 1.61,
+        "clv_pct": 0.62,
+        "result": "loss",
+        "pl_units": -1.0,
+        "reasoning": "HOME lock @ 1.62 (edge +12.5% vs threshold 2.0%). Model fair: 1.44 (69.5% implied). Pinnacle AH 0.0: 1.62 (61.7% implied). Components: market=0.598(w=0.70), PV10-last2=0.501(w=0.06), PV10-last5=0.550(w=0.06), PV10-season=0.522(w=0.06), PV10-H/A=0.652(w=0.12). Adjustments: travel=0.950, home_adv=1.092, calibration=+6.0pp.",
+        "commitment_cleartext": "PV-j_league-19630381|J.League|2026-03-21|Fagiano Okayama FC|V-Varen Nagasaki|home|1.62|12.50|2026-03-20 10:27:29.422701",
+        "commitment_hash": "fc06a66a9636b1991402b60054a1c67b3cf44af0cebe4bf5bb7e49d9b0a62a05"
+      },
+      {
+        "date": "2026-03-21",
+        "league": "J.League",
+        "home": "Avispa Fukuoka",
+        "away": "Gamba Osaka",
+        "proposition": "home",
+        "locked_odds": 2.38,
+        "pinnacle_closing_odds": 2.79,
+        "clv_pct": -14.7,
+        "result": "push",
+        "pl_units": 0.0,
+        "reasoning": "HOME lock @ 2.38 (edge +9.2% vs threshold 2.0%). Model fair: 2.18 (45.8% implied). Pinnacle AH 0.0: 2.38 (42.0% implied). Components: market=0.402(w=0.70), PV10-last2=0.476(w=0.06), PV10-last5=0.383(w=0.06), PV10-season=0.356(w=0.06), PV10-H/A=0.397(w=0.12). Adjustments: home_adv=1.051, calibration=+5.7pp.",
+        "commitment_cleartext": "PV-j_league-19630380|J.League|2026-03-21|Avispa Fukuoka|Gamba Osaka|home|2.38|9.17|2026-03-19 15:21:43.141499",
+        "commitment_hash": "b56381122edc2283dba067325d8b52eb75c6fd5a57c86b5ae1a15da752037e4f"
+      },
+      {
+        "date": "2026-03-21",
+        "league": "K-League 1",
+        "home": "Daejeon Hana Citizen",
+        "away": "Jeonbuk Motors",
+        "proposition": "away",
+        "locked_odds": 1.81,
+        "pinnacle_closing_odds": 1.99,
+        "clv_pct": -9.05,
+        "result": "profit",
+        "pl_units": 0.81,
+        "reasoning": "AWAY lock @ 1.81 (edge +9.7% vs threshold 2.5%). Model fair: 1.65 (60.8% implied). Pinnacle AH 0.0: 1.81 (55.2% implied). Components: market=0.464(w=0.80), PV10-last2=0.100(w=0.08), PV10-last5=0.100(w=0.04), PV10-season=0.100(w=0.02), PV10-H/A=0.100(w=0.06). Adjustments: home_adv=1.033.",
+        "commitment_cleartext": "PV-k_league-19648208|K-League 1|2026-03-21|Daejeon Hana Citizen|Jeonbuk Motors|away|1.81|9.70|2026-03-20 10:15:06.180159",
+        "commitment_hash": "87667a0c9a753a3726b7321f53fe68d8998704bbe8cbe53f80d8e1630bd938b9"
       }
     ]
   }
