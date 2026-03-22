@@ -6,46 +6,21 @@
 
 ---
 
-## Today's Fixtures (14 matches, 11 locked plays — 2 free)
+## Today's Fixtures (4 matches, 3 locked plays — 1 free)
 
-### A-League (2 matches, 1 locks)
+### A-League (1 matches, 0 locks)
 
 Perth Glory vs Melbourne City FC
 - No lock (below threshold)
 
-**Sydney FC vs Newcastle United Jets** — Fair: 1.53 / 2.87 | Pin: 1.62 / 2.43
-- � **FREE PICK — HOME @ 1.71** (edge 6.2%)
-
-### J.League (8 matches, 6 locks)
-
-**Cerezo Osaka vs Vissel Kobe** — 🔒 LOCKED
-
-**Kashima Antlers vs JEF United** — 🔒 LOCKED
-
-Kashiwa Reysol vs Mito Hollyhock
-- No lock (below threshold)
-
-**Kawasaki Frontale vs Yokohama F.Marinos** — 🔒 LOCKED
-
-**Kyoto Sanga FC vs Nagoya Grampus** — 🔒 LOCKED
-
-Shimizu S-Pulse vs Sanfrecce Hiroshima
-- No lock (below threshold)
-
-**Tokyo Verdy vs FC Tokyo** — 🔒 LOCKED
-
-**Urawa Red Diamonds vs Machida Zelvia** — Fair: 1.72 / 2.38 | Pin: 1.98 / 1.92
-- � **FREE PICK — HOME @ 1.96** (edge 13.3%)
-
-### K-League 1 (4 matches, 4 locks)
+### K-League 1 (3 matches, 3 locks)
 
 **FC Anyang vs Incheon United** — 🔒 LOCKED
 
 **Gangwon FC vs Jeju United FC** — 🔒 LOCKED
 
-**Seoul FC vs Gwangju FC** — 🔒 LOCKED
-
-**Ulsan Hyundai FC vs Gimcheon Sangmu** — 🔒 LOCKED
+**Pohang Steelers vs Bucheon 1995** — Fair: 1.86 / 2.17 | Pin: N/A
+- � **FREE PICK — AWAY @ 2.55** (edge 17.5%)
 
 ---
 

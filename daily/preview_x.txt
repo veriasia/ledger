@@ -1,16 +1,12 @@
 Matchday Mar 22 | veriasia.io
-14 fixtures | 11 locked plays
+4 fixtures | 3 locked plays
 @sbobet @pinnacle @betinasia
 @aleaguemen @J_League_En @kleague
 
-A-League:
-Sydney FC v Newcastle United Jets
-AH +0.0 | HOME @ 1.71 (edge 6.2%)
+K-League 1:
+Pohang Steelers v Bucheon 1995
+AH +0.0 | AWAY @ 2.55 (edge 17.5%)
 
-J.League:
-Urawa Red Diamonds v Machida Zelvia
-AH +0.0 | HOME @ 1.96 (edge 13.3%)
-
-+ 9 more locked plays
++ 2 more locked plays
 
 SHA-256 committed | github.com/veriasia/ledger
