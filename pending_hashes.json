@@ -1,8 +1,8 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-03-22T08:22:23Z",
-  "n_pending_locks": 5,
+  "published_at": "2026-03-22T08:56:48Z",
+  "n_pending_locks": 6,
   "commitments": [
     {
       "match": "FC Anyang vs Incheon United",
@@ -38,6 +38,13 @@
       "date": "2026-03-28",
       "pv_matchid": "PV-j_league-19630374",
       "commitment_hash": "aadbafd2844a61b0ce1c159fb846d8f87a7e3b63402d31ca6a1fb239f1713c0b"
+    },
+    {
+      "match": "Pohang Steelers vs Gangwon FC",
+      "league": "K-League 1",
+      "date": "2026-03-28",
+      "pv_matchid": "PV-k_league-19648226",
+      "commitment_hash": "4ba4e47cfc8035de2ac06419634caf5b793eaa366d055f015181ea7bc53eede3"
     }
   ]
 }
