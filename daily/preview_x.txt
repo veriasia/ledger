@@ -1,13 +1,16 @@
-Veri Asia | Matchday Mar 21
-6 fixtures | 4 locked plays
+Matchday Mar 22 | veriasia.io
+14 fixtures | 11 locked plays
 @sbobet @pinnacle @betinasia
-@aleaguemen @J_League_En @kleague @CSL_China @SPL
-veriasia.io
+@aleaguemen @J_League_En @kleague
 
-Chinese Super League:
-Beijing Guoan v Shanghai Shenhua FC
-AH +0.0 | AWAY @ 2.24 (edge 7.2%)
+A-League:
+Sydney FC v Newcastle United Jets
+AH +0.0 | HOME @ 1.71 (edge 6.2%)
 
-+ 3 more locked plays
+J.League:
+Urawa Red Diamonds v Machida Zelvia
+AH +0.0 | HOME @ 1.96 (edge 13.3%)
+
++ 9 more locked plays
 
 SHA-256 committed | github.com/veriasia/ledger
