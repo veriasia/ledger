@@ -1,16 +1,9 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-03-22T06:11:16Z",
+  "published_at": "2026-03-22T07:13:02Z",
   "n_pending_locks": 3,
   "commitments": [
-    {
-      "match": "Urawa Red Diamonds vs Machida Zelvia",
-      "league": "J.League",
-      "date": "2026-03-22",
-      "pv_matchid": "PV-j_league-19630387",
-      "commitment_hash": "59fca533fc96ad28cb7f76ee2b6976d3855eb078f3ae63a6b628018861f7537c"
-    },
     {
       "match": "FC Anyang vs Incheon United",
       "league": "K-League 1",
@@ -24,6 +17,13 @@
       "date": "2026-03-22",
       "pv_matchid": "PV-k_league-19648204",
       "commitment_hash": "3b2ebd8cfe79a849e658005fbfd17b882fbd6efda42cdd4465f76f006339a03c"
+    },
+    {
+      "match": "Vissel Kobe vs Sanfrecce Hiroshima",
+      "league": "J.League",
+      "date": "2026-03-27",
+      "pv_matchid": "PV-j_league-19630369",
+      "commitment_hash": "368302eee02bdfd3af6c2b88d1a22c9042a71b5696034a16536cf5f210af6c04"
     }
   ]
 }
