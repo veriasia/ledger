@@ -1,12 +1,5 @@
-Matchday Mar 22 | veriasia.io
-4 fixtures | 3 locked plays
-@sbobet @pinnacle @betinasia
-@aleaguemen @J_League_En @kleague
+Matchday Mar 23 | veriasia.io
 
-K-League 1:
-Pohang Steelers v Bucheon 1995
-AH +0.0 | AWAY @ 2.55 (edge 17.5%)
+No matches today across our Asian leagues.
 
-+ 2 more locked plays
-
-SHA-256 committed | github.com/veriasia/ledger
+PV10 v7 | DNB (AH 0.0)
