@@ -1,9 +1,16 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-03-26T09:59:12Z",
-  "n_pending_locks": 3,
+  "published_at": "2026-03-26T10:55:44Z",
+  "n_pending_locks": 4,
   "commitments": [
+    {
+      "match": "Vissel Kobe vs Sanfrecce Hiroshima",
+      "league": "J.League",
+      "date": "2026-03-27",
+      "pv_matchid": "PV-j_league-19630369",
+      "commitment_hash": "e49759f08292e6bac24cec3f91626ee76cdaced7bc7ee657865354faf0c16dc7"
+    },
     {
       "match": "Pohang Steelers vs Gangwon FC",
       "league": "K-League 1",
