@@ -10,7 +10,7 @@
 
 ### J.League (1 matches, 1 locks)
 
-**Vissel Kobe vs Sanfrecce Hiroshima** — Fair: 1.68 / 2.48 | Pin: 1.83 / 2.09
+**Vissel Kobe vs Sanfrecce Hiroshima** — Fair: 1.78 / 2.28 | Pin: 1.96 / 1.94
 - � **FREE PICK — HOME @ 1.91** (edge 7.9%)
 
 ---
