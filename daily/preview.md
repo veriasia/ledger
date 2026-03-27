@@ -1,12 +1,17 @@
 # Veri Asia — Matchday Preview
 
-### Thursday, March 26 2026
+### Friday, March 27 2026
 
 > PV10 v7 Unified | DNB (AH 0.0) | Pinnacle benchmark
 
 ---
 
-## Today's Fixtures (0 matches, 0 locked plays — 1 free)
+## Today's Fixtures (1 matches, 1 locked plays — 1 free)
+
+### J.League (1 matches, 1 locks)
+
+**Vissel Kobe vs Sanfrecce Hiroshima** — Fair: 1.68 / 2.48 | Pin: 1.83 / 2.09
+- � **FREE PICK — HOME @ 1.91** (edge 7.9%)
 
 ---
 

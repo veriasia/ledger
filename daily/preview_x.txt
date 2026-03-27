@@ -1,5 +1,10 @@
-Matchday Mar 26 | veriasia.io
+Matchday Mar 27 | veriasia.io
+1 fixtures | 1 locked plays
+@sbobet @pinnacle @betinasia
+@aleaguemen @J_League_En @kleague
 
-No matches today across our Asian leagues.
+J.League:
+Vissel Kobe v Sanfrecce Hiroshima
+AH +0.0 | HOME @ 1.91 (edge 7.9%)
 
-PV10 v7 | DNB (AH 0.0)
+SHA-256 committed | github.com/veriasia/ledger
