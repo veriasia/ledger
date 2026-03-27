@@ -1,8 +1,8 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-03-27T04:26:59Z",
-  "n_pending_locks": 4,
+  "published_at": "2026-03-27T04:41:11Z",
+  "n_pending_locks": 5,
   "commitments": [
     {
       "match": "Vissel Kobe vs Sanfrecce Hiroshima",
@@ -24,6 +24,13 @@
       "date": "2026-04-02",
       "pv_matchid": "PV-a_league-19577496",
       "commitment_hash": "ba325c384cc50aac2a1a0850d77d8fcea9229e1920906ed6b4ebacef45344746"
+    },
+    {
+      "match": "Zhejiang vs Chongqing Tonglianglong FC",
+      "league": "Chinese Super League",
+      "date": "2026-04-05",
+      "pv_matchid": "PV-chinese_super_league-19674788",
+      "commitment_hash": "c0bffa15140c43c277ac22f048583132eb2e48dc57341c1478aef318bf2cf49e"
     },
     {
       "match": "Tianjin Jinmen Tiger FC vs Shanghai Shenhua FC",
