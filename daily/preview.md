@@ -6,17 +6,16 @@
 
 ---
 
-## Today's Fixtures (2 matches, 1 locked plays — 1 free)
+## Today's Fixtures (2 matches, 2 locked plays — 1 free)
 
-### J.League (1 matches, 0 locks)
+### J.League (1 matches, 1 locks)
 
-Machida Zelvia vs Kawasaki Frontale
-- No lock (below threshold)
+**Machida Zelvia vs Kawasaki Frontale** — Fair: 1.27 / 4.76 | Pin: 1.32 / 3.57
+- � **FREE PICK — HOME @ 1.49** (edge 3.5%)
 
 ### K-League 1 (1 matches, 1 locks)
 
-**Pohang Steelers vs Gangwon FC** — Fair: 2.70 / 1.59 | Pin: 2.22 / 1.73
-- � **FREE PICK — AWAY @ 1.91** (edge 3.2%)
+**Pohang Steelers vs Gangwon FC** — 🔒 LOCKED
 
 ---
 
