@@ -1,9 +1,16 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-03-28T04:11:03Z",
-  "n_pending_locks": 4,
+  "published_at": "2026-03-28T04:19:00Z",
+  "n_pending_locks": 5,
   "commitments": [
+    {
+      "match": "Machida Zelvia vs Kawasaki Frontale",
+      "league": "J.League",
+      "date": "2026-03-28",
+      "pv_matchid": "PV-j_league-19630374",
+      "commitment_hash": "c85de5dd1a4e7ad2e6b38bd47ebaeb2cb807c791554c5f8ee615aa69cd3d9b79"
+    },
     {
       "match": "Pohang Steelers vs Gangwon FC",
       "league": "K-League 1",
