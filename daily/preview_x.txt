@@ -1,10 +1,10 @@
-Matchday Mar 27 | veriasia.io
-1 fixtures | 1 locked plays
+Matchday Mar 28 | veriasia.io
+2 fixtures | 1 locked plays
 @sbobet @pinnacle @betinasia
 @aleaguemen @J_League_En @kleague
 
-J.League:
-Vissel Kobe v Sanfrecce Hiroshima
-AH +0.0 | HOME @ 1.91 (edge 7.9%)
+K-League 1:
+Pohang Steelers v Gangwon FC
+AH +0.0 | AWAY @ 1.91 (edge 3.2%)
 
 SHA-256 committed | github.com/veriasia/ledger

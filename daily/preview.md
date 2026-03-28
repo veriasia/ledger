@@ -1,17 +1,22 @@
 # Veri Asia — Matchday Preview
 
-### Friday, March 27 2026
+### Saturday, March 28 2026
 
 > PV10 v7 Unified | DNB (AH 0.0) | Pinnacle benchmark
 
 ---
 
-## Today's Fixtures (1 matches, 1 locked plays — 1 free)
+## Today's Fixtures (2 matches, 1 locked plays — 1 free)
 
-### J.League (1 matches, 1 locks)
+### J.League (1 matches, 0 locks)
 
-**Vissel Kobe vs Sanfrecce Hiroshima** — Fair: 1.78 / 2.28 | Pin: 1.96 / 1.94
-- � **FREE PICK — HOME @ 1.91** (edge 7.9%)
+Machida Zelvia vs Kawasaki Frontale
+- No lock (below threshold)
+
+### K-League 1 (1 matches, 1 locks)
+
+**Pohang Steelers vs Gangwon FC** — Fair: 2.70 / 1.59 | Pin: 2.22 / 1.73
+- � **FREE PICK — AWAY @ 1.91** (edge 3.2%)
 
 ---
 
