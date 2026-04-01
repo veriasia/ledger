@@ -1,22 +1,36 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-04-01T04:40:45Z",
-  "n_pending_locks": 3,
+  "published_at": "2026-04-01T08:54:36Z",
+  "n_pending_locks": 5,
   "commitments": [
     {
-      "match": "Macarthur FC vs Newcastle United Jets",
+      "match": "Machida Zelvia vs FC Tokyo",
+      "league": "J.League",
+      "date": "2026-04-01",
+      "pv_matchid": "PV-j_league-19630344",
+      "commitment_hash": "0acf73a3e55c422a5c10f6af2c0e78834dc0f32e6b1695af7180d41daa31ce63"
+    },
+    {
+      "match": "Vissel Kobe vs Shimizu S-Pulse",
+      "league": "J.League",
+      "date": "2026-04-01",
+      "pv_matchid": "PV-j_league-19630340",
+      "commitment_hash": "1a92844e933cfb655e233af083c07a02e3f7d821ba1835bbf7b3ab5924969fc0"
+    },
+    {
+      "match": "Macarthur vs Newcastle United Jets",
       "league": "A-League",
       "date": "2026-04-02",
       "pv_matchid": "PV-a_league-19577496",
-      "commitment_hash": "ba325c384cc50aac2a1a0850d77d8fcea9229e1920906ed6b4ebacef45344746"
+      "commitment_hash": "8ae9fb7957a485d265e693017d444bd2d59983e3e49930b777b9d1afcc0fec57"
     },
     {
-      "match": "Tianjin Jinmen Tiger FC vs Shanghai Shenhua FC",
+      "match": "Tianjin Jinmen Tiger vs Shanghai Shenhua",
       "league": "Chinese Super League",
       "date": "2026-04-05",
       "pv_matchid": "PV-chinese_super_league-19674786",
-      "commitment_hash": "92e6778664ca1a077cad5b9945353f4accff18c61e97791cfb0720aa92904c95"
+      "commitment_hash": "f6ec278fee102323220fb383f091f230b3ba2ca698acfeee60e1734f0505ceea"
     },
     {
       "match": "Zhejiang vs Chongqing Tonglianglong FC",
