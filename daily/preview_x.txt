@@ -1,12 +1,8 @@
-Matchday Mar 28 | veriasia.io
-2 fixtures | 2 locked plays
+Matchday Apr 01 | veriasia.io
+2 fixtures | 0 locked plays
 @sbobet @pinnacle @betinasia
 @aleaguemen @J_League_En @kleague
 
-J.League:
-Machida Zelvia v Kawasaki Frontale
-AH +0.0 | HOME @ 1.49 (edge 3.5%)
-
-+ 1 more locked plays
+No plays above threshold today.
 
 SHA-256 committed | github.com/veriasia/ledger
