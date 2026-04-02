@@ -1,6 +1,6 @@
 # Veri Asia — Matchday Preview
 
-### Wednesday, April 01 2026
+### Thursday, April 02 2026
 
 > PV10 v7 Unified | DNB (AH 0.0) | Pinnacle benchmark
 
@@ -8,12 +8,12 @@
 
 ## Today's Fixtures (2 matches, 0 locked plays — 1 free)
 
-### J.League (2 matches, 0 locks)
+### A-League (2 matches, 0 locks)
 
-Machida Zelvia vs FC Tokyo
+Brisbane Roar vs Sydney
 - No lock (below threshold)
 
-Vissel Kobe vs Shimizu S-Pulse
+Macarthur vs Newcastle United Jets
 - No lock (below threshold)
 
 ---
