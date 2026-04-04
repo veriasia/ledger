@@ -1,36 +1,15 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-04-04T08:29:36Z",
-  "n_pending_locks": 4,
+  "published_at": "2026-04-04T19:53:06Z",
+  "n_pending_locks": 1,
   "commitments": [
     {
-      "match": "Central Coast Mariners vs Perth Glory",
-      "league": "A-League",
-      "date": "2026-04-04",
-      "pv_matchid": "PV-a_league-19577498",
-      "commitment_hash": "1d2080cf2d59040c111bf5c1d9e3aa6488e3f5897ad6ece1c7dde7a79c06737e"
-    },
-    {
-      "match": "Shandong Taishan vs Dalian Yingbo",
-      "league": "Chinese Super League",
-      "date": "2026-04-04",
-      "pv_matchid": "PV-chinese_super_league-19674790",
-      "commitment_hash": "b6393e3d82e2cc3f7fd1ed3049ee51a304ad3593b74562c09b91727ebbfceca8"
-    },
-    {
-      "match": "Nagoya Grampus vs Cerezo Osaka",
-      "league": "J.League",
-      "date": "2026-04-04",
-      "pv_matchid": "PV-j_league-19630363",
-      "commitment_hash": "1173cebda851bb3b06bde6819e2e2e52dbfdc0265228a404336b2ec09ff2e038"
-    },
-    {
-      "match": "NEOM SC vs Al-Fayha",
+      "match": "Al-Fayha vs Al Ahli",
       "league": "Saudi Pro League",
-      "date": "2026-04-05",
-      "pv_matchid": "PV-saudi_pro_league-19541968",
-      "commitment_hash": "445cef700be9981b14da93935d163f8399ad8f8af564a43a0a61ad9d93c960ef"
+      "date": "2026-04-09",
+      "pv_matchid": "PV-saudi_pro_league-19541987",
+      "commitment_hash": "52d9df0e759dd2d7c4f91ab73cf0bffe063d57289fdbd747ca6da9abc69a20fb"
     }
   ]
 }
