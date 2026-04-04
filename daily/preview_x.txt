@@ -1,8 +1,14 @@
-Matchday Apr 03 | veriasia.io
-2 fixtures | 0 locked plays
+Matchday Apr 04 | veriasia.io
+14 fixtures | 2 locked plays
 @sbobet @pinnacle @betinasia
 @aleaguemen @J_League_En @kleague
 
-No plays above threshold today.
+A-League:
+Central Coast Mariners v Perth Glory
+AH +0.0 | AWAY @ 2.13 (edge 10.9%)
+
+J.League:
+Nagoya Grampus v Cerezo Osaka
+AH +0.0 | HOME @ 1.61 (edge 10.3%)
 
 SHA-256 committed | github.com/veriasia/ledger
