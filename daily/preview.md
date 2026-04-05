@@ -1,31 +1,56 @@
 # Veri Asia — Matchday Preview
 
-### Saturday, April 04 2026
+### Sunday, April 05 2026
 
 > Veri10 v7 Unified | DNB (AH 0.0) | Pinnacle benchmark
 
 ---
 
-## Today's Fixtures (5 matches, 3 locked plays — 1 free)
+## Today's Fixtures (12 matches, 2 locked plays — 2 free)
 
-### A-League (2 matches, 1 locks)
+### A-League (1 matches, 0 locks)
 
-**Central Coast Mariners vs Perth Glory** — Fair: 2.33 / 1.75 | Pin: 1.97 / 1.93
-- � **FREE PICK — AWAY @ 2.13** (edge 10.9%)
-
-Melbourne City FC vs Western Sydney Wanderers
+Melbourne Victory vs Wellington Phoenix
 - No lock (below threshold)
 
-### Chinese Super League (2 matches, 1 locks)
+### Chinese Super League (3 matches, 0 locks)
 
-**Shandong Taishan vs Dalian Yingbo** — 🔒 LOCKED
-
-Shanghai Port vs Yunnan Yukun
+Shenzhen Peng City vs Wuhan Three Towns
 - No lock (below threshold)
 
-### J.League (1 matches, 1 locks)
+Tianjin Jinmen Tiger vs Shanghai Shenhua
+- No lock (below threshold)
 
-**Nagoya Grampus vs Cerezo Osaka** — 🔒 LOCKED
+Zhejiang vs Chongqing Tonglianglong FC
+- No lock (below threshold)
+
+### J.League (6 matches, 1 locks)
+
+Fagiano Okayama FC vs Vissel Kobe
+- No lock (below threshold)
+
+FC Tokyo vs Machida Zelvia
+- No lock (below threshold)
+
+Kashiwa Reysol vs Yokohama F. Marinos
+- No lock (below threshold)
+
+Kawasaki Frontale vs Urawa Red Diamonds
+- No lock (below threshold)
+
+Sanfrecce Hiroshima vs Avispa Fukuoka
+- No lock (below threshold)
+
+**V-Varen Nagasaki vs Shimizu S-Pulse** — Fair: 1.71 / 2.42 | Pin: 2.00 / 1.90
+- � **FREE PICK — HOME @ 1.99** (edge 11.8%)
+
+### K-League 1 (2 matches, 1 locks)
+
+**Anyang vs Seoul FC** — Fair: 4.11 / 1.32 | Pin: 2.86 / 1.47
+- � **FREE PICK — AWAY @ 1.50** (edge 6.4%)
+
+Incheon United vs Gimcheon Sangmu
+- No lock (below threshold)
 
 ---
 

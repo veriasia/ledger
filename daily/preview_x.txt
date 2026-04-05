@@ -1,12 +1,14 @@
-Matchday Apr 04 | veriasia.io
-5 fixtures | 3 locked plays
+Matchday Apr 05 | veriasia.io
+12 fixtures | 2 locked plays
 @sbobet @pinnacle @betinasia
 @aleaguemen @J_League_En @kleague
 
-A-League:
-Central Coast Mariners v Perth Glory
-AH +0.0 | AWAY @ 2.13 (edge 10.9%)
+J.League:
+V-Varen Nagasaki v Shimizu S-Pulse
+AH +0.0 | HOME @ 1.99 (edge 11.8%)
 
-+ 2 more locked plays
+K-League 1:
+Anyang v Seoul FC
+AH +0.0 | AWAY @ 1.50 (edge 6.4%)
 
 SHA-256 committed | github.com/veriasia/ledger
