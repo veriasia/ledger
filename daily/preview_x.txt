@@ -1,5 +1,5 @@
 Matchday Apr 05 | veriasia.io
-12 fixtures | 2 locked plays
+4 fixtures | 2 locked plays
 @sbobet @pinnacle @betinasia
 @aleaguemen @J_League_En @kleague
 
@@ -7,8 +7,6 @@ J.League:
 V-Varen Nagasaki v Shimizu S-Pulse
 AH +0.0 | HOME @ 1.99 (edge 11.8%)
 
-K-League 1:
-Anyang v Seoul FC
-AH +0.0 | AWAY @ 1.50 (edge 6.4%)
++ 1 more locked plays
 
 SHA-256 committed | github.com/veriasia/ledger
