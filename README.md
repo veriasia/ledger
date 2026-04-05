@@ -2,7 +2,7 @@
 
 > **The gold standard for match probability in Asian football.**
 
-> **Last updated:** 2026-03-28 11:37 UTC
+> **Last updated:** 2026-04-05 10:04 UTC
 > **Model:** PV10 v7 Unified | **Markets:** DNB (Draw No Bet, AH 0.0)
 > **Leagues:** A-League, J-League, K-League 1, Saudi Pro League, Chinese Super League
 
@@ -14,16 +14,16 @@ The [Brier Skill Score (BSS)](https://en.wikipedia.org/wiki/Brier_score) measure
 
 Computed via walk-forward backtest (no data leakage) on all non-draw DNB (AH 0.0) matches with Pinnacle SP available.
 
-| League | Matches | BSS vs Pinnacle | Mar 2026 | Status |
+| League | Matches | BSS vs Pinnacle | Apr 2026 | Status |
 |--------|---------|-----------------|----------|--------|
-| A-League | 344 | +1.60% | +5.64% (8) | BEATING |
-| J.League | 690 | +0.35% | -0.50% (24) | BEATING |
-| K-League 1 | 286 | +0.79% | +12.35% (4) | BEATING |
-| Saudi Pro League | 51 | +7.56% | — | BEATING |
-| Chinese Super League | 349 | +1.85% | -4.41% (8) | BEATING |
-| **ALL LEAGUES** | **1,720** | **+1.06%** | **+1.20% (44)** | **BEATING** |
+| A-League | 347 | +1.21% | +10.17% (3) | BEATING |
+| J.League | 700 | -0.78% | -4.62% (10) | TRAILING |
+| K-League 1 | 291 | -1.95% | -31.34% (4) | TRAILING |
+| Saudi Pro League | 51 | +8.07% | — | BEATING |
+| Chinese Super League | 355 | -2.52% | -5.01% (6) | TRAILING |
+| **ALL LEAGUES** | **1,744** | **-0.64%** | **-4.64% (23)** | **TRAILING** |
 
-> *1,720 matches evaluated. Walk-forward backtest using optimised per-league parameters.*
+> *1,744 matches evaluated. Walk-forward backtest using optimised per-league parameters.*
 
 ---
 
@@ -33,13 +33,13 @@ Every value play is timestamped and locked **before kickoff**. Results are settl
 
 | League | Plays | Record | Staked | P/L (units) | ROI |
 |--------|-------|--------|--------|-------------|-----|
-| A-League | 4 | 2W 2L 0P | 4.0 | -0.49 | -12.2% |
-| Chinese Super League | 4 | 1W 1L 2P | 4.0 | +0.73 | +18.2% |
-| J.League | 17 | 5W 6L 6P | 17.0 | -1.78 | -10.5% |
-| K-League 1 | 5 | 4W 0L 1P | 5.0 | +2.95 | +59.0% |
-| **ALL** | **30** | **12W 9L 9P** | **30.0** | **+1.41** | **+4.7%** |
+| A-League | 7 | 2W 2L 3P | 7.0 | -0.49 | -7.0% |
+| Chinese Super League | 5 | 2W 1L 2P | 5.0 | +4.11 | +82.2% |
+| J.League | 21 | 6W 8L 7P | 21.0 | -3.17 | -15.1% |
+| K-League 1 | 8 | 4W 1L 3P | 8.0 | +1.95 | +24.4% |
+| **ALL** | **41** | **14W 12L 15P** | **41.0** | **+2.40** | **+5.8%** |
 
-| **Avg odds** | 1.89 | | | | |
+| **Avg odds** | 1.92 | | | | |
 
 ---
 
@@ -49,9 +49,9 @@ CLV measures whether our locked prices beat Pinnacle's closing line — consiste
 
 | Metric | Value |
 |--------|-------|
-| **Plays tracked** | 30 |
-| **CLV-positive plays** | 11/30 (37% hit rate) |
-| **Average CLV** | -1.72% |
+| **Plays tracked** | 41 |
+| **CLV-positive plays** | 17/41 (41% hit rate) |
+| **Average CLV** | +0.21% |
 
 ---
 
@@ -59,31 +59,31 @@ CLV measures whether our locked prices beat Pinnacle's closing line — consiste
 
 | Date | League | Match | Side | Locked | Close | CLV | Result | P/L |
 |------|--------|-------|------|--------|-------|-----|--------|-----|
-| 2026-03-18 | J.League | V-Varen Nagasaki vs Kyoto Sanga | home | 2.10 | 2.02 | +4.0% | L | -1.00 |
-| 2026-03-18 | J.League | Vissel Kobe vs Gamba Osaka | home | 1.39 | 1.41 | -1.4% | P | +0.00 |
-| 2026-03-18 | J.League | Mito Hollyhock vs Yokohama F. Marinos | home | 1.83 | 1.71 | +7.0% | W | +0.83 |
-| 2026-03-18 | K-League 1 | Pohang Steelers vs Seoul FC | away | 1.77 | 1.75 | +1.1% | W | +0.77 |
-| 2026-03-18 | K-League 1 | Incheon United vs Daejeon Hana Citizen | away | 2.15 | 2.12 | +1.4% | W | +1.15 |
-| 2026-03-21 | A-League | Auckland vs Macarthur | home | 1.31 | 1.33 | -1.5% | L | -1.00 |
-| 2026-03-21 | A-League | Melbourne Victory vs Central Coast Mariners | home | 1.21 | 1.21 | +0.0% | W | +0.21 |
-| 2026-03-21 | Chinese Super League | Qingdao West Coast vs Shenzhen Peng City | away | 2.29 | 2.37 | -3.4% | L | -1.00 |
-| 2026-03-21 | Chinese Super League | Yunnan Yukun vs Shandong Taishan | home | 2.73 | 2.43 | +12.3% | W | +1.73 |
-| 2026-03-21 | Chinese Super League | Henan Songshan Longmen vs Wuhan Three Towns | home | 1.22 | 1.19 | +2.5% | P | +0.00 |
-| 2026-03-21 | Chinese Super League | Beijing Guoan vs Shanghai Shenhua | away | 2.24 | 2.26 | -0.9% | P | +0.00 |
-| 2026-03-21 | J.League | Fagiano Okayama FC vs V-Varen Nagasaki | home | 1.62 | 1.61 | +0.6% | L | -1.00 |
 | 2026-03-21 | J.League | Avispa Fukuoka vs Gamba Osaka | home | 2.38 | 2.79 | -14.7% | P | +0.00 |
+| 2026-03-21 | J.League | Fagiano Okayama FC vs V-Varen Nagasaki | home | 1.62 | 1.61 | +0.6% | L | -1.00 |
 | 2026-03-21 | K-League 1 | Daejeon Hana Citizen vs Jeonbuk Motors | away | 1.81 | 1.99 | -9.1% | W | +0.81 |
 | 2026-03-22 | A-League | Sydney vs Newcastle United Jets | home | 1.71 | 1.62 | +5.6% | L | -1.00 |
-| 2026-03-22 | J.League | Cerezo Osaka vs Vissel Kobe | home | 2.35 | 2.03 | +15.8% | P | +0.00 |
-| 2026-03-22 | J.League | Kashima Antlers vs JEF United | home | 1.24 | 1.20 | +3.3% | W | +0.24 |
-| 2026-03-22 | J.League | Urawa Red Diamonds vs Machida Zelvia | home | 1.96 | 2.00 | -2.0% | L | -1.00 |
-| 2026-03-22 | J.League | Kawasaki Frontale vs Yokohama F. Marinos | home | 1.55 | 1.67 | -7.2% | L | -1.00 |
 | 2026-03-22 | J.League | Tokyo Verdy vs FC Tokyo | home | 2.85 | 3.21 | -11.2% | P | +0.00 |
+| 2026-03-22 | J.League | Kawasaki Frontale vs Yokohama F. Marinos | home | 1.55 | 1.67 | -7.2% | L | -1.00 |
+| 2026-03-22 | J.League | Cerezo Osaka vs Vissel Kobe | home | 2.35 | 2.03 | +15.8% | P | +0.00 |
 | 2026-03-22 | J.League | Kyoto Sanga vs Nagoya Grampus | home | 1.69 | 1.81 | -6.6% | P | +0.00 |
-| 2026-03-22 | K-League 1 | Ulsan Hyundai vs Gimcheon Sangmu | home | 1.56 | 1.55 | +0.7% | P | +0.00 |
+| 2026-03-22 | J.League | Urawa Red Diamonds vs Machida Zelvia | home | 1.96 | 2.00 | -2.0% | L | -1.00 |
+| 2026-03-22 | J.League | Kashima Antlers vs JEF United | home | 1.24 | 1.20 | +3.3% | W | +0.24 |
 | 2026-03-22 | K-League 1 | Seoul FC vs Gwangju | home | 1.22 | 1.22 | +0.0% | W | +0.22 |
+| 2026-03-22 | K-League 1 | Ulsan Hyundai vs Gimcheon Sangmu | home | 1.56 | 1.55 | +0.7% | P | +0.00 |
 | 2026-03-27 | J.League | Vissel Kobe vs Sanfrecce Hiroshima | home | 1.91 | 2.04 | -6.4% | W | +0.91 |
 | 2026-03-27 | J.League | Vissel Kobe vs Sanfrecce Hiroshima | home | 1.91 | 2.04 | -6.4% | W | +0.91 |
+| 2026-03-28 | J.League | Machida Zelvia vs Kawasaki Frontale | home | 1.49 | 1.32 | +12.9% | P | +0.00 |
+| 2026-03-28 | K-League 1 | Pohang Steelers vs Gangwon FC | away | 1.91 | 1.66 | +15.1% | L | -1.00 |
+| 2026-04-02 | A-League | Brisbane Roar vs Sydney | away | 1.65 | 1.68 | -1.8% | P | +0.00 |
+| 2026-04-02 | A-League | Brisbane Roar vs Sydney | away | 1.65 | 1.68 | -1.8% | P | +0.00 |
+| 2026-04-04 | A-League | Central Coast Mariners vs Perth Glory | away | 2.13 | 1.93 | +10.4% | P | +0.00 |
+| 2026-04-04 | Chinese Super League | Shandong Taishan vs Dalian Yingbo | away | 4.38 | 3.20 | +36.9% | W | +3.38 |
+| 2026-04-04 | J.League | Nagoya Grampus vs Cerezo Osaka | home | 1.61 | 1.88 | -14.4% | W | +0.61 |
+| 2026-04-05 | J.League | V-Varen Nagasaki vs Shimizu S-Pulse | home | 1.99 | 2.00 | -0.5% | L | -1.00 |
+| 2026-04-05 | J.League | V-Varen Nagasaki vs Shimizu S-Pulse | home | 1.99 | 2.00 | -0.5% | L | -1.00 |
+| 2026-04-05 | K-League 1 | Anyang vs Seoul FC | away | 1.50 | 1.47 | +2.0% | P | +0.00 |
+| 2026-04-05 | K-League 1 | Anyang vs Seoul FC | away | 1.50 | 1.47 | +2.0% | P | +0.00 |
 
 Full play-by-play history: [`plays.csv`](plays.csv) | Machine-readable: [`ledger.json`](ledger.json)
 
