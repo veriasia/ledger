@@ -1,22 +1,7 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-04-05T08:32:32Z",
-  "n_pending_locks": 2,
-  "commitments": [
-    {
-      "match": "V-Varen Nagasaki vs Shimizu S-Pulse",
-      "league": "J.League",
-      "date": "2026-04-05",
-      "pv_matchid": "PV-j_league-19630359",
-      "commitment_hash": "84884265a10c373000841c9ac2bc79cd65bc1ac7b4e219e0e263a31f8a68b6bb"
-    },
-    {
-      "match": "Anyang vs Seoul FC",
-      "league": "K-League 1",
-      "date": "2026-04-05",
-      "pv_matchid": "PV-k_league-19648198",
-      "commitment_hash": "1fa7db4ede704e777542ae3bf8931f6a96e9603d9dd7712e320cd5a3191a3421"
-    }
-  ]
+  "published_at": "2026-04-05T19:55:40Z",
+  "n_pending_locks": 0,
+  "commitments": []
 }
