@@ -1,5 +1,8 @@
-Matchday Apr 06 | veriasia.io
+Matchday Apr 07 | veriasia.io
+1 fixtures | 0 locked plays
+@sbobet @pinnacle @betinasia
+@aleaguemen @J_League_En @kleague
 
-No matches today across our Asian leagues.
+No plays above threshold today.
 
-Veri10 v7 | DNB (AH 0.0)
+SHA-256 committed | github.com/veriasia/ledger
