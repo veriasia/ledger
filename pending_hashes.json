@@ -1,23 +1,9 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-04-08T08:51:28Z",
+  "published_at": "2026-04-08T20:08:15Z",
   "n_pending_locks": 11,
   "commitments": [
-    {
-      "match": "Al Hilal vs Al Kholood",
-      "league": "Saudi Pro League",
-      "date": "2026-04-09",
-      "pv_matchid": "PV-saudi_pro_league-19541983",
-      "commitment_hash": "dfd461edd6d83568802fab1bcf9320ceb7da3f95dbab4b54bbfb12eae30dd84d"
-    },
-    {
-      "match": "Al-Fayha vs Al Ahli",
-      "league": "Saudi Pro League",
-      "date": "2026-04-09",
-      "pv_matchid": "PV-saudi_pro_league-19541987",
-      "commitment_hash": "493a6f51e9de337667bab04de27bc973fb2071b90579e894917fac5c981b8947"
-    },
     {
       "match": "Dalian Yingbo vs Zhejiang",
       "league": "Chinese Super League",
@@ -40,13 +26,6 @@
       "commitment_hash": "5b2b9845d58aaada3f54f03a7748be757f2e39888a786b54d2fcb455920a819f"
     },
     {
-      "match": "Qingdao West Coast vs Liaoning Tieren FC",
-      "league": "Chinese Super League",
-      "date": "2026-04-11",
-      "pv_matchid": "PV-chinese_super_league-19674783",
-      "commitment_hash": "47c7418a80d356a4888f844e70f02dad00f3f14de92eb3fa23eb30a152cc35ed"
-    },
-    {
       "match": "Henan Songshan Longmen vs Shandong Taishan",
       "league": "Chinese Super League",
       "date": "2026-04-11",
@@ -54,18 +33,25 @@
       "commitment_hash": "d15c139c1d3e916af016f36cfabd1aa72233f8ac7dd53b95e003e7b648fb7605"
     },
     {
+      "match": "Qingdao West Coast vs Liaoning Tieren FC",
+      "league": "Chinese Super League",
+      "date": "2026-04-11",
+      "pv_matchid": "PV-chinese_super_league-19674783",
+      "commitment_hash": "47c7418a80d356a4888f844e70f02dad00f3f14de92eb3fa23eb30a152cc35ed"
+    },
+    {
+      "match": "Vissel Kobe vs Nagoya Grampus",
+      "league": "J.League",
+      "date": "2026-04-11",
+      "pv_matchid": "PV-j_league-19630351",
+      "commitment_hash": "c96228320b45a2d5fe4e07ee6ef34690ab47c343b7100d314123a59a97d2c54a"
+    },
+    {
       "match": "Seoul FC vs Jeonbuk Motors",
       "league": "K-League 1",
       "date": "2026-04-11",
       "pv_matchid": "PV-k_league-19648195",
       "commitment_hash": "f9ed28088f8d4930bd77ef5ce76efad9c0fbe4cbcc62978327d9b8801816a49f"
-    },
-    {
-      "match": "Tianjin Jinmen Tiger vs Qingdao Hainiu",
-      "league": "Chinese Super League",
-      "date": "2026-04-12",
-      "pv_matchid": "PV-chinese_super_league-19674780",
-      "commitment_hash": "0b692ce9a14f3f7ef979bd4d30be9b7ab685d59903a7b2a77519e2ec3b9a6e2e"
     },
     {
       "match": "Beijing Guoan vs Chengdu Rongcheng",
@@ -80,6 +66,20 @@
       "date": "2026-04-12",
       "pv_matchid": "PV-chinese_super_league-19674778",
       "commitment_hash": "6f989304ff826696d708e420cb53556d29b758203b84f4227f17a507d1b66945"
+    },
+    {
+      "match": "Tianjin Jinmen Tiger vs Qingdao Hainiu",
+      "league": "Chinese Super League",
+      "date": "2026-04-12",
+      "pv_matchid": "PV-chinese_super_league-19674780",
+      "commitment_hash": "0b692ce9a14f3f7ef979bd4d30be9b7ab685d59903a7b2a77519e2ec3b9a6e2e"
+    },
+    {
+      "match": "Al Hazm vs Al-Fayha",
+      "league": "Saudi Pro League",
+      "date": "2026-04-12",
+      "pv_matchid": "PV-saudi_pro_league-19541973",
+      "commitment_hash": "276cbce1dc6fedfa5aa347382514a46980b955668a94a569cda63d811fcd892d"
     }
   ]
 }
