@@ -1,7 +1,7 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-04-09T08:59:11Z",
+  "published_at": "2026-04-09T20:11:45Z",
   "n_pending_locks": 11,
   "commitments": [
     {
@@ -10,20 +10,6 @@
       "date": "2026-04-10",
       "pv_matchid": "PV-chinese_super_league-19674785",
       "commitment_hash": "aeb78a7790fa77105517df916aa446f3a2bd8172e625881c310f4858cd3a61c1"
-    },
-    {
-      "match": "Damac FC vs Al-Qadsiah",
-      "league": "Saudi Pro League",
-      "date": "2026-04-10",
-      "pv_matchid": "PV-saudi_pro_league-19541975",
-      "commitment_hash": "6e9f09ebb2fdce480f37b5b242afd33ab6c811b5befc55f2d6f628152c5ff075"
-    },
-    {
-      "match": "Al Ettifaq vs Al Riyadh",
-      "league": "Saudi Pro League",
-      "date": "2026-04-10",
-      "pv_matchid": "PV-saudi_pro_league-19541979",
-      "commitment_hash": "5b2b9845d58aaada3f54f03a7748be757f2e39888a786b54d2fcb455920a819f"
     },
     {
       "match": "Henan Songshan Longmen vs Shandong Taishan",
@@ -75,11 +61,25 @@
       "commitment_hash": "6f989304ff826696d708e420cb53556d29b758203b84f4227f17a507d1b66945"
     },
     {
+      "match": "Daejeon Hana Citizen vs Gangwon FC",
+      "league": "K-League 1",
+      "date": "2026-04-12",
+      "pv_matchid": "PV-k_league-19648192",
+      "commitment_hash": "66556e03e9e709c3c600a31c8688bdba84d2408f6f05f9ab49c4d5fe6dee45ae"
+    },
+    {
       "match": "Al Hazm vs Al-Fayha",
       "league": "Saudi Pro League",
       "date": "2026-04-12",
       "pv_matchid": "PV-saudi_pro_league-19541973",
       "commitment_hash": "276cbce1dc6fedfa5aa347382514a46980b955668a94a569cda63d811fcd892d"
+    },
+    {
+      "match": "Al-Qadsiah vs Al Shabab",
+      "league": "Saudi Pro League",
+      "date": "2026-04-15",
+      "pv_matchid": "PV-saudi_pro_league-19541984",
+      "commitment_hash": "b6d1c0848922857fda09d8b53c396864b0892b76c34b9a6919edf85fa009ad58"
     }
   ]
 }
