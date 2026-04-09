@@ -1,6 +1,6 @@
 # Veri Asia — Matchday Preview
 
-### Wednesday, April 08 2026
+### Thursday, April 09 2026
 
 > Veri10 v7 Unified | DNB (AH 0.0) | Pinnacle benchmark
 
