@@ -15,7 +15,7 @@ Central Coast Mariners vs Brisbane Roar
 
 ### Chinese Super League (1 matches, 1 locks)
 
-**Dalian Yingbo vs Zhejiang** — Fair: 3.12 / 1.47 | Pin: 2.02 / 1.88
+**Dalian Yingbo vs Zhejiang** — Fair: 2.44 / 1.69 | Pin: 1.68 / 2.24
 - � **FREE PICK — AWAY @ 1.88** (edge 26.2%)
 
 ---
