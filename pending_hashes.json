@@ -1,15 +1,22 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-04-10T08:59:08Z",
+  "published_at": "2026-04-10T20:01:17Z",
   "n_pending_locks": 11,
   "commitments": [
     {
-      "match": "Dalian Yingbo vs Zhejiang",
+      "match": "Henan Songshan Longmen vs Shandong Taishan",
       "league": "Chinese Super League",
-      "date": "2026-04-10",
-      "pv_matchid": "PV-chinese_super_league-19674785",
-      "commitment_hash": "aeb78a7790fa77105517df916aa446f3a2bd8172e625881c310f4858cd3a61c1"
+      "date": "2026-04-11",
+      "pv_matchid": "PV-chinese_super_league-19674782",
+      "commitment_hash": "d15c139c1d3e916af016f36cfabd1aa72233f8ac7dd53b95e003e7b648fb7605"
+    },
+    {
+      "match": "Shanghai Shenhua vs Shanghai Port",
+      "league": "Chinese Super League",
+      "date": "2026-04-11",
+      "pv_matchid": "PV-chinese_super_league-19674781",
+      "commitment_hash": "142e12c5cd08f9be8ada9512e9c80ce28d065360d679cca46b877c968c821723"
     },
     {
       "match": "Qingdao West Coast vs Liaoning Tieren FC",
@@ -17,13 +24,6 @@
       "date": "2026-04-11",
       "pv_matchid": "PV-chinese_super_league-19674783",
       "commitment_hash": "47c7418a80d356a4888f844e70f02dad00f3f14de92eb3fa23eb30a152cc35ed"
-    },
-    {
-      "match": "Henan Songshan Longmen vs Shandong Taishan",
-      "league": "Chinese Super League",
-      "date": "2026-04-11",
-      "pv_matchid": "PV-chinese_super_league-19674782",
-      "commitment_hash": "d15c139c1d3e916af016f36cfabd1aa72233f8ac7dd53b95e003e7b648fb7605"
     },
     {
       "match": "Vissel Kobe vs Nagoya Grampus",
