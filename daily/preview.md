@@ -1,12 +1,22 @@
 # Veri Asia — Matchday Preview
 
-### Thursday, April 09 2026
+### Friday, April 10 2026
 
 > Veri10 v7 Unified | DNB (AH 0.0) | Pinnacle benchmark
 
 ---
 
-## Today's Fixtures (0 matches, 0 locked plays — 1 free)
+## Today's Fixtures (2 matches, 1 locked plays — 1 free)
+
+### A-League (1 matches, 0 locks)
+
+Central Coast Mariners vs Brisbane Roar
+- No lock (below threshold)
+
+### Chinese Super League (1 matches, 1 locks)
+
+**Dalian Yingbo vs Zhejiang** — Fair: 3.12 / 1.47 | Pin: 2.02 / 1.88
+- � **FREE PICK — AWAY @ 1.88** (edge 26.2%)
 
 ---
 

@@ -1,5 +1,10 @@
-Matchday Apr 09 | veriasia.io
+Matchday Apr 10 | veriasia.io
+2 fixtures | 1 locked plays
+@sbobet @pinnacle @betinasia
+@aleaguemen @J_League_En @kleague
 
-No matches today across our Asian leagues.
+Chinese Super League:
+Dalian Yingbo v Zhejiang
+AH +0.0 | AWAY @ 1.88 (edge 26.2%)
 
-Veri10 v7 | DNB (AH 0.0)
+SHA-256 committed | github.com/veriasia/ledger
