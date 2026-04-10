@@ -1,7 +1,7 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-04-09T20:11:45Z",
+  "published_at": "2026-04-10T04:39:53Z",
   "n_pending_locks": 11,
   "commitments": [
     {
@@ -12,18 +12,18 @@
       "commitment_hash": "aeb78a7790fa77105517df916aa446f3a2bd8172e625881c310f4858cd3a61c1"
     },
     {
-      "match": "Henan Songshan Longmen vs Shandong Taishan",
-      "league": "Chinese Super League",
-      "date": "2026-04-11",
-      "pv_matchid": "PV-chinese_super_league-19674782",
-      "commitment_hash": "d15c139c1d3e916af016f36cfabd1aa72233f8ac7dd53b95e003e7b648fb7605"
-    },
-    {
       "match": "Qingdao West Coast vs Liaoning Tieren FC",
       "league": "Chinese Super League",
       "date": "2026-04-11",
       "pv_matchid": "PV-chinese_super_league-19674783",
       "commitment_hash": "47c7418a80d356a4888f844e70f02dad00f3f14de92eb3fa23eb30a152cc35ed"
+    },
+    {
+      "match": "Henan Songshan Longmen vs Shandong Taishan",
+      "league": "Chinese Super League",
+      "date": "2026-04-11",
+      "pv_matchid": "PV-chinese_super_league-19674782",
+      "commitment_hash": "d15c139c1d3e916af016f36cfabd1aa72233f8ac7dd53b95e003e7b648fb7605"
     },
     {
       "match": "Vissel Kobe vs Nagoya Grampus",
@@ -40,18 +40,18 @@
       "commitment_hash": "f9ed28088f8d4930bd77ef5ce76efad9c0fbe4cbcc62978327d9b8801816a49f"
     },
     {
-      "match": "Beijing Guoan vs Chengdu Rongcheng",
-      "league": "Chinese Super League",
-      "date": "2026-04-12",
-      "pv_matchid": "PV-chinese_super_league-19674779",
-      "commitment_hash": "79600cd9616b82f4477434f470c7a9f65d0e63cfd53ecc8c8013c6b9d935ed72"
-    },
-    {
       "match": "Tianjin Jinmen Tiger vs Qingdao Hainiu",
       "league": "Chinese Super League",
       "date": "2026-04-12",
       "pv_matchid": "PV-chinese_super_league-19674780",
       "commitment_hash": "0b692ce9a14f3f7ef979bd4d30be9b7ab685d59903a7b2a77519e2ec3b9a6e2e"
+    },
+    {
+      "match": "Beijing Guoan vs Chengdu Rongcheng",
+      "league": "Chinese Super League",
+      "date": "2026-04-12",
+      "pv_matchid": "PV-chinese_super_league-19674779",
+      "commitment_hash": "79600cd9616b82f4477434f470c7a9f65d0e63cfd53ecc8c8013c6b9d935ed72"
     },
     {
       "match": "Shenzhen Peng City vs Yunnan Yukun",
