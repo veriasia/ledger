@@ -1,72 +1,9 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-04-11T08:31:24Z",
-  "n_pending_locks": 14,
+  "published_at": "2026-04-11T19:56:23Z",
+  "n_pending_locks": 6,
   "commitments": [
-    {
-      "match": "Western Sydney Wanderers vs Sydney",
-      "league": "A-League",
-      "date": "2026-04-11",
-      "pv_matchid": "PV-a_league-19577503",
-      "commitment_hash": "83dd8a9f93e819c95101804e72e0e6c926bc82559831dd81c2086eb2fde1e701"
-    },
-    {
-      "match": "Henan Songshan Longmen vs Shandong Taishan",
-      "league": "Chinese Super League",
-      "date": "2026-04-11",
-      "pv_matchid": "PV-chinese_super_league-19674782",
-      "commitment_hash": "d15c139c1d3e916af016f36cfabd1aa72233f8ac7dd53b95e003e7b648fb7605"
-    },
-    {
-      "match": "Qingdao West Coast vs Liaoning Tieren FC",
-      "league": "Chinese Super League",
-      "date": "2026-04-11",
-      "pv_matchid": "PV-chinese_super_league-19674783",
-      "commitment_hash": "47c7418a80d356a4888f844e70f02dad00f3f14de92eb3fa23eb30a152cc35ed"
-    },
-    {
-      "match": "Shanghai Shenhua vs Shanghai Port",
-      "league": "Chinese Super League",
-      "date": "2026-04-11",
-      "pv_matchid": "PV-chinese_super_league-19674781",
-      "commitment_hash": "142e12c5cd08f9be8ada9512e9c80ce28d065360d679cca46b877c968c821723"
-    },
-    {
-      "match": "Avispa Fukuoka vs V-Varen Nagasaki",
-      "league": "J.League",
-      "date": "2026-04-11",
-      "pv_matchid": "PV-j_league-19630349",
-      "commitment_hash": "a94ad4717e19ab7610b93c5ef094c1e89f7243c9784144310706d16f321b3f59"
-    },
-    {
-      "match": "Vissel Kobe vs Nagoya Grampus",
-      "league": "J.League",
-      "date": "2026-04-11",
-      "pv_matchid": "PV-j_league-19630351",
-      "commitment_hash": "c96228320b45a2d5fe4e07ee6ef34690ab47c343b7100d314123a59a97d2c54a"
-    },
-    {
-      "match": "Seoul FC vs Jeonbuk Motors",
-      "league": "K-League 1",
-      "date": "2026-04-11",
-      "pv_matchid": "PV-k_league-19648195",
-      "commitment_hash": "f9ed28088f8d4930bd77ef5ce76efad9c0fbe4cbcc62978327d9b8801816a49f"
-    },
-    {
-      "match": "Incheon United vs Ulsan Hyundai",
-      "league": "K-League 1",
-      "date": "2026-04-11",
-      "pv_matchid": "PV-k_league-19648193",
-      "commitment_hash": "fb47f68ec98d538669dacf7543bf621fd56353518eae66db8cf3d6b14bef1295"
-    },
-    {
-      "match": "Shenzhen Peng City vs Yunnan Yukun",
-      "league": "Chinese Super League",
-      "date": "2026-04-12",
-      "pv_matchid": "PV-chinese_super_league-19674778",
-      "commitment_hash": "6f989304ff826696d708e420cb53556d29b758203b84f4227f17a507d1b66945"
-    },
     {
       "match": "Tianjin Jinmen Tiger vs Qingdao Hainiu",
       "league": "Chinese Super League",
@@ -82,6 +19,13 @@
       "commitment_hash": "79600cd9616b82f4477434f470c7a9f65d0e63cfd53ecc8c8013c6b9d935ed72"
     },
     {
+      "match": "Shenzhen Peng City vs Yunnan Yukun",
+      "league": "Chinese Super League",
+      "date": "2026-04-12",
+      "pv_matchid": "PV-chinese_super_league-19674778",
+      "commitment_hash": "6f989304ff826696d708e420cb53556d29b758203b84f4227f17a507d1b66945"
+    },
+    {
       "match": "Daejeon Hana Citizen vs Gangwon FC",
       "league": "K-League 1",
       "date": "2026-04-12",
@@ -89,18 +33,18 @@
       "commitment_hash": "66556e03e9e709c3c600a31c8688bdba84d2408f6f05f9ab49c4d5fe6dee45ae"
     },
     {
-      "match": "Al Hazm vs Al-Fayha",
-      "league": "Saudi Pro League",
-      "date": "2026-04-12",
-      "pv_matchid": "PV-saudi_pro_league-19541973",
-      "commitment_hash": "276cbce1dc6fedfa5aa347382514a46980b955668a94a569cda63d811fcd892d"
-    },
-    {
       "match": "Al-Qadsiah vs Al Shabab",
       "league": "Saudi Pro League",
       "date": "2026-04-15",
       "pv_matchid": "PV-saudi_pro_league-19541984",
       "commitment_hash": "b6d1c0848922857fda09d8b53c396864b0892b76c34b9a6919edf85fa009ad58"
+    },
+    {
+      "match": "Shandong Taishan vs Shanghai Port",
+      "league": "Chinese Super League",
+      "date": "2026-04-17",
+      "pv_matchid": "PV-chinese_super_league-19674776",
+      "commitment_hash": "de238505ae6455b516cddf30561a10eebc83b94a7246453205b50178b7bd7b5d"
     }
   ]
 }
