@@ -1,15 +1,15 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-04-11T04:13:06Z",
-  "n_pending_locks": 13,
+  "published_at": "2026-04-11T08:31:24Z",
+  "n_pending_locks": 14,
   "commitments": [
     {
-      "match": "Shanghai Shenhua vs Shanghai Port",
-      "league": "Chinese Super League",
+      "match": "Western Sydney Wanderers vs Sydney",
+      "league": "A-League",
       "date": "2026-04-11",
-      "pv_matchid": "PV-chinese_super_league-19674781",
-      "commitment_hash": "142e12c5cd08f9be8ada9512e9c80ce28d065360d679cca46b877c968c821723"
+      "pv_matchid": "PV-a_league-19577503",
+      "commitment_hash": "83dd8a9f93e819c95101804e72e0e6c926bc82559831dd81c2086eb2fde1e701"
     },
     {
       "match": "Henan Songshan Longmen vs Shandong Taishan",
@@ -24,6 +24,13 @@
       "date": "2026-04-11",
       "pv_matchid": "PV-chinese_super_league-19674783",
       "commitment_hash": "47c7418a80d356a4888f844e70f02dad00f3f14de92eb3fa23eb30a152cc35ed"
+    },
+    {
+      "match": "Shanghai Shenhua vs Shanghai Port",
+      "league": "Chinese Super League",
+      "date": "2026-04-11",
+      "pv_matchid": "PV-chinese_super_league-19674781",
+      "commitment_hash": "142e12c5cd08f9be8ada9512e9c80ce28d065360d679cca46b877c968c821723"
     },
     {
       "match": "Avispa Fukuoka vs V-Varen Nagasaki",
@@ -54,6 +61,13 @@
       "commitment_hash": "fb47f68ec98d538669dacf7543bf621fd56353518eae66db8cf3d6b14bef1295"
     },
     {
+      "match": "Shenzhen Peng City vs Yunnan Yukun",
+      "league": "Chinese Super League",
+      "date": "2026-04-12",
+      "pv_matchid": "PV-chinese_super_league-19674778",
+      "commitment_hash": "6f989304ff826696d708e420cb53556d29b758203b84f4227f17a507d1b66945"
+    },
+    {
       "match": "Tianjin Jinmen Tiger vs Qingdao Hainiu",
       "league": "Chinese Super League",
       "date": "2026-04-12",
@@ -66,13 +80,6 @@
       "date": "2026-04-12",
       "pv_matchid": "PV-chinese_super_league-19674779",
       "commitment_hash": "79600cd9616b82f4477434f470c7a9f65d0e63cfd53ecc8c8013c6b9d935ed72"
-    },
-    {
-      "match": "Shenzhen Peng City vs Yunnan Yukun",
-      "league": "Chinese Super League",
-      "date": "2026-04-12",
-      "pv_matchid": "PV-chinese_super_league-19674778",
-      "commitment_hash": "6f989304ff826696d708e420cb53556d29b758203b84f4227f17a507d1b66945"
     },
     {
       "match": "Daejeon Hana Citizen vs Gangwon FC",
