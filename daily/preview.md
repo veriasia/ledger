@@ -6,68 +6,35 @@
 
 ---
 
-## Today's Fixtures (19 matches, 7 locked plays — 3 free)
+## Today's Fixtures (9 matches, 8 locked plays — 1 free)
 
-### A-League (3 matches, 0 locks)
+### A-League (1 matches, 1 locks)
 
-Auckland vs Melbourne Victory
-- No lock (below threshold)
-
-Newcastle United Jets vs Adelaide United
-- No lock (below threshold)
-
-Western Sydney Wanderers vs Sydney
-- No lock (below threshold)
+**Western Sydney Wanderers vs Sydney** — Fair: 2.09 / 1.92 | Pin: 1.97 / 1.93
+- � **FREE PICK — AWAY @ 1.95** (edge 10.8%)
 
 ### Chinese Super League (4 matches, 3 locks)
 
 Chongqing Tonglianglong FC vs Wuhan Three Towns
 - No lock (below threshold)
 
-**Henan Songshan Longmen vs Shandong Taishan** — Fair: 1.61 / 2.64 | Pin: 1.82 / 2.08
-- � **FREE PICK — HOME @ 1.97** (edge 20.1%)
+**Henan Songshan Longmen vs Shandong Taishan** — 🔒 LOCKED
 
 **Qingdao West Coast vs Liaoning Tieren FC** — 🔒 LOCKED
 
 **Shanghai Shenhua vs Shanghai Port** — 🔒 LOCKED
 
-### J.League (8 matches, 2 locks)
+### J.League (2 matches, 2 locks)
 
 **Avispa Fukuoka vs V-Varen Nagasaki** — 🔒 LOCKED
 
-Gamba Osaka vs Cerezo Osaka
-- No lock (below threshold)
+**Vissel Kobe vs Nagoya Grampus** — 🔒 LOCKED
 
-JEF United vs Mito Hollyhock
-- No lock (below threshold)
-
-Kyoto Sanga vs Fagiano Okayama FC
-- No lock (below threshold)
-
-Machida Zelvia vs Kashiwa Reysol
-- No lock (below threshold)
-
-Sanfrecce Hiroshima vs Shimizu S-Pulse
-- No lock (below threshold)
-
-**Vissel Kobe vs Nagoya Grampus** — Fair: 1.57 / 2.77 | Pin: 1.46 / 2.90
-- � **FREE PICK — AWAY @ 2.97** (edge 10.8%)
-
-Yokohama F. Marinos vs FC Tokyo
-- No lock (below threshold)
-
-### K-League 1 (4 matches, 2 locks)
-
-Gwangju vs Bucheon 1995
-- No lock (below threshold)
+### K-League 1 (2 matches, 2 locks)
 
 **Incheon United vs Ulsan Hyundai** — 🔒 LOCKED
 
-Pohang Steelers vs Jeju United
-- No lock (below threshold)
-
-**Seoul FC vs Jeonbuk Motors** — Fair: 1.93 / 2.08 | Pin: 1.68 / 2.30
-- � **FREE PICK — AWAY @ 2.45** (edge 14.5%)
+**Seoul FC vs Jeonbuk Motors** — 🔒 LOCKED
 
 ---
 

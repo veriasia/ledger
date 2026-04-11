@@ -1,20 +1,12 @@
 Matchday Apr 11 | veriasia.io
-19 fixtures | 7 locked plays
+9 fixtures | 8 locked plays
 @sbobet @pinnacle @betinasia
 @aleaguemen @J_League_En @kleague
 
-Chinese Super League:
-Henan Songshan Longmen v Shandong Taishan
-AH +0.0 | HOME @ 1.97 (edge 20.1%)
+A-League:
+Western Sydney Wanderers v Sydney
+AH +0.0 | AWAY @ 1.95 (edge 10.8%)
 
-J.League:
-Vissel Kobe v Nagoya Grampus
-AH +0.0 | AWAY @ 2.97 (edge 10.8%)
-
-K-League 1:
-Seoul FC v Jeonbuk Motors
-AH +0.0 | AWAY @ 2.45 (edge 14.5%)
-
-+ 4 more locked plays
++ 7 more locked plays
 
 SHA-256 committed | github.com/veriasia/ledger
