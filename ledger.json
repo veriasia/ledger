@@ -12,7 +12,7 @@
       "Saudi Pro League",
       "Chinese Super League"
     ],
-    "updated_at": "2026-04-10T21:04:04Z",
+    "updated_at": "2026-04-11T09:08:12Z",
     "source": "https://github.com/veriasia/engine",
     "methodology": "Four-pillar performance rating (Finishing, Creation, Progression, Defensive) with per-league optimised pillar weights, logistic probability model, and market SP blending. Walk-forward backtest with no data leakage."
   },
@@ -697,21 +697,6 @@
       {
         "date": "2026-04-05",
         "league": "Saudi Pro League",
-        "home": "Al Ettifaq",
-        "away": "Al-Qadsiah",
-        "proposition": "away",
-        "locked_odds": 1.21,
-        "pinnacle_closing_odds": 1.2,
-        "clv_pct": 0.83,
-        "result": "loss",
-        "pl_units": -1.0,
-        "reasoning": "AWAY lock @ 1.21 (soft-lock edge +9.0%). Confirmed (standard): CLV +0.8% at T-149min. Current pin: 1.20, fair: 1.11.",
-        "commitment_cleartext": "PV-saudi_pro_league-19541966|Saudi Pro League|2026-04-05|Al Ettifaq|Al-Qadsiah|away|1.21|9.01|2026-04-05 15:30:18.355057",
-        "commitment_hash": "3fc3bdcb8fb4412c6a1c8029a89cc08cbf6920ccc716a57bd9637d784b101cb4"
-      },
-      {
-        "date": "2026-04-05",
-        "league": "Saudi Pro League",
         "home": "Al Riyadh",
         "away": "Al Shabab",
         "proposition": "away",
@@ -723,6 +708,21 @@
         "reasoning": "AWAY lock @ 1.42 (soft-lock edge +11.8%). Confirmed (standard): CLV +0.0% at T-149min. Current pin: 1.42, fair: 1.24.",
         "commitment_cleartext": "PV-saudi_pro_league-19541971|Saudi Pro League|2026-04-05|Al Riyadh|Al Shabab|away|1.42|11.81|2026-04-05 15:30:18.559654",
         "commitment_hash": "b7676f3e7f60beea667f82ff01738a5d0dd4c8553265b9f8a33f3c4e6fd83562"
+      },
+      {
+        "date": "2026-04-05",
+        "league": "Saudi Pro League",
+        "home": "Al Ettifaq",
+        "away": "Al-Qadsiah",
+        "proposition": "away",
+        "locked_odds": 1.21,
+        "pinnacle_closing_odds": 1.2,
+        "clv_pct": 0.83,
+        "result": "loss",
+        "pl_units": -1.0,
+        "reasoning": "AWAY lock @ 1.21 (soft-lock edge +9.0%). Confirmed (standard): CLV +0.8% at T-149min. Current pin: 1.20, fair: 1.11.",
+        "commitment_cleartext": "PV-saudi_pro_league-19541966|Saudi Pro League|2026-04-05|Al Ettifaq|Al-Qadsiah|away|1.21|9.01|2026-04-05 15:30:18.355057",
+        "commitment_hash": "3fc3bdcb8fb4412c6a1c8029a89cc08cbf6920ccc716a57bd9637d784b101cb4"
       },
       {
         "date": "2026-04-08",
@@ -757,21 +757,6 @@
       {
         "date": "2026-04-09",
         "league": "Saudi Pro League",
-        "home": "Damac FC",
-        "away": "Al-Qadsiah",
-        "proposition": "away",
-        "locked_odds": 1.23,
-        "pinnacle_closing_odds": 1.22,
-        "clv_pct": 0.82,
-        "result": "push",
-        "pl_units": 0.0,
-        "reasoning": "AWAY lock @ 1.23 (edge +10.8% vs threshold 7.0%). Model fair: 1.11 (90.0% implied). Pinnacle AH 0.0: 1.23 (81.3% implied). Components: market=0.186(w=0.35), Veri10-last3=0.457(w=0.07), Veri10-season=0.219(w=0.46), Veri10-H/A=0.295(w=0.13). Adjustments: calibration=-5.6pp. [direct-lock: model-strong league]",
-        "commitment_cleartext": "PV-saudi_pro_league-19541975|Saudi Pro League|2026-04-09|Damac FC|Al-Qadsiah|away|1.23|10.81|2026-04-06 11:02:40.450794",
-        "commitment_hash": "f3e91e7e95193569d537965f976215b0df8755ea2c638558361223d518f452ff"
-      },
-      {
-        "date": "2026-04-09",
-        "league": "Saudi Pro League",
         "home": "Al Ettifaq",
         "away": "Al Riyadh",
         "proposition": "away",
@@ -783,6 +768,21 @@
         "reasoning": "AWAY lock @ 2.22 (edge +13.3% vs threshold 7.0%). Model fair: 1.96 (51.0% implied). Pinnacle AH 0.0: 2.22 (45.0% implied). Components: market=0.574(w=0.35), Veri10-last3=0.488(w=0.07), Veri10-season=0.430(w=0.46), Veri10-H/A=0.399(w=0.13). Adjustments: calibration=+0.7pp. [direct-lock: model-strong league]",
         "commitment_cleartext": "PV-saudi_pro_league-19541979|Saudi Pro League|2026-04-09|Al Ettifaq|Al Riyadh|away|2.22|13.27|2026-04-06 11:02:40.889097",
         "commitment_hash": "f1a385c561fe573928c555a716601dff62bdeec8d7b152ea4d81dc67ca5715f4"
+      },
+      {
+        "date": "2026-04-09",
+        "league": "Saudi Pro League",
+        "home": "Damac FC",
+        "away": "Al-Qadsiah",
+        "proposition": "away",
+        "locked_odds": 1.23,
+        "pinnacle_closing_odds": 1.22,
+        "clv_pct": 0.82,
+        "result": "push",
+        "pl_units": 0.0,
+        "reasoning": "AWAY lock @ 1.23 (edge +10.8% vs threshold 7.0%). Model fair: 1.11 (90.0% implied). Pinnacle AH 0.0: 1.23 (81.3% implied). Components: market=0.186(w=0.35), Veri10-last3=0.457(w=0.07), Veri10-season=0.219(w=0.46), Veri10-H/A=0.295(w=0.13). Adjustments: calibration=-5.6pp. [direct-lock: model-strong league]",
+        "commitment_cleartext": "PV-saudi_pro_league-19541975|Saudi Pro League|2026-04-09|Damac FC|Al-Qadsiah|away|1.23|10.81|2026-04-06 11:02:40.450794",
+        "commitment_hash": "f3e91e7e95193569d537965f976215b0df8755ea2c638558361223d518f452ff"
       },
       {
         "date": "2026-04-10",

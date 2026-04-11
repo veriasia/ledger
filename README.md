@@ -2,7 +2,7 @@
 
 > **The gold standard for match probability in Asian football.**
 
-> **Last updated:** 2026-04-10 21:04 UTC
+> **Last updated:** 2026-04-11 09:08 UTC
 > **Model:** PV10 v7 Unified | **Markets:** DNB (Draw No Bet, AH 0.0)
 > **Leagues:** A-League, J-League, K-League 1, Saudi Pro League, Chinese Super League
 
@@ -78,12 +78,12 @@ CLV measures whether our locked prices beat Pinnacle's closing line — consiste
 | 2026-04-04 | J.League | Nagoya Grampus vs Cerezo Osaka | home | 1.61 | 1.88 | -14.4% | W | +0.61 |
 | 2026-04-05 | J.League | V-Varen Nagasaki vs Shimizu S-Pulse | home | 1.99 | 2.00 | -0.5% | L | -1.00 |
 | 2026-04-05 | K-League 1 | Anyang vs Seoul FC | away | 1.50 | 1.47 | +2.0% | P | +0.00 |
-| 2026-04-05 | Saudi Pro League | Al Ettifaq vs Al-Qadsiah | away | 1.21 | 1.20 | +0.8% | L | -1.00 |
 | 2026-04-05 | Saudi Pro League | Al Riyadh vs Al Shabab | away | 1.42 | 1.42 | +0.0% | P | +0.00 |
+| 2026-04-05 | Saudi Pro League | Al Ettifaq vs Al-Qadsiah | away | 1.21 | 1.20 | +0.8% | L | -1.00 |
 | 2026-04-08 | Saudi Pro League | Al-Fayha vs Al Ahli | away | 1.25 | 1.19 | +5.0% | P | +0.00 |
 | 2026-04-08 | Saudi Pro League | Al Hilal vs Al Kholood | away | 11.31 | 14.32 | -21.0% | L | -0.50 |
-| 2026-04-09 | Saudi Pro League | Damac FC vs Al-Qadsiah | away | 1.23 | 1.22 | +0.8% | P | +0.00 |
 | 2026-04-09 | Saudi Pro League | Al Ettifaq vs Al Riyadh | away | 2.22 | 2.56 | -13.3% | W | +1.22 |
+| 2026-04-09 | Saudi Pro League | Damac FC vs Al-Qadsiah | away | 1.23 | 1.22 | +0.8% | P | +0.00 |
 | 2026-04-10 | Chinese Super League | Dalian Yingbo vs Zhejiang | away | 1.88 | 1.74 | +8.1% | L | -1.50 |
 
 Full play-by-play history: [`plays.csv`](plays.csv) | Machine-readable: [`ledger.json`](ledger.json)
