@@ -1,16 +1,9 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-04-11T19:56:23Z",
+  "published_at": "2026-04-12T04:39:55Z",
   "n_pending_locks": 6,
   "commitments": [
-    {
-      "match": "Tianjin Jinmen Tiger vs Qingdao Hainiu",
-      "league": "Chinese Super League",
-      "date": "2026-04-12",
-      "pv_matchid": "PV-chinese_super_league-19674780",
-      "commitment_hash": "0b692ce9a14f3f7ef979bd4d30be9b7ab685d59903a7b2a77519e2ec3b9a6e2e"
-    },
     {
       "match": "Beijing Guoan vs Chengdu Rongcheng",
       "league": "Chinese Super League",
@@ -24,6 +17,13 @@
       "date": "2026-04-12",
       "pv_matchid": "PV-chinese_super_league-19674778",
       "commitment_hash": "6f989304ff826696d708e420cb53556d29b758203b84f4227f17a507d1b66945"
+    },
+    {
+      "match": "Tianjin Jinmen Tiger vs Qingdao Hainiu",
+      "league": "Chinese Super League",
+      "date": "2026-04-12",
+      "pv_matchid": "PV-chinese_super_league-19674780",
+      "commitment_hash": "0b692ce9a14f3f7ef979bd4d30be9b7ab685d59903a7b2a77519e2ec3b9a6e2e"
     },
     {
       "match": "Daejeon Hana Citizen vs Gangwon FC",
