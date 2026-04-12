@@ -6,39 +6,25 @@
 
 ---
 
-## Today's Fixtures (9 matches, 4 locked plays — 1 free)
+## Today's Fixtures (5 matches, 4 locked plays — 1 free)
 
-### A-League (2 matches, 0 locks)
-
-Melbourne City FC vs Wellington Phoenix
-- No lock (below threshold)
+### A-League (1 matches, 0 locks)
 
 Perth Glory vs Macarthur
 - No lock (below threshold)
 
 ### Chinese Super League (3 matches, 3 locks)
 
-**Beijing Guoan vs Chengdu Rongcheng** — Fair: 2.50 / 1.67 | Pin: 1.76 / 2.13
+**Beijing Guoan vs Chengdu Rongcheng** — Fair: 2.49 / 1.67 | Pin: 1.75 / 2.14
 - � **FREE PICK — AWAY @ 2.13** (edge 29.1%)
 
 **Shenzhen Peng City vs Yunnan Yukun** — 🔒 LOCKED
 
 **Tianjin Jinmen Tiger vs Qingdao Hainiu** — 🔒 LOCKED
 
-### J.League (2 matches, 0 locks)
-
-Kawasaki Frontale vs Kashima Antlers
-- No lock (below threshold)
-
-Urawa Red Diamonds vs Tokyo Verdy
-- No lock (below threshold)
-
-### K-League 1 (2 matches, 1 locks)
+### K-League 1 (1 matches, 1 locks)
 
 **Daejeon Hana Citizen vs Gangwon FC** — 🔒 LOCKED
-
-Gimcheon Sangmu vs Anyang
-- No lock (below threshold)
 
 ---
 
