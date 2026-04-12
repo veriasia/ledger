@@ -12,7 +12,7 @@
       "Saudi Pro League",
       "Chinese Super League"
     ],
-    "updated_at": "2026-04-11T21:00:49Z",
+    "updated_at": "2026-04-12T09:12:30Z",
     "source": "https://github.com/veriasia/engine",
     "methodology": "Four-pillar performance rating (Finishing, Creation, Progression, Defensive) with per-league optimised pillar weights, logistic probability model, and market SP blending. Walk-forward backtest with no data leakage."
   },
@@ -697,21 +697,6 @@
       {
         "date": "2026-04-05",
         "league": "Saudi Pro League",
-        "home": "Al Ettifaq",
-        "away": "Al-Qadsiah",
-        "proposition": "away",
-        "locked_odds": 1.21,
-        "pinnacle_closing_odds": 1.2,
-        "clv_pct": 0.83,
-        "result": "loss",
-        "pl_units": -1.0,
-        "reasoning": "AWAY lock @ 1.21 (soft-lock edge +9.0%). Confirmed (standard): CLV +0.8% at T-149min. Current pin: 1.20, fair: 1.11.",
-        "commitment_cleartext": "PV-saudi_pro_league-19541966|Saudi Pro League|2026-04-05|Al Ettifaq|Al-Qadsiah|away|1.21|9.01|2026-04-05 15:30:18.355057",
-        "commitment_hash": "3fc3bdcb8fb4412c6a1c8029a89cc08cbf6920ccc716a57bd9637d784b101cb4"
-      },
-      {
-        "date": "2026-04-05",
-        "league": "Saudi Pro League",
         "home": "Al Riyadh",
         "away": "Al Shabab",
         "proposition": "away",
@@ -723,6 +708,21 @@
         "reasoning": "AWAY lock @ 1.42 (soft-lock edge +11.8%). Confirmed (standard): CLV +0.0% at T-149min. Current pin: 1.42, fair: 1.24.",
         "commitment_cleartext": "PV-saudi_pro_league-19541971|Saudi Pro League|2026-04-05|Al Riyadh|Al Shabab|away|1.42|11.81|2026-04-05 15:30:18.559654",
         "commitment_hash": "b7676f3e7f60beea667f82ff01738a5d0dd4c8553265b9f8a33f3c4e6fd83562"
+      },
+      {
+        "date": "2026-04-05",
+        "league": "Saudi Pro League",
+        "home": "Al Ettifaq",
+        "away": "Al-Qadsiah",
+        "proposition": "away",
+        "locked_odds": 1.21,
+        "pinnacle_closing_odds": 1.2,
+        "clv_pct": 0.83,
+        "result": "loss",
+        "pl_units": -1.0,
+        "reasoning": "AWAY lock @ 1.21 (soft-lock edge +9.0%). Confirmed (standard): CLV +0.8% at T-149min. Current pin: 1.20, fair: 1.11.",
+        "commitment_cleartext": "PV-saudi_pro_league-19541966|Saudi Pro League|2026-04-05|Al Ettifaq|Al-Qadsiah|away|1.21|9.01|2026-04-05 15:30:18.355057",
+        "commitment_hash": "3fc3bdcb8fb4412c6a1c8029a89cc08cbf6920ccc716a57bd9637d784b101cb4"
       },
       {
         "date": "2026-04-08",
@@ -817,17 +817,17 @@
       {
         "date": "2026-04-11",
         "league": "Chinese Super League",
-        "home": "Shanghai Shenhua",
-        "away": "Shanghai Port",
+        "home": "Qingdao West Coast",
+        "away": "Liaoning Tieren FC",
         "proposition": "away",
-        "locked_odds": 3.05,
-        "pinnacle_closing_odds": 3.45,
-        "clv_pct": -11.59,
-        "result": "loss",
-        "pl_units": -1.0,
-        "reasoning": "AWAY lock @ 3.05 (edge +7.0% vs threshold 7.0%). Model fair: 2.85 (35.1% implied). Pinnacle AH 0.0: 3.05 (32.8% implied). Components: market=0.685(w=0.30), Veri10-last5=0.534(w=0.28), Veri10-season=0.520(w=0.32), Veri10-H/A=0.900(w=0.10). Reasoning: Comparatively weaker signals come from last 5 matches, home/away split, market pricing. The +7.0% edge meets the 7% threshold required to lock. [direct-lock: model-strong league]",
-        "commitment_cleartext": "PV-chinese_super_league-19674781|Chinese Super League|2026-04-11|Shanghai Shenhua|Shanghai Port|away|3.05|7.02|2026-04-10 18:52:31.112944",
-        "commitment_hash": "142e12c5cd08f9be8ada9512e9c80ce28d065360d679cca46b877c968c821723"
+        "locked_odds": 2.1,
+        "pinnacle_closing_odds": 2.11,
+        "clv_pct": -0.47,
+        "result": "push",
+        "pl_units": 0.0,
+        "reasoning": "AWAY lock @ 2.10 (edge +19.3% vs threshold 7.0%). Model fair: 1.76 (56.8% implied). Pinnacle AH 0.0: 2.10 (47.6% implied). Components: market=0.551(w=0.30), Veri10-last5=0.353(w=0.28), Veri10-season=0.359(w=0.32), Veri10-H/A=0.781(w=0.10). Adjustments: travel=0.950. [direct-lock: model-strong league]",
+        "commitment_cleartext": "PV-chinese_super_league-19674783|Chinese Super League|2026-04-11|Qingdao West Coast|Liaoning Tieren FC|away|2.10|19.32|2026-04-07 09:41:15.246127",
+        "commitment_hash": "47c7418a80d356a4888f844e70f02dad00f3f14de92eb3fa23eb30a152cc35ed"
       },
       {
         "date": "2026-04-11",
@@ -847,32 +847,17 @@
       {
         "date": "2026-04-11",
         "league": "Chinese Super League",
-        "home": "Qingdao West Coast",
-        "away": "Liaoning Tieren FC",
+        "home": "Shanghai Shenhua",
+        "away": "Shanghai Port",
         "proposition": "away",
-        "locked_odds": 2.1,
-        "pinnacle_closing_odds": 2.11,
-        "clv_pct": -0.47,
-        "result": "push",
-        "pl_units": 0.0,
-        "reasoning": "AWAY lock @ 2.10 (edge +19.3% vs threshold 7.0%). Model fair: 1.76 (56.8% implied). Pinnacle AH 0.0: 2.10 (47.6% implied). Components: market=0.551(w=0.30), Veri10-last5=0.353(w=0.28), Veri10-season=0.359(w=0.32), Veri10-H/A=0.781(w=0.10). Adjustments: travel=0.950. [direct-lock: model-strong league]",
-        "commitment_cleartext": "PV-chinese_super_league-19674783|Chinese Super League|2026-04-11|Qingdao West Coast|Liaoning Tieren FC|away|2.10|19.32|2026-04-07 09:41:15.246127",
-        "commitment_hash": "47c7418a80d356a4888f844e70f02dad00f3f14de92eb3fa23eb30a152cc35ed"
-      },
-      {
-        "date": "2026-04-11",
-        "league": "J.League",
-        "home": "Vissel Kobe",
-        "away": "Nagoya Grampus",
-        "proposition": "away",
-        "locked_odds": 2.97,
-        "pinnacle_closing_odds": 2.95,
-        "clv_pct": 0.68,
+        "locked_odds": 3.05,
+        "pinnacle_closing_odds": 3.45,
+        "clv_pct": -11.59,
         "result": "loss",
         "pl_units": -1.0,
-        "reasoning": "AWAY lock @ 2.97 (soft-lock edge +10.8%). Confirmed (early): CLV +2.4% at T-3735min. Current pin: 2.90, fair: 2.80.",
-        "commitment_cleartext": "PV-j_league-19630351|J.League|2026-04-11|Vissel Kobe|Nagoya Grampus|away|2.97|10.82|2026-04-08 15:44:34.984061",
-        "commitment_hash": "c96228320b45a2d5fe4e07ee6ef34690ab47c343b7100d314123a59a97d2c54a"
+        "reasoning": "AWAY lock @ 3.05 (edge +7.0% vs threshold 7.0%). Model fair: 2.85 (35.1% implied). Pinnacle AH 0.0: 3.05 (32.8% implied). Components: market=0.685(w=0.30), Veri10-last5=0.534(w=0.28), Veri10-season=0.520(w=0.32), Veri10-H/A=0.900(w=0.10). Reasoning: Comparatively weaker signals come from last 5 matches, home/away split, market pricing. The +7.0% edge meets the 7% threshold required to lock. [direct-lock: model-strong league]",
+        "commitment_cleartext": "PV-chinese_super_league-19674781|Chinese Super League|2026-04-11|Shanghai Shenhua|Shanghai Port|away|3.05|7.02|2026-04-10 18:52:31.112944",
+        "commitment_hash": "142e12c5cd08f9be8ada9512e9c80ce28d065360d679cca46b877c968c821723"
       },
       {
         "date": "2026-04-11",
@@ -888,6 +873,21 @@
         "reasoning": "HOME lock @ 1.84 (soft-lock edge +10.2%). Confirmed (standard): CLV +5.1% at T-72min. Current pin: 1.75, fair: 1.62.",
         "commitment_cleartext": "PV-j_league-19630349|J.League|2026-04-11|Avispa Fukuoka|V-Varen Nagasaki|home|1.84|10.18|2026-04-11 03:47:45.943680",
         "commitment_hash": "a94ad4717e19ab7610b93c5ef094c1e89f7243c9784144310706d16f321b3f59"
+      },
+      {
+        "date": "2026-04-11",
+        "league": "J.League",
+        "home": "Vissel Kobe",
+        "away": "Nagoya Grampus",
+        "proposition": "away",
+        "locked_odds": 2.97,
+        "pinnacle_closing_odds": 2.95,
+        "clv_pct": 0.68,
+        "result": "loss",
+        "pl_units": -1.0,
+        "reasoning": "AWAY lock @ 2.97 (soft-lock edge +10.8%). Confirmed (early): CLV +2.4% at T-3735min. Current pin: 2.90, fair: 2.80.",
+        "commitment_cleartext": "PV-j_league-19630351|J.League|2026-04-11|Vissel Kobe|Nagoya Grampus|away|2.97|10.82|2026-04-08 15:44:34.984061",
+        "commitment_hash": "c96228320b45a2d5fe4e07ee6ef34690ab47c343b7100d314123a59a97d2c54a"
       },
       {
         "date": "2026-04-11",
