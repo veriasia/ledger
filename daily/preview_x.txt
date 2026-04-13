@@ -1,12 +1,5 @@
-Matchday Apr 12 | veriasia.io
-5 fixtures | 4 locked plays
-@sbobet @pinnacle @betinasia
-@aleaguemen @J_League_En @kleague
+Matchday Apr 13 | veriasia.io
 
-Chinese Super League:
-Beijing Guoan v Chengdu Rongcheng
-AH +0.0 | AWAY @ 2.13 (edge 29.1%)
+No matches today across our Asian leagues.
 
-+ 3 more locked plays
-
-SHA-256 committed | github.com/veriasia/ledger
+Veri10 v7 | DNB (AH 0.0)
