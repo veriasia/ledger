@@ -1,7 +1,7 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-04-13T09:26:26Z",
+  "published_at": "2026-04-13T20:30:54Z",
   "n_pending_locks": 4,
   "commitments": [
     {
@@ -19,18 +19,18 @@
       "commitment_hash": "298b96f14497960665710159e766d9f26eeb03d71787cc75165b8b9b6367feb1"
     },
     {
-      "match": "Zhejiang vs Beijing Guoan",
-      "league": "Chinese Super League",
-      "date": "2026-04-17",
-      "pv_matchid": "PV-chinese_super_league-19674774",
-      "commitment_hash": "1c927e0598b539b6138e83aeaf6764490de34e81857957433deee80c660907e2"
-    },
-    {
       "match": "Shandong Taishan vs Shanghai Port",
       "league": "Chinese Super League",
       "date": "2026-04-17",
       "pv_matchid": "PV-chinese_super_league-19674776",
       "commitment_hash": "de238505ae6455b516cddf30561a10eebc83b94a7246453205b50178b7bd7b5d"
+    },
+    {
+      "match": "Dalian Yingbo vs Henan Songshan Longmen",
+      "league": "Chinese Super League",
+      "date": "2026-04-18",
+      "pv_matchid": "PV-chinese_super_league-19674771",
+      "commitment_hash": "16c4636438455f984f8ae512ac42d8a4c62b9c7eaa0496be6b2ab1cd7c837187"
     }
   ]
 }
