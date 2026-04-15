@@ -10,7 +10,7 @@
 
 ### K-League 1 (1 matches, 1 locks)
 
-**Ulsan Hyundai vs Seoul FC** — Fair: 1.73 / 2.38 | Pin: 1.87 / 2.04
+**Ulsan Hyundai vs Seoul FC** — Fair: 1.69 / 2.45 | Pin: 1.81 / 2.12
 - � **FREE PICK — HOME @ 2.03** (edge 11.5%)
 
 ---
