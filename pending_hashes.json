@@ -1,15 +1,7 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-04-15T09:09:57Z",
-  "n_pending_locks": 1,
-  "commitments": [
-    {
-      "match": "Ulsan Hyundai vs Seoul FC",
-      "league": "K-League 1",
-      "date": "2026-04-15",
-      "pv_matchid": "PV-k_league-19648225",
-      "commitment_hash": "79b4ce73e51624ef851d479e55ef6953c41f60e6a7b67dee2219e1509c1aeb35"
-    }
-  ]
+  "published_at": "2026-04-15T20:13:37Z",
+  "n_pending_locks": 0,
+  "commitments": []
 }
