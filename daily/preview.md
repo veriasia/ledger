@@ -1,17 +1,12 @@
 # Veri Asia — Matchday Preview
 
-### Wednesday, April 15 2026
+### Thursday, April 16 2026
 
 > Veri10 v7 Unified | DNB (AH 0.0) | Pinnacle benchmark
 
 ---
 
-## Today's Fixtures (1 matches, 1 locked plays — 1 free)
-
-### K-League 1 (1 matches, 1 locks)
-
-**Ulsan Hyundai vs Seoul FC** — Fair: 1.69 / 2.45 | Pin: 1.81 / 2.12
-- � **FREE PICK — HOME @ 2.03** (edge 11.5%)
+## Today's Fixtures (0 matches, 0 open positions — 1 free)
 
 ---
 

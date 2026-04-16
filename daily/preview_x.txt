@@ -1,10 +1,5 @@
-Matchday Apr 15 | veriasia.io
-1 fixtures | 1 locked plays
-@sbobet @pinnacle @betinasia
-@aleaguemen @J_League_En @kleague
+Matchday Apr 16 | veriasia.io
 
-K-League 1:
-Ulsan Hyundai v Seoul FC
-AH +0.0 | HOME @ 2.03 (edge 11.5%)
+No matches today across our Asian leagues.
 
-SHA-256 committed | github.com/veriasia/ledger
+Veri10 v7 | DNB (AH 0.0)
