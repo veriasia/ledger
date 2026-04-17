@@ -1,5 +1,8 @@
-Matchday Apr 16 | veriasia.io
+Matchday Apr 17 | veriasia.io
+8 fixtures | 0 open positions
+@sbobet @pinnacle @betinasia
+@aleaguemen @J_League_En @kleague
 
-No matches today across our Asian leagues.
+No positions above threshold today.
 
-Veri10 v7 | DNB (AH 0.0)
+SHA-256 committed | github.com/veriasia/ledger
