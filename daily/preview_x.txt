@@ -1,8 +1,10 @@
 Matchday Apr 17 | veriasia.io
-8 fixtures | 0 open positions
+8 fixtures | 1 open positions
 @sbobet @pinnacle @betinasia
 @aleaguemen @J_League_En @kleague
 
-No positions above threshold today.
+A-League:
+Melbourne Victory v Newcastle United Jets
+AH +0.0 | HOME @ 1.62 (edge 11.0%)
 
 SHA-256 committed | github.com/veriasia/ledger

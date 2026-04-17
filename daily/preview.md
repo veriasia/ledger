@@ -6,12 +6,12 @@
 
 ---
 
-## Today's Fixtures (8 matches, 0 open positions — 1 free)
+## Today's Fixtures (8 matches, 1 open positions — 1 free)
 
-### A-League (1 matches, 0 positions)
+### A-League (1 matches, 1 positions)
 
-Melbourne Victory vs Newcastle United Jets
-- No position (below threshold)
+**Melbourne Victory vs Newcastle United Jets** — Fair: 1.46 / 3.19 | Pin: 1.62 / 2.42
+- � **FREE PICK — HOME @ 1.62** (edge 11.0%)
 
 ### Chinese Super League (6 matches, 0 positions)
 
