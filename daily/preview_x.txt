@@ -1,10 +1,16 @@
 Matchday Apr 18 | veriasia.io
-28 fixtures | 1 open positions
+13 fixtures | 6 open positions
 @sbobet @pinnacle @betinasia
 @aleaguemen @J_League_En @kleague
 
-K-League 2:
-Busan IPark v Suwon FC
-AH +0.0 | AWAY @ 1.88 (edge 14.6%)
+J.League 2:
+Shonan Bellmare v Thespa Kusatsu Gunma
+AH +0.0 | AWAY @ 3.37 (edge 15.4%)
+
+K-League 1:
+Gangwon FC v Jeonbuk Motors
+AH +0.0 | HOME @ 1.76 (edge 15.0%)
+
++ 4 more open positions
 
 SHA-256 committed | github.com/veriasia/ledger
