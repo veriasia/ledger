@@ -1,50 +1,7 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-04-18T08:37:01Z",
-  "n_pending_locks": 6,
-  "commitments": [
-    {
-      "match": "Shonan Bellmare vs Thespa Kusatsu Gunma",
-      "league": "J.League 2",
-      "date": "2026-04-18",
-      "pv_matchid": "PV-j_league_2-19664437",
-      "commitment_hash": "a380cf2731b78c1f5522749c15058be8c722fa387801e81c5038d36f5868c82d"
-    },
-    {
-      "match": "Bucheon 1995 vs Incheon United",
-      "league": "K-League 1",
-      "date": "2026-04-18",
-      "pv_matchid": "PV-k_league-19648187",
-      "commitment_hash": "547bc40595da8d0a31cf84f3d0d37630cd868499898435f671b57171895a243c"
-    },
-    {
-      "match": "Gangwon FC vs Jeonbuk Motors",
-      "league": "K-League 1",
-      "date": "2026-04-18",
-      "pv_matchid": "PV-k_league-19648190",
-      "commitment_hash": "969c2f73393b08e4147d7d9bc88b2fe122917842517faee0af0a529ceef5cebe"
-    },
-    {
-      "match": "Jeju United vs Gimcheon Sangmu",
-      "league": "K-League 1",
-      "date": "2026-04-18",
-      "pv_matchid": "PV-k_league-19648188",
-      "commitment_hash": "3cbd793aebee72a7357ff62b2881b30741d01c27f91c45454a02692347c2e4d8"
-    },
-    {
-      "match": "Busan IPark vs Suwon FC",
-      "league": "K-League 2",
-      "date": "2026-04-18",
-      "pv_matchid": "PV-k_league_2-19676481",
-      "commitment_hash": "51b3f26f865b7157a9af3341f6076e62eb30528ea2dad8547b2f233f739e0ef1"
-    },
-    {
-      "match": "Cheongju vs Gimhae City",
-      "league": "K-League 2",
-      "date": "2026-04-18",
-      "pv_matchid": "PV-k_league_2-19676478",
-      "commitment_hash": "98a7fb3ae5e23d725df221983bb530c4642bd235911eb355ccf8e21aeb4a4b5e"
-    }
-  ]
+  "published_at": "2026-04-18T19:58:11Z",
+  "n_pending_locks": 0,
+  "commitments": []
 }
