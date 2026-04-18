@@ -1,10 +1,10 @@
-Matchday Apr 17 | veriasia.io
-8 fixtures | 1 open positions
+Matchday Apr 18 | veriasia.io
+28 fixtures | 1 open positions
 @sbobet @pinnacle @betinasia
 @aleaguemen @J_League_En @kleague
 
-A-League:
-Melbourne Victory v Newcastle United Jets
-AH +0.0 | HOME @ 1.62 (edge 11.0%)
+K-League 2:
+Busan IPark v Suwon FC
+AH +0.0 | AWAY @ 1.88 (edge 14.6%)
 
 SHA-256 committed | github.com/veriasia/ledger

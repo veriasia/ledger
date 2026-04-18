@@ -1,41 +1,107 @@
 # Veri Asia — Matchday Preview
 
-### Friday, April 17 2026
+### Saturday, April 18 2026
 
 > Veri10 v7 Unified | DNB (AH 0.0) | Pinnacle benchmark
 
 ---
 
-## Today's Fixtures (8 matches, 1 open positions — 1 free)
+## Today's Fixtures (28 matches, 1 open positions — 4 free)
 
-### A-League (1 matches, 1 positions)
+### A-League (3 matches, 0 positions)
 
-**Melbourne Victory vs Newcastle United Jets** — Fair: 1.46 / 3.19 | Pin: 1.62 / 2.42
-- � **FREE PICK — HOME @ 1.62** (edge 11.0%)
-
-### Chinese Super League (6 matches, 0 positions)
-
-Chongqing Tonglianglong FC vs Shenzhen Peng City
+Brisbane Roar vs Melbourne City FC
 - No position (below threshold)
 
-Qingdao Hainiu vs Qingdao West Coast
+Sydney vs Perth Glory
 - No position (below threshold)
 
-Shandong Taishan vs Shanghai Port
+Wellington Phoenix vs Western Sydney Wanderers
 - No position (below threshold)
 
-Wuhan Three Towns vs Chengdu Rongcheng
+### Chinese Super League (2 matches, 0 positions)
+
+Dalian Yingbo vs Henan Songshan Longmen
 - No position (below threshold)
 
-Yunnan Yukun vs Tianjin Jinmen Tiger
+Shanghai Shenhua vs Liaoning Tieren FC
 - No position (below threshold)
 
-Zhejiang vs Beijing Guoan
+### J.League (5 matches, 0 positions)
+
+Cerezo Osaka vs Kyoto Sanga
 - No position (below threshold)
 
-### J.League 2 (1 matches, 0 positions)
+Kashima Antlers vs Urawa Red Diamonds
+- No position (below threshold)
 
-Osaka vs Ehime
+Sanfrecce Hiroshima vs V-Varen Nagasaki
+- No position (below threshold)
+
+Tokyo Verdy vs JEF United
+- No position (below threshold)
+
+Yokohama F. Marinos vs Kawasaki Frontale
+- No position (below threshold)
+
+### J.League 2 (10 matches, 0 positions)
+
+Albirex Niigata vs Imabari
+- No position (below threshold)
+
+Consadole Sapporo vs Matsumoto Yamaga
+- No position (below threshold)
+
+Nara Club vs Kamatamare Sanuki
+- No position (below threshold)
+
+Omiya Ardija vs Jubilo Iwata
+- No position (below threshold)
+
+Renofa Yamaguchi vs Kagoshima United
+- No position (below threshold)
+
+Ryukyu vs Giravanz Kitakyushu
+- No position (below threshold)
+
+Shonan Bellmare vs Thespa Kusatsu Gunma
+- No position (below threshold)
+
+Tokushima Vortis vs Zweigen Kanazawa
+- No position (below threshold)
+
+Vegalta Sendai vs Tochigi City
+- No position (below threshold)
+
+Ventforet Kofu vs Fujieda MYFC
+- No position (below threshold)
+
+### K-League 1 (4 matches, 0 positions)
+
+Bucheon 1995 vs Incheon United
+- No position (below threshold)
+
+Gangwon FC vs Jeonbuk Motors
+- No position (below threshold)
+
+Jeju United vs Gimcheon Sangmu
+- No position (below threshold)
+
+Seoul FC vs Daejeon Hana Citizen
+- No position (below threshold)
+
+### K-League 2 (4 matches, 1 positions)
+
+**Busan IPark vs Suwon FC** — Fair: 2.55 / 1.64 | Pin: 1.95 / 1.90
+- � **FREE PICK — AWAY @ 1.88** (edge 14.6%)
+
+Cheongju vs Gimhae City
+- No position (below threshold)
+
+Daegu FC vs Cheonan City
+- No position (below threshold)
+
+Gyeongnam FC vs Suwon Samsung Bluewings
 - No position (below threshold)
 
 ---
