@@ -1,7 +1,15 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-04-17T20:09:31Z",
-  "n_pending_locks": 0,
-  "commitments": []
+  "published_at": "2026-04-18T04:24:49Z",
+  "n_pending_locks": 1,
+  "commitments": [
+    {
+      "match": "Busan IPark vs Suwon FC",
+      "league": "K-League 2",
+      "date": "2026-04-18",
+      "pv_matchid": "PV-k_league_2-19676481",
+      "commitment_hash": "51b3f26f865b7157a9af3341f6076e62eb30528ea2dad8547b2f233f739e0ef1"
+    }
+  ]
 }
