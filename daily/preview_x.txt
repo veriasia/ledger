@@ -1,5 +1,5 @@
 Matchday Apr 19 | veriasia.io
-19 fixtures | 2 open positions
+5 fixtures | 2 open positions
 @sbobet @pinnacle @betinasia
 @aleaguemen @J_League_En @kleague
 
@@ -7,8 +7,6 @@ J.League:
 Gamba Osaka v Fagiano Okayama FC
 AH +0.0 | HOME @ 1.44 (edge 10.8%)
 
-J.League 2:
-Montedio Yamagata v Vanraure Hachinohe
-AH +0.0 | AWAY @ 1.74 (edge 12.3%)
++ 1 more open positions
 
 SHA-256 committed | github.com/veriasia/ledger
