@@ -1,58 +1,78 @@
 # Veri Asia — Matchday Preview
 
-### Saturday, April 18 2026
+### Sunday, April 19 2026
 
 > Veri10 v7 Unified | DNB (AH 0.0) | Pinnacle benchmark
 
 ---
 
-## Today's Fixtures (13 matches, 6 open positions — 2 free)
+## Today's Fixtures (19 matches, 2 open positions — 3 free)
 
-### A-League (2 matches, 0 positions)
+### A-League (1 matches, 0 positions)
 
-Brisbane Roar vs Melbourne City FC
+Adelaide United vs Macarthur
 - No position (below threshold)
 
-Sydney vs Perth Glory
+### J.League (3 matches, 1 positions)
+
+**Gamba Osaka vs Fagiano Okayama FC** — Fair: 1.41 / 3.42 | Pin: 1.44 / 2.93
+- � **FREE PICK — HOME @ 1.44** (edge 10.8%)
+
+Mito Hollyhock vs Kashiwa Reysol
 - No position (below threshold)
 
-### Chinese Super League (2 matches, 0 positions)
-
-Dalian Yingbo vs Henan Songshan Longmen
+Nagoya Grampus vs Avispa Fukuoka
 - No position (below threshold)
 
-Shanghai Shenhua vs Liaoning Tieren FC
+### J.League 2 (9 matches, 1 positions)
+
+Blaublitz Akita vs Yokohama FC
 - No position (below threshold)
 
-### J.League (1 matches, 0 positions)
-
-Cerezo Osaka vs Kyoto Sanga
+Fukushima United vs Gifu
 - No position (below threshold)
 
-### J.League 2 (2 matches, 1 positions)
-
-Ryukyu vs Giravanz Kitakyushu
+Gainare Tottori vs Tegevajaro Miyazaki
 - No position (below threshold)
 
-**Shonan Bellmare vs Thespa Kusatsu Gunma** — Fair: 1.52 / 2.92 | Pin: 1.27 / 3.37
-- � **FREE PICK — AWAY @ 3.37** (edge 15.4%)
+Iwaki vs Parceiro Nagano
+- No position (below threshold)
 
-### K-League 1 (3 matches, 3 positions)
+Kataller Toyama vs Kochi United
+- No position (below threshold)
 
-**Bucheon 1995 vs Incheon United** — 🔒 OPEN POSITION
+**Montedio Yamagata vs Vanraure Hachinohe** — Fair: 2.52 / 1.66 | Pin: 2.01 / 1.74
+- � **FREE PICK — AWAY @ 1.74** (edge 12.3%)
 
-**Gangwon FC vs Jeonbuk Motors** — Fair: 1.53 / 2.89 | Pin: 1.76 / 2.17
-- � **FREE PICK — HOME @ 1.76** (edge 15.0%)
+Rayluck Shiga vs Oita Trinita
+- No position (below threshold)
 
-**Jeju United vs Gimcheon Sangmu** — 🔒 OPEN POSITION
+Roasso Kumamoto vs Sagan Tosu
+- No position (below threshold)
 
-### K-League 2 (3 matches, 2 positions)
+Tochigi vs Sagamihara
+- No position (below threshold)
 
-**Busan IPark vs Suwon FC** — 🔒 OPEN POSITION
+### K-League 1 (2 matches, 0 positions)
 
-**Cheongju vs Gimhae City** — 🔒 OPEN POSITION
+Pohang Steelers vs Anyang
+- No position (below threshold)
 
-Daegu FC vs Cheonan City
+Ulsan Hyundai vs Gwangju
+- No position (below threshold)
+
+### K-League 2 (4 matches, 0 positions)
+
+Ansan Greeners vs Seoul E-Land
+- No position (below threshold)
+
+Chungnam Asan vs Jeonnam Dragons
+- No position (below threshold)
+
+Hwaseong vs Gimpo FC
+- No position (below threshold)
+
+Seongnam FC vs Paju Citizen
 - No position (below threshold)
 
 ---
