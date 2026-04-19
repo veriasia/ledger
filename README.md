@@ -2,7 +2,7 @@
 
 > **The gold standard for match probability in Asian football.**
 
-> **Last updated:** 2026-04-18 21:03 UTC
+> **Last updated:** 2026-04-19 09:14 UTC
 > **Model:** PV10 v7 Unified | **Markets:** DNB (Draw No Bet, AH 0.0)
 > **Leagues:** A-League, J-League, K-League 1, Saudi Pro League, Chinese Super League
 
@@ -62,31 +62,31 @@ CLV measures whether our locked prices beat Pinnacle's closing line — consiste
 
 | Date | League | Match | Side | Locked | Close | CLV | Result | P/L |
 |------|--------|-------|------|--------|-------|-----|--------|-----|
-| 2026-04-05 | Saudi Pro League | Al Riyadh vs Al Shabab | away | 1.42 | 1.42 | +0.0% | P | +0.00 |
+| 2026-04-05 | Saudi Pro League | Al Ettifaq vs Al-Qadsiah | away | 1.21 | 1.20 | +0.8% | L | -1.00 |
 | 2026-04-08 | Saudi Pro League | Al Hilal vs Al Kholood | away | 11.31 | 14.32 | -21.0% | L | -0.50 |
 | 2026-04-08 | Saudi Pro League | Al-Fayha vs Al Ahli | away | 1.25 | 1.19 | +5.0% | P | +0.00 |
-| 2026-04-09 | Saudi Pro League | Damac FC vs Al-Qadsiah | away | 1.23 | 1.22 | +0.8% | P | +0.00 |
 | 2026-04-09 | Saudi Pro League | Al Ettifaq vs Al Riyadh | away | 2.22 | 2.56 | -13.3% | W | +1.22 |
+| 2026-04-09 | Saudi Pro League | Damac FC vs Al-Qadsiah | away | 1.23 | 1.22 | +0.8% | P | +0.00 |
 | 2026-04-10 | Chinese Super League | Dalian Yingbo vs Zhejiang | away | 1.88 | 1.74 | +8.1% | L | -1.50 |
 | 2026-04-11 | A-League | Western Sydney Wanderers vs Sydney | away | 1.95 | 1.91 | +2.1% | W | +0.95 |
 | 2026-04-11 | Chinese Super League | Henan Songshan Longmen vs Shandong Taishan | home | 1.97 | 1.54 | +27.9% | L | -1.50 |
 | 2026-04-11 | Chinese Super League | Shanghai Shenhua vs Shanghai Port | away | 3.05 | 3.45 | -11.6% | L | -1.00 |
 | 2026-04-11 | Chinese Super League | Qingdao West Coast vs Liaoning Tieren FC | away | 2.10 | 2.11 | -0.5% | P | +0.00 |
-| 2026-04-11 | J.League | Avispa Fukuoka vs V-Varen Nagasaki | home | 1.84 | 1.75 | +5.1% | W | +0.84 |
 | 2026-04-11 | J.League | Vissel Kobe vs Nagoya Grampus | away | 2.97 | 2.95 | +0.7% | L | -1.00 |
-| 2026-04-11 | K-League 1 | Incheon United vs Ulsan Hyundai | away | 2.05 | 1.93 | +6.2% | W | +1.05 |
+| 2026-04-11 | J.League | Avispa Fukuoka vs V-Varen Nagasaki | home | 1.84 | 1.75 | +5.1% | W | +0.84 |
 | 2026-04-11 | K-League 1 | Seoul FC vs Jeonbuk Motors | away | 2.45 | 2.30 | +6.5% | L | -1.00 |
+| 2026-04-11 | K-League 1 | Incheon United vs Ulsan Hyundai | away | 2.05 | 1.93 | +6.2% | W | +1.05 |
 | 2026-04-11 | Saudi Pro League | Al Hazm vs Al-Fayha | home | 1.84 | 2.33 | -21.0% | W | +1.26 |
+| 2026-04-12 | Chinese Super League | Beijing Guoan vs Chengdu Rongcheng | away | 2.13 | 2.17 | -1.8% | W | +1.70 |
 | 2026-04-12 | Chinese Super League | Shenzhen Peng City vs Yunnan Yukun | away | 1.68 | 1.99 | -15.6% | W | +1.02 |
 | 2026-04-12 | Chinese Super League | Tianjin Jinmen Tiger vs Qingdao Hainiu | away | 2.45 | 2.88 | -14.9% | P | +0.00 |
-| 2026-04-12 | Chinese Super League | Beijing Guoan vs Chengdu Rongcheng | away | 2.13 | 2.17 | -1.8% | W | +1.70 |
 | 2026-04-12 | K-League 1 | Daejeon Hana Citizen vs Gangwon FC | away | 2.21 | 2.14 | +3.3% | W | +1.21 |
 | 2026-04-14 | Saudi Pro League | Al-Qadsiah vs Al Shabab | home | 1.28 | 1.27 | +0.8% | P | +0.00 |
 | 2026-04-15 | K-League 1 | Ulsan Hyundai vs Seoul FC | home | 2.03 | 1.88 | +8.0% | L | -1.00 |
 | 2026-04-17 | A-League | Melbourne Victory vs Newcastle United Jets | home | 1.62 | 1.62 | +0.0% | P | +0.00 |
 | 2026-04-18 | K-League 1 | Gangwon FC vs Jeonbuk Motors | home | 1.76 | 1.76 | +0.0% | P | +0.00 |
-| 2026-04-18 | K-League 1 | Jeju United vs Gimcheon Sangmu | away | 1.74 | 1.75 | -0.6% | P | +0.00 |
 | 2026-04-18 | K-League 1 | Bucheon 1995 vs Incheon United | away | 1.63 | 1.63 | +0.0% | P | +0.00 |
+| 2026-04-18 | K-League 1 | Jeju United vs Gimcheon Sangmu | away | 1.74 | 1.75 | -0.6% | P | +0.00 |
 
 Full play-by-play history: [`plays.csv`](plays.csv) | Machine-readable: [`ledger.json`](ledger.json)
 
