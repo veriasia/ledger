@@ -1,12 +1,5 @@
-Matchday Apr 19 | veriasia.io
-5 fixtures | 2 open positions
-@sbobet @pinnacle @betinasia
-@aleaguemen @J_League_En @kleague
+Matchday Apr 20 | veriasia.io
 
-J.League:
-Gamba Osaka v Fagiano Okayama FC
-AH +0.0 | HOME @ 1.44 (edge 10.8%)
+No matches today across our Asian leagues.
 
-+ 1 more open positions
-
-SHA-256 committed | github.com/veriasia/ledger
+Veri10 v7 | DNB (AH 0.0)
