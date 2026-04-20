@@ -1,7 +1,43 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-04-20T09:48:36Z",
-  "n_pending_locks": 0,
-  "commitments": []
+  "published_at": "2026-04-20T20:09:29Z",
+  "n_pending_locks": 5,
+  "commitments": [
+    {
+      "match": "Shanghai Port vs Chongqing Tonglianglong FC",
+      "league": "Chinese Super League",
+      "date": "2026-04-21",
+      "pv_matchid": "PV-chinese_super_league-19674766",
+      "commitment_hash": "496885ae193f9836899f3f4d2e35879eaf4842c4432e9c811f45b59fdf3b2d48"
+    },
+    {
+      "match": "Tianjin Jinmen Tiger vs Shandong Taishan",
+      "league": "Chinese Super League",
+      "date": "2026-04-21",
+      "pv_matchid": "PV-chinese_super_league-19674765",
+      "commitment_hash": "da159977eada8c06fb8be6ca0f4a4e22c466b5aa7ea6c5cd928cc3a1290cb5de"
+    },
+    {
+      "match": "Wuhan Three Towns vs Zhejiang",
+      "league": "Chinese Super League",
+      "date": "2026-04-21",
+      "pv_matchid": "PV-chinese_super_league-19674767",
+      "commitment_hash": "80f59b3f329988b90428cfe9de8e83fd1fc2ee4bf656a1f1214c05de4931b641"
+    },
+    {
+      "match": "Jeonbuk Motors vs Incheon United",
+      "league": "K-League 1",
+      "date": "2026-04-21",
+      "pv_matchid": "PV-k_league-19648182",
+      "commitment_hash": "fcd8aed22d0113cc90ef879c665a6e65f102f0cf8f19c5c14ac3dc250a921cc2"
+    },
+    {
+      "match": "Seoul FC vs Bucheon 1995",
+      "league": "K-League 1",
+      "date": "2026-04-21",
+      "pv_matchid": "PV-k_league-19648183",
+      "commitment_hash": "137c31f7f4c38d1a73cfcb94c6f0999d10b7a54083b2b418bdc5d42fa180833d"
+    }
+  ]
 }
