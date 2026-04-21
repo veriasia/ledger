@@ -1,5 +1,12 @@
-Matchday Apr 20 | veriasia.io
+Matchday Apr 21 | veriasia.io
+8 fixtures | 5 open positions
+@sbobet @pinnacle @betinasia
+@aleaguemen @J_League_En @kleague
 
-No matches today across our Asian leagues.
+Chinese Super League:
+Shanghai Port v Chongqing Tonglianglong FC
+AH +0.0 | AWAY @ 3.14 (edge 20.8%)
 
-Veri10 v7 | DNB (AH 0.0)
++ 4 more open positions
+
+SHA-256 committed | github.com/veriasia/ledger
