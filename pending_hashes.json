@@ -1,9 +1,16 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-04-20T20:09:29Z",
-  "n_pending_locks": 5,
+  "published_at": "2026-04-21T04:42:10Z",
+  "n_pending_locks": 8,
   "commitments": [
+    {
+      "match": "Wuhan Three Towns vs Zhejiang",
+      "league": "Chinese Super League",
+      "date": "2026-04-21",
+      "pv_matchid": "PV-chinese_super_league-19674767",
+      "commitment_hash": "80f59b3f329988b90428cfe9de8e83fd1fc2ee4bf656a1f1214c05de4931b641"
+    },
     {
       "match": "Shanghai Port vs Chongqing Tonglianglong FC",
       "league": "Chinese Super League",
@@ -19,13 +26,6 @@
       "commitment_hash": "da159977eada8c06fb8be6ca0f4a4e22c466b5aa7ea6c5cd928cc3a1290cb5de"
     },
     {
-      "match": "Wuhan Three Towns vs Zhejiang",
-      "league": "Chinese Super League",
-      "date": "2026-04-21",
-      "pv_matchid": "PV-chinese_super_league-19674767",
-      "commitment_hash": "80f59b3f329988b90428cfe9de8e83fd1fc2ee4bf656a1f1214c05de4931b641"
-    },
-    {
       "match": "Jeonbuk Motors vs Incheon United",
       "league": "K-League 1",
       "date": "2026-04-21",
@@ -38,6 +38,27 @@
       "date": "2026-04-21",
       "pv_matchid": "PV-k_league-19648183",
       "commitment_hash": "137c31f7f4c38d1a73cfcb94c6f0999d10b7a54083b2b418bdc5d42fa180833d"
+    },
+    {
+      "match": "Liaoning Tieren FC vs Dalian Yingbo",
+      "league": "Chinese Super League",
+      "date": "2026-04-22",
+      "pv_matchid": "PV-chinese_super_league-19674764",
+      "commitment_hash": "7c77447b566ff898911466692eb50371c35aa0eb2aa806a64646918aaa27389b"
+    },
+    {
+      "match": "Qingdao West Coast vs Henan Songshan Longmen",
+      "league": "Chinese Super League",
+      "date": "2026-04-22",
+      "pv_matchid": "PV-chinese_super_league-19674763",
+      "commitment_hash": "1760c056320afc1f2e30d052e67fb5ef17456a835118accf83f49224b2efac41"
+    },
+    {
+      "match": "Anyang vs Ulsan Hyundai",
+      "league": "K-League 1",
+      "date": "2026-04-22",
+      "pv_matchid": "PV-k_league-19648180",
+      "commitment_hash": "9ba1df155a96ea64a75775c4fa5eb43a9977d567b5ba11b81d45cbcc4c45b5f6"
     }
   ]
 }
