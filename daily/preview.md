@@ -13,7 +13,7 @@
 Chengdu Rongcheng vs Yunnan Yukun
 - No position (below threshold)
 
-**Shanghai Port vs Chongqing Tonglianglong FC** — Fair: 1.67 / 2.49 | Pin: 1.47 / 2.80
+**Shanghai Port vs Chongqing Tonglianglong FC** — Fair: 1.69 / 2.46 | Pin: 1.49 / 2.72
 - � **FREE PICK — AWAY @ 3.14** (edge 20.8%)
 
 Shenzhen Peng City vs Beijing Guoan
