@@ -1,7 +1,7 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-04-21T20:14:37Z",
+  "published_at": "2026-04-22T04:39:41Z",
   "n_pending_locks": 3,
   "commitments": [
     {
@@ -9,7 +9,7 @@
       "league": "Chinese Super League",
       "date": "2026-04-22",
       "pv_matchid": "PV-chinese_super_league-19674764",
-      "commitment_hash": "7c77447b566ff898911466692eb50371c35aa0eb2aa806a64646918aaa27389b"
+      "commitment_hash": "af1594ef8af5326528733dcbb232961c4ac67844081f1f6ae2c04559767e25ed"
     },
     {
       "match": "Qingdao West Coast vs Henan Songshan Longmen",
@@ -23,7 +23,7 @@
       "league": "K-League 1",
       "date": "2026-04-22",
       "pv_matchid": "PV-k_league-19648180",
-      "commitment_hash": "9ba1df155a96ea64a75775c4fa5eb43a9977d567b5ba11b81d45cbcc4c45b5f6"
+      "commitment_hash": "e4cfb7e56d16cb8fe41a2785b80b603abbeec3e37992838d161fc955002ab4dd"
     }
   ]
 }
