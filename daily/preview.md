@@ -6,14 +6,14 @@
 
 ---
 
-## Today's Fixtures (7 matches, 3 open positions — 1 free)
+## Today's Fixtures (7 matches, 4 open positions — 1 free)
 
 ### Chinese Super League (3 matches, 2 positions)
 
 **Liaoning Tieren FC vs Dalian Yingbo** — 🔒 OPEN POSITION
 
-**Qingdao West Coast vs Henan Songshan Longmen** — Fair: 2.30 / 1.77 | Pin: 1.92 / 1.97
-- � **FREE PICK — AWAY @ 1.97** (edge 10.7%)
+**Qingdao West Coast vs Henan Songshan Longmen** — Fair: 2.23 / 1.81 | Pin: 1.82 / 2.09
+- � **FREE PICK — AWAY @ 2.09** (edge 15.5%)
 
 Shanghai Shenhua vs Qingdao Hainiu
 - No position (below threshold)
@@ -23,15 +23,14 @@ Shanghai Shenhua vs Qingdao Hainiu
 Gamba Osaka vs Avispa Fukuoka
 - No position (below threshold)
 
-### K-League 1 (3 matches, 1 positions)
+### K-League 1 (3 matches, 2 positions)
 
 **Anyang vs Ulsan Hyundai** — 🔒 OPEN POSITION
 
 Daejeon Hana Citizen vs Jeju United
 - No position (below threshold)
 
-Pohang Steelers vs Gwangju
-- No position (below threshold)
+**Pohang Steelers vs Gwangju** — 🔒 OPEN POSITION
 
 ---
 

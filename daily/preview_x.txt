@@ -1,12 +1,12 @@
 Matchday Apr 22 | veriasia.io
-7 fixtures | 3 open positions
+7 fixtures | 4 open positions
 @sbobet @pinnacle @betinasia
 @aleaguemen @J_League_En @kleague
 
 Chinese Super League:
 Qingdao West Coast v Henan Songshan Longmen
-AH +0.0 | AWAY @ 1.97 (edge 10.7%)
+AH +0.0 | AWAY @ 2.09 (edge 15.5%)
 
-+ 2 more open positions
++ 3 more open positions
 
 SHA-256 committed | github.com/veriasia/ledger
