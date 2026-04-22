@@ -1,12 +1,12 @@
-Matchday Apr 21 | veriasia.io
-8 fixtures | 5 open positions
+Matchday Apr 22 | veriasia.io
+7 fixtures | 3 open positions
 @sbobet @pinnacle @betinasia
 @aleaguemen @J_League_En @kleague
 
 Chinese Super League:
-Shanghai Port v Chongqing Tonglianglong FC
-AH +0.0 | AWAY @ 3.14 (edge 20.8%)
+Qingdao West Coast v Henan Songshan Longmen
+AH +0.0 | AWAY @ 1.97 (edge 10.7%)
 
-+ 4 more open positions
++ 2 more open positions
 
 SHA-256 committed | github.com/veriasia/ledger

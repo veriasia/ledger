@@ -1,36 +1,37 @@
 # Veri Asia — Matchday Preview
 
-### Tuesday, April 21 2026
+### Wednesday, April 22 2026
 
 > Veri10 v7 Unified | DNB (AH 0.0) | Pinnacle benchmark
 
 ---
 
-## Today's Fixtures (8 matches, 5 open positions — 1 free)
+## Today's Fixtures (7 matches, 3 open positions — 1 free)
 
-### Chinese Super League (5 matches, 3 positions)
+### Chinese Super League (3 matches, 2 positions)
 
-Chengdu Rongcheng vs Yunnan Yukun
+**Liaoning Tieren FC vs Dalian Yingbo** — 🔒 OPEN POSITION
+
+**Qingdao West Coast vs Henan Songshan Longmen** — Fair: 2.30 / 1.77 | Pin: 1.92 / 1.97
+- � **FREE PICK — AWAY @ 1.97** (edge 10.7%)
+
+Shanghai Shenhua vs Qingdao Hainiu
 - No position (below threshold)
 
-**Shanghai Port vs Chongqing Tonglianglong FC** — Fair: 1.69 / 2.46 | Pin: 1.49 / 2.72
-- � **FREE PICK — AWAY @ 3.14** (edge 20.8%)
+### J.League (1 matches, 0 positions)
 
-Shenzhen Peng City vs Beijing Guoan
+Gamba Osaka vs Avispa Fukuoka
 - No position (below threshold)
 
-**Tianjin Jinmen Tiger vs Shandong Taishan** — 🔒 OPEN POSITION
+### K-League 1 (3 matches, 1 positions)
 
-**Wuhan Three Towns vs Zhejiang** — 🔒 OPEN POSITION
+**Anyang vs Ulsan Hyundai** — 🔒 OPEN POSITION
 
-### K-League 1 (3 matches, 2 positions)
-
-Gimcheon Sangmu vs Gangwon FC
+Daejeon Hana Citizen vs Jeju United
 - No position (below threshold)
 
-**Jeonbuk Motors vs Incheon United** — 🔒 OPEN POSITION
-
-**Seoul FC vs Bucheon 1995** — 🔒 OPEN POSITION
+Pohang Steelers vs Gwangju
+- No position (below threshold)
 
 ---
 
