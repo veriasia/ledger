@@ -1,29 +1,36 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-04-22T04:39:41Z",
-  "n_pending_locks": 3,
+  "published_at": "2026-04-22T09:11:14Z",
+  "n_pending_locks": 4,
   "commitments": [
-    {
-      "match": "Liaoning Tieren FC vs Dalian Yingbo",
-      "league": "Chinese Super League",
-      "date": "2026-04-22",
-      "pv_matchid": "PV-chinese_super_league-19674764",
-      "commitment_hash": "af1594ef8af5326528733dcbb232961c4ac67844081f1f6ae2c04559767e25ed"
-    },
     {
       "match": "Qingdao West Coast vs Henan Songshan Longmen",
       "league": "Chinese Super League",
       "date": "2026-04-22",
       "pv_matchid": "PV-chinese_super_league-19674763",
-      "commitment_hash": "1760c056320afc1f2e30d052e67fb5ef17456a835118accf83f49224b2efac41"
+      "commitment_hash": "2666659e398dd4a74cb295b05f04b88a593863166403718b86aa432ac1c3d0fb"
+    },
+    {
+      "match": "Liaoning Tieren FC vs Dalian Yingbo",
+      "league": "Chinese Super League",
+      "date": "2026-04-22",
+      "pv_matchid": "PV-chinese_super_league-19674764",
+      "commitment_hash": "8f7339c0573023d90e5317092c37292d0452cfc8df95ddcc6ce869c9804c8fde"
     },
     {
       "match": "Anyang vs Ulsan Hyundai",
       "league": "K-League 1",
       "date": "2026-04-22",
       "pv_matchid": "PV-k_league-19648180",
-      "commitment_hash": "e4cfb7e56d16cb8fe41a2785b80b603abbeec3e37992838d161fc955002ab4dd"
+      "commitment_hash": "89a66ffe08f542fcba0fcb8e980551d33eb2ca05c60f7e22f296a55804836cfd"
+    },
+    {
+      "match": "Pohang Steelers vs Gwangju",
+      "league": "K-League 1",
+      "date": "2026-04-22",
+      "pv_matchid": "PV-k_league-19648179",
+      "commitment_hash": "13bb6f6962e8d7c527dabe2d7f6f3b34a58574ccc2149faef562b6916a95114b"
     }
   ]
 }
