@@ -1,36 +1,71 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-04-22T09:11:14Z",
-  "n_pending_locks": 4,
+  "published_at": "2026-04-24T20:06:28Z",
+  "n_pending_locks": 9,
   "commitments": [
     {
-      "match": "Qingdao West Coast vs Henan Songshan Longmen",
-      "league": "Chinese Super League",
-      "date": "2026-04-22",
-      "pv_matchid": "PV-chinese_super_league-19674763",
-      "commitment_hash": "2666659e398dd4a74cb295b05f04b88a593863166403718b86aa432ac1c3d0fb"
+      "match": "Perth Glory vs Brisbane Roar",
+      "league": "A-League",
+      "date": "2026-04-25",
+      "pv_matchid": "PV-a_league-19577515",
+      "commitment_hash": "c37d03cd39641645a8197224a9315e9a0637f05b1778a597421158e5bf499397"
     },
     {
-      "match": "Liaoning Tieren FC vs Dalian Yingbo",
-      "league": "Chinese Super League",
-      "date": "2026-04-22",
-      "pv_matchid": "PV-chinese_super_league-19674764",
-      "commitment_hash": "8f7339c0573023d90e5317092c37292d0452cfc8df95ddcc6ce869c9804c8fde"
+      "match": "Thespa Kusatsu Gunma vs Yokohama FC",
+      "league": "J.League 2",
+      "date": "2026-04-25",
+      "pv_matchid": "PV-j_league_2-19664418",
+      "commitment_hash": "7a9052c262d5a8efa51ed6d168989b95cfb0a09c4901de836d97656b6868d169"
     },
     {
-      "match": "Anyang vs Ulsan Hyundai",
+      "match": "Albirex Niigata vs Osaka",
+      "league": "J.League 2",
+      "date": "2026-04-25",
+      "pv_matchid": "PV-j_league_2-19664414",
+      "commitment_hash": "deaf700bc6211aaff3f324e2a7d96acbf95c3e7329d79190bb39f503244cec48"
+    },
+    {
+      "match": "Incheon United vs Jeju United",
       "league": "K-League 1",
-      "date": "2026-04-22",
-      "pv_matchid": "PV-k_league-19648180",
-      "commitment_hash": "89a66ffe08f542fcba0fcb8e980551d33eb2ca05c60f7e22f296a55804836cfd"
+      "date": "2026-04-25",
+      "pv_matchid": "PV-k_league-19648177",
+      "commitment_hash": "d6f8764d6784930b71975e8ada83c21df673df4d9cff47ad2abbfb1466eb9e6b"
     },
     {
-      "match": "Pohang Steelers vs Gwangju",
+      "match": "Gangwon FC vs Seoul FC",
       "league": "K-League 1",
-      "date": "2026-04-22",
-      "pv_matchid": "PV-k_league-19648179",
-      "commitment_hash": "13bb6f6962e8d7c527dabe2d7f6f3b34a58574ccc2149faef562b6916a95114b"
+      "date": "2026-04-25",
+      "pv_matchid": "PV-k_league-19648178",
+      "commitment_hash": "a6a225f8039cfcc745c0f927db06a87f1e74c15510d249d3fa3a3f79f8d70730"
+    },
+    {
+      "match": "Ansan Greeners vs Jeonnam Dragons",
+      "league": "K-League 2",
+      "date": "2026-04-25",
+      "pv_matchid": "PV-k_league_2-19676470",
+      "commitment_hash": "70f58d2c6c1f7b22ab64afd9fc0f1a12a54ccc830aee48d42e1601d9f74f650e"
+    },
+    {
+      "match": "Ulsan Hyundai vs Daejeon Hana Citizen",
+      "league": "K-League 1",
+      "date": "2026-04-26",
+      "pv_matchid": "PV-k_league-19648173",
+      "commitment_hash": "0cf55f9f1163f60e8f4f723bc9b8facdedb3a6cd7570b096e76811888d29ef28"
+    },
+    {
+      "match": "Yongin City vs Gimhae City",
+      "league": "K-League 2",
+      "date": "2026-04-26",
+      "pv_matchid": "PV-k_league_2-19676466",
+      "commitment_hash": "e6b6a5f350c686c3ea95405a8c1c6ab6ad65c88060e882b4f170c156d01f0eab"
+    },
+    {
+      "match": "Cheongju vs Chungnam Asan",
+      "league": "K-League 2",
+      "date": "2026-04-26",
+      "pv_matchid": "PV-k_league_2-19676467",
+      "commitment_hash": "e9b76a6719d2e6a20b969716e722e3b9e313a631694c1ef6fb1d1ef39a0bcd8f"
     }
   ]
 }
