@@ -1,71 +1,7 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-04-28T20:47:00Z",
-  "n_pending_locks": 9,
-  "commitments": [
-    {
-      "match": "JEF United vs Yokohama F. Marinos",
-      "league": "J.League",
-      "date": "2026-04-29",
-      "pv_matchid": "PV-j_league-19630326",
-      "commitment_hash": "2f67f78a1608cbc116a3621614cc9001dbbf1db4f42663df0efb98662d760996"
-    },
-    {
-      "match": "Tokyo Verdy vs Kashima Antlers",
-      "league": "J.League",
-      "date": "2026-04-29",
-      "pv_matchid": "PV-j_league-19630324",
-      "commitment_hash": "fff646d9a32e658185fe329af8f56f0a94a3987ddd226ffa239d68489c1d87ff"
-    },
-    {
-      "match": "Vissel Kobe vs Cerezo Osaka",
-      "league": "J.League",
-      "date": "2026-04-29",
-      "pv_matchid": "PV-j_league-19630320",
-      "commitment_hash": "eba996e10371ce236b7bca840a692cf081a66a90dfbdc1f5f3bdb55b1703cd18"
-    },
-    {
-      "match": "Ehime vs Imabari",
-      "league": "J.League 2",
-      "date": "2026-04-29",
-      "pv_matchid": "PV-j_league_2-19664384",
-      "commitment_hash": "eb3915849cae2ef6226977320677bc5d9c9f4cafc814feb0f46a0060e190e1c1"
-    },
-    {
-      "match": "Blaublitz Akita vs Montedio Yamagata",
-      "league": "J.League 2",
-      "date": "2026-04-29",
-      "pv_matchid": "PV-j_league_2-19664400",
-      "commitment_hash": "90d9c9c2fd4d80ccbf80bf22b040a6639d88cf159efabf47ca45704bed0535fe"
-    },
-    {
-      "match": "Omiya Ardija vs Ventforet Kofu",
-      "league": "J.League 2",
-      "date": "2026-04-29",
-      "pv_matchid": "PV-j_league_2-19664394",
-      "commitment_hash": "5f513a81fb41c1762d6afa8ce2fca042b41b85d63d0ab342f5cb2ebc33866a4a"
-    },
-    {
-      "match": "Al Riyadh vs Al-Qadsiah",
-      "league": "Saudi Pro League",
-      "date": "2026-04-30",
-      "pv_matchid": "PV-saudi_pro_league-19541997",
-      "commitment_hash": "d5c9b2194fc23144acefbe15ec6ee82dbc355e940caf9b8efee74295dfdd2182"
-    },
-    {
-      "match": "Al Taawoun vs Al Ittihad",
-      "league": "Saudi Pro League",
-      "date": "2026-04-30",
-      "pv_matchid": "PV-saudi_pro_league-19541992",
-      "commitment_hash": "5640c6f016a95297ae95818c2879f207377d90f769a798db15c7739c92455e4a"
-    },
-    {
-      "match": "Al Nassr vs Al Ahli",
-      "league": "Saudi Pro League",
-      "date": "2026-04-30",
-      "pv_matchid": "PV-saudi_pro_league-19541995",
-      "commitment_hash": "57446c52f84241fed032e73655b195aafa1e031ccb504d43c09f02f7361f2ac3"
-    }
-  ]
+  "published_at": "2026-04-29T20:39:14Z",
+  "n_pending_locks": 0,
+  "commitments": []
 }
