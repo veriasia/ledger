@@ -1,7 +1,50 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-04-29T20:39:14Z",
-  "n_pending_locks": 0,
-  "commitments": []
+  "published_at": "2026-04-30T20:38:29Z",
+  "n_pending_locks": 6,
+  "commitments": [
+    {
+      "match": "Shandong Taishan vs Qingdao West Coast",
+      "league": "Chinese Super League",
+      "date": "2026-05-01",
+      "pv_matchid": "PV-chinese_super_league-19674750",
+      "commitment_hash": "60668cf155be2110e6a77fdad9fb742b05b2ed4cc1066a1e35109d58c0e4fa7b"
+    },
+    {
+      "match": "FC Tokyo vs Kawasaki Frontale",
+      "league": "J.League",
+      "date": "2026-05-02",
+      "pv_matchid": "PV-j_league-19630316",
+      "commitment_hash": "42730a0d596f2d5dcd08dd711dfd49970df160cf35b936bdd3c2e777076591a6"
+    },
+    {
+      "match": "Tokushima Vortis vs Ehime",
+      "league": "J.League 2",
+      "date": "2026-05-02",
+      "pv_matchid": "PV-j_league_2-19664376",
+      "commitment_hash": "e1e0560d89cedc865fddc3e60931186eb8886fefe63672fa4eacb15171ffdd32"
+    },
+    {
+      "match": "Gifu vs Consadole Sapporo",
+      "league": "J.League 2",
+      "date": "2026-05-02",
+      "pv_matchid": "PV-j_league_2-19664377",
+      "commitment_hash": "c573062a5645309e26b9342ffd5e99b27000eb05b4c57d47a818dedefe0a4d04"
+    },
+    {
+      "match": "Incheon United vs Gangwon FC",
+      "league": "K-League 1",
+      "date": "2026-05-02",
+      "pv_matchid": "PV-k_league-19648170",
+      "commitment_hash": "5660d80ac09617ad455fecc33281b543fa63f781cba7faaed317af09605d9dd9"
+    },
+    {
+      "match": "Jeju United vs Jeonbuk Motors",
+      "league": "K-League 1",
+      "date": "2026-05-02",
+      "pv_matchid": "PV-k_league-19648169",
+      "commitment_hash": "e4a74c401af04f92778c0f925c3ae526a5f021d37309ad8db81d5cbdf7d7a379"
+    }
+  ]
 }
