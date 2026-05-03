@@ -1,64 +1,29 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-05-02T20:04:20Z",
-  "n_pending_locks": 8,
+  "published_at": "2026-05-03T20:05:25Z",
+  "n_pending_locks": 3,
   "commitments": [
     {
-      "match": "Yunnan Yukun vs Beijing Guoan",
-      "league": "Chinese Super League",
-      "date": "2026-05-02",
-      "pv_matchid": "PV-chinese_super_league-19674746",
-      "commitment_hash": "ca418595c0e9be5eb0370c62af91d1f7eab1ca370de9cbc1913806f6c26777a7"
+      "match": "Bucheon 1995 vs Jeju United",
+      "league": "K-League 1",
+      "date": "2026-05-05",
+      "pv_matchid": "PV-k_league-19648165",
+      "commitment_hash": "4a4fd3294ff70695c960d48224b53255612bd8b89d27ce32da8c32117b91fcda"
     },
     {
-      "match": "Tokyo Verdy vs Kashiwa Reysol",
-      "league": "J.League",
-      "date": "2026-05-03",
-      "pv_matchid": "PV-j_league-19630315",
-      "commitment_hash": "d39e8c28edaf1ad26b7bba7163721d8f37af9d9e97cd731b3693c93c2388b501"
+      "match": "Gimcheon Sangmu vs Ulsan Hyundai",
+      "league": "K-League 1",
+      "date": "2026-05-05",
+      "pv_matchid": "PV-k_league-19648164",
+      "commitment_hash": "09a3e31f92ffb777455ecbc0f9aabe1cda43f56cf59629f537d21d73e781018b"
     },
     {
-      "match": "V-Varen Nagasaki vs Nagoya Grampus",
-      "league": "J.League",
-      "date": "2026-05-03",
-      "pv_matchid": "PV-j_league-19630309",
-      "commitment_hash": "4ca9ecbcbdc3f9fb0d451ad52583397e0ab3d0f47622f52d54f180d20f4d0856"
-    },
-    {
-      "match": "Montedio Yamagata vs Tochigi",
-      "league": "J.League 2",
-      "date": "2026-05-03",
-      "pv_matchid": "PV-j_league_2-19664369",
-      "commitment_hash": "c65ee8bb3d83f98c957b7ae77a20b0efb1ea46fc068974f440984c7f19475082"
-    },
-    {
-      "match": "Vanraure Hachinohe vs Thespa Kusatsu Gunma",
-      "league": "J.League 2",
-      "date": "2026-05-03",
-      "pv_matchid": "PV-j_league_2-19664371",
-      "commitment_hash": "020f68e91d3733c7e40b8ec531b8ef1613298daa7fbb835ad6494f13cdaea371"
-    },
-    {
-      "match": "Matsumoto Yamaga vs Ventforet Kofu",
-      "league": "J.League 2",
-      "date": "2026-05-03",
-      "pv_matchid": "PV-j_league_2-19664370",
-      "commitment_hash": "d5cfde8bb0beedea6d8080ded21e8fcf2049852e39372e9d5458b0e0a91096aa"
-    },
-    {
-      "match": "Daegu FC vs Gyeongnam FC",
-      "league": "K-League 2",
-      "date": "2026-05-03",
-      "pv_matchid": "PV-k_league_2-19676465",
-      "commitment_hash": "e1e3d1e4a95685d4bdd6d5df568bc3aa7d9ad241be2e12a140ec2dd807cca482"
-    },
-    {
-      "match": "Suwon FC vs Suwon Samsung Bluewings",
-      "league": "K-League 2",
-      "date": "2026-05-03",
-      "pv_matchid": "PV-k_league_2-19676458",
-      "commitment_hash": "d29f9fe05e17a7d2bd49e152e2226e6c9cb1fa6f8a383722471501713a739c93"
+      "match": "Al-Fayha vs Al Riyadh",
+      "league": "Saudi Pro League",
+      "date": "2026-05-05",
+      "pv_matchid": "PV-saudi_pro_league-19542004",
+      "commitment_hash": "185a5c1a1d2984d476b154d5ffafbe5e1d754edb09ce9e26b0203bf3f6251c26"
     }
   ]
 }
