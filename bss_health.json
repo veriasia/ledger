@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-05-02T21:05:44Z",
+  "checked_at": "2026-05-03T20:43:09Z",
   "status": "degraded",
-  "overall_bss_vs_sp_pct": -1.5935,
+  "overall_bss_vs_sp_pct": -1.5606,
   "all_leagues_positive": false,
   "leagues_negative": [
     "J.League",
@@ -11,32 +11,32 @@
   ],
   "by_league": {
     "a_league": {
-      "bss_vs_sp_pct": 0.7686,
+      "bss_vs_sp_pct": 0.7685,
       "n_sp_matches": 361
     },
     "j_league": {
-      "bss_vs_sp_pct": -0.0972,
-      "n_sp_matches": 726
+      "bss_vs_sp_pct": -0.0347,
+      "n_sp_matches": 728
     },
     "j_league_2": {
-      "bss_vs_sp_pct": 3.7291,
-      "n_sp_matches": 53
+      "bss_vs_sp_pct": 4.6316,
+      "n_sp_matches": 61
     },
     "k_league": {
       "bss_vs_sp_pct": -1.8309,
       "n_sp_matches": 316
     },
     "k_league_2": {
-      "bss_vs_sp_pct": -19.1075,
-      "n_sp_matches": 10
+      "bss_vs_sp_pct": -15.7339,
+      "n_sp_matches": 17
     },
     "saudi_pro_league": {
       "bss_vs_sp_pct": -3.3904,
       "n_sp_matches": 51
     },
     "chinese_super_league": {
-      "bss_vs_sp_pct": -8.6438,
-      "n_sp_matches": 385
+      "bss_vs_sp_pct": -8.9121,
+      "n_sp_matches": 387
     }
   }
 }
