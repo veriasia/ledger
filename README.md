@@ -2,7 +2,7 @@
 
 > **The gold standard for match probability in Asian football.**
 
-> **Last updated:** 2026-05-04 21:36 UTC
+> **Last updated:** 2026-05-05 19:26 UTC
 > **Model:** PV10 v7 Unified | **Markets:** DNB (Draw No Bet, AH 0.0)
 > **Leagues:** A-League, J.League, J.League 2, K-League 1, K-League 2, Saudi Pro League, Chinese Super League
 
@@ -65,25 +65,25 @@ Locked odds vs Pinnacle closing price. Consistently beating the close is the str
 | 2026-05-01 | Chinese Super League | Shandong Taishan vs Qingdao West Coast | home | 2.08 | 1.20 | +73.3% | L | -1.00 |
 | 2026-05-02 | Chinese Super League | Yunnan Yukun vs Beijing Guoan | away | 2.12 | 1.88 | +12.8% | P | +0.00 |
 | 2026-05-02 | J.League | FC Tokyo vs Kawasaki Frontale | home | 2.00 | 1.36 | +47.1% | W | +1.00 |
-| 2026-05-02 | J.League 2 | Kochi United vs Osaka | away | 2.06 | 1.76 | +17.1% | P | +0.00 |
-| 2026-05-02 | J.League 2 | Vegalta Sendai vs Blaublitz Akita | away | 2.50 | 2.36 | +5.9% | W | +1.50 |
 | 2026-05-02 | J.League 2 | Tokushima Vortis vs Ehime | away | 3.35 | 2.19 | +53.0% | W | +2.35 |
+| 2026-05-02 | J.League 2 | Kochi United vs Osaka | away | 2.06 | 1.76 | +17.1% | P | +0.00 |
 | 2026-05-02 | J.League 2 | Gifu vs Consadole Sapporo | away | 2.83 | 2.83 | +0.0% | W | +1.83 |
+| 2026-05-02 | J.League 2 | Vegalta Sendai vs Blaublitz Akita | away | 2.50 | 2.36 | +5.9% | W | +1.50 |
 | 2026-05-02 | K-League 1 | Incheon United vs Gangwon FC | away | 2.16 | 1.85 | +16.8% | W | +1.16 |
+| 2026-05-02 | K-League 1 | Gwangju vs Daejeon Hana Citizen | home | 4.14 | 4.44 | -6.8% | L | -1.00 |
 | 2026-05-02 | K-League 1 | Anyang vs Bucheon 1995 | away | 3.14 | 3.16 | -0.6% | W | +2.14 |
 | 2026-05-02 | K-League 1 | Jeju United vs Jeonbuk Motors | away | 1.89 | 1.36 | +39.0% | W | +0.89 |
-| 2026-05-02 | K-League 1 | Gwangju vs Daejeon Hana Citizen | home | 4.14 | 4.44 | -6.8% | L | -1.00 |
 | 2026-05-02 | Saudi Pro League | Damac FC vs Al Khaleej | away | 2.12 | 1.83 | +15.8% | W | +1.12 |
 | 2026-05-03 | J.League | V-Varen Nagasaki vs Nagoya Grampus | home | 2.62 | 2.25 | +16.4% | L | -1.00 |
 | 2026-05-03 | J.League | Tokyo Verdy vs Kashiwa Reysol | home | 2.62 | 2.25 | +16.4% | W | +1.62 |
-| 2026-05-03 | J.League 2 | Montedio Yamagata vs Tochigi | away | 2.05 | 2.05 | +0.0% | P | +0.00 |
 | 2026-05-03 | J.League 2 | Vanraure Hachinohe vs Thespa Kusatsu Gunma | away | 3.53 | 3.47 | +1.7% | W | +2.53 |
 | 2026-05-03 | J.League 2 | Matsumoto Yamaga vs Ventforet Kofu | away | 2.22 | 2.22 | +0.0% | W | +1.22 |
-| 2026-05-03 | K-League 2 | Daegu FC vs Gyeongnam FC | home | 1.81 | 1.30 | +39.2% | W | +0.81 |
-| 2026-05-03 | K-League 2 | Yongin City vs Seongnam FC | away | 1.86 | 1.53 | +21.6% | W | +0.86 |
+| 2026-05-03 | J.League 2 | Montedio Yamagata vs Tochigi | away | 2.05 | 2.05 | +0.0% | P | +0.00 |
 | 2026-05-03 | K-League 2 | Suwon FC vs Suwon Samsung Bluewings | away | 2.00 | 1.64 | +21.9% | L | -1.00 |
-| 2026-05-04 | Saudi Pro League | Al-Fayha vs Al Riyadh | away | 2.34 | 2.34 | +0.0% | L | -1.00 |
+| 2026-05-03 | K-League 2 | Yongin City vs Seongnam FC | away | 1.86 | 1.53 | +21.6% | W | +0.86 |
+| 2026-05-03 | K-League 2 | Daegu FC vs Gyeongnam FC | home | 1.81 | 1.30 | +39.2% | W | +0.81 |
 | 2026-05-04 | Saudi Pro League | Al Ittihad vs Al Kholood | home | 1.23 | 1.23 | +0.0% | L | -1.00 |
+| 2026-05-04 | Saudi Pro League | Al-Fayha vs Al Riyadh | away | 2.34 | 2.34 | +0.0% | L | -1.00 |
 
 Full play-by-play history: [`plays.csv`](plays.csv) | Machine-readable: [`ledger.json`](ledger.json)
 
