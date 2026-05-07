@@ -1,7 +1,57 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-05-06T20:52:49Z",
-  "n_pending_locks": 0,
-  "commitments": []
+  "published_at": "2026-05-07T20:47:11Z",
+  "n_pending_locks": 7,
+  "commitments": [
+    {
+      "match": "Auckland vs Adelaide United",
+      "league": "A-League",
+      "date": "2026-05-09",
+      "pv_matchid": "PV-a_league-19612268",
+      "commitment_hash": "558deca8b603762fe3f43c3d3b00fbb7906aa9d45136112eedfd4ae71f7076ad"
+    },
+    {
+      "match": "Mito Hollyhock vs Urawa Red Diamonds",
+      "league": "J.League",
+      "date": "2026-05-09",
+      "pv_matchid": "PV-j_league-19630298",
+      "commitment_hash": "ab633d3a181a2f5fcd9a1ffa3cf7217dd4f85bb908bc3584c158fe2b6b32d346"
+    },
+    {
+      "match": "Gimcheon Sangmu vs Incheon United",
+      "league": "K-League 1",
+      "date": "2026-05-09",
+      "pv_matchid": "PV-k_league-19648159",
+      "commitment_hash": "81c177718d68aff65d63d9aae3cc44da4bea148b27b145e5600375e10f31a327"
+    },
+    {
+      "match": "Jeju United vs Seoul FC",
+      "league": "K-League 1",
+      "date": "2026-05-09",
+      "pv_matchid": "PV-k_league-19648160",
+      "commitment_hash": "f10f34cd5d1e1a96214a4ac233491c0727e2cb8448707ef335efec06dfbfe6d5"
+    },
+    {
+      "match": "Chungnam Asan vs Seoul E-Land",
+      "league": "K-League 2",
+      "date": "2026-05-09",
+      "pv_matchid": "PV-k_league_2-19676457",
+      "commitment_hash": "7bc9ce1f3d3c3c2df1022c4dff3b3e391f477620974b02e4c5a11379f8c10385"
+    },
+    {
+      "match": "Cheongju vs Gimpo FC",
+      "league": "K-League 2",
+      "date": "2026-05-09",
+      "pv_matchid": "PV-k_league_2-19676454",
+      "commitment_hash": "8418da61c572661d907dd2e5ed17947795d06b1e8435407eac5e4108ae2276e4"
+    },
+    {
+      "match": "Suwon Samsung Bluewings vs Daegu FC",
+      "league": "K-League 2",
+      "date": "2026-05-09",
+      "pv_matchid": "PV-k_league_2-19676455",
+      "commitment_hash": "e6daf4fa2c040c7ac5d9aed42115dec13852aed0d75c2ceab7c25464c8562f60"
+    }
+  ]
 }
