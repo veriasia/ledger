@@ -2,7 +2,7 @@
 
 > **The gold standard for match probability in Asian football.**
 
-> **Last updated:** 2026-05-09 20:34 UTC
+> **Last updated:** 2026-05-09 21:07 UTC
 > **Model:** PV10 v7 Unified | **Markets:** DNB (Draw No Bet, AH 0.0)
 > **Leagues:** A-League, J.League, J.League 2, K-League 1, K-League 2, Saudi Pro League, Chinese Super League
 
@@ -60,22 +60,22 @@ Locked odds vs Pinnacle closing price. Consistently beating the close is the str
 
 | Date | League | Match | Side | Market | Odds | Close | CLV | Result | P/L |
 |------|--------|-------|------|--------|------|-------|-----|--------|-----|
-| 2026-05-04 | Saudi Pro League | Al-Fayha vs Al Riyadh | away | DNB | 2.34 | 2.34 | +0.0% | L | -1.00 |
 | 2026-05-04 | Saudi Pro League | Al Ittihad vs Al Kholood | home | AH -1.00 | 1.90 | 1.23 | +0.0% | L | -1.00 |
-| 2026-05-05 | Chinese Super League | Liaoning Tieren FC vs Chengdu Rongcheng | home | AH +1.00 | 1.95 | 4.26 | +20.9% | P | +0.00 |
+| 2026-05-04 | Saudi Pro League | Al-Fayha vs Al Riyadh | away | DNB | 2.34 | 2.34 | +0.0% | L | -1.00 |
 | 2026-05-05 | Chinese Super League | Chongqing Tonglianglong FC vs Henan Songshan Longmen | away | DNB | 1.82 | 1.72 | +5.8% | L | -0.50 |
+| 2026-05-05 | Chinese Super League | Liaoning Tieren FC vs Chengdu Rongcheng | home | AH +1.00 | 1.95 | 4.26 | +20.9% | P | +0.00 |
 | 2026-05-05 | Chinese Super League | Shandong Taishan vs Shanghai Shenhua | away | DNB | 2.09 | 2.09 | +0.0% | L | -1.00 |
-| 2026-05-05 | K-League 1 | Bucheon 1995 vs Jeju United | away | DNB | 2.11 | 2.06 | +2.4% | W | +1.11 |
 | 2026-05-05 | K-League 1 | Gimcheon Sangmu vs Ulsan Hyundai | away | DNB | 1.94 | 1.58 | +22.8% | W | +0.94 |
 | 2026-05-05 | K-League 1 | Seoul FC vs Anyang | away | AH +0.75 | 1.94 | 3.80 | +6.0% | W | +3.03 |
-| 2026-05-06 | Chinese Super League | Shanghai Port vs Shenzhen Peng City | home | AH -0.75 | 1.86 | 1.28 | +1.6% | L | -1.00 |
+| 2026-05-05 | K-League 1 | Bucheon 1995 vs Jeju United | away | DNB | 2.11 | 2.06 | +2.4% | W | +1.11 |
 | 2026-05-06 | Chinese Super League | Beijing Guoan vs Dalian Yingbo | away | AH +1.25 | 1.93 | 4.58 | +1.1% | L | -1.00 |
+| 2026-05-06 | Chinese Super League | Shanghai Port vs Shenzhen Peng City | home | AH -0.75 | 1.86 | 1.28 | +1.6% | L | -1.00 |
+| 2026-05-06 | J.League | Kashiwa Reysol vs Urawa Red Diamonds | away | DNB | 2.37 | 2.25 | +5.3% | W | +1.37 |
 | 2026-05-06 | J.League | Shimizu S-Pulse vs Cerezo Osaka | home | DNB | 1.83 | 1.80 | +1.7% | P | +0.00 |
 | 2026-05-06 | J.League | Kashima Antlers vs Mito Hollyhock | away | DNB | 3.75 | 3.75 | +0.0% | L | -1.00 |
 | 2026-05-06 | J.League | V-Varen Nagasaki vs Fagiano Okayama FC | home | DNB | 1.83 | 1.83 | +0.0% | W | +0.83 |
-| 2026-05-06 | J.League | Kashiwa Reysol vs Urawa Red Diamonds | away | DNB | 2.37 | 2.25 | +5.3% | W | +1.37 |
-| 2026-05-06 | J.League 2 | Montedio Yamagata vs Thespa Kusatsu Gunma | away | DNB | 3.03 | 2.49 | +21.7% | W | +2.03 |
 | 2026-05-06 | J.League 2 | Sagan Tosu vs Gainare Tottori | away | DNB | 2.84 | 2.84 | +0.0% | L | -1.00 |
+| 2026-05-06 | J.League 2 | Montedio Yamagata vs Thespa Kusatsu Gunma | away | DNB | 3.03 | 2.49 | +21.7% | W | +2.03 |
 | 2026-05-06 | J.League 2 | Vegalta Sendai vs Tochigi | away | DNB | 3.29 | 2.70 | +21.9% | L | -0.50 |
 | 2026-05-06 | J.League 2 | Fujieda MYFC vs Fukushima United | away | DNB | 3.48 | 3.48 | +0.0% | W | +2.48 |
 | 2026-05-06 | J.League 2 | Consadole Sapporo vs Parceiro Nagano | away | AH +0.75 | 2.03 | 4.36 | +0.0% | L | -1.00 |
@@ -83,8 +83,8 @@ Locked odds vs Pinnacle closing price. Consistently beating the close is the str
 | 2026-05-09 | A-League | Auckland vs Adelaide United | away | DNB | 2.67 | 2.40 | +11.2% | W | +0.84 |
 | 2026-05-09 | J.League | Mito Hollyhock vs Urawa Red Diamonds | home | DNB | 2.62 | 2.25 | +16.4% | L | -1.00 |
 | 2026-05-09 | J.League 2 | Consadole Sapporo vs Omiya Ardija | away | DNB | 1.97 | 1.97 | +0.0% | L | -1.00 |
-| 2026-05-09 | K-League 1 | Gimcheon Sangmu vs Incheon United | home | DNB | 1.72 | 1.55 | +11.0% | L | -1.00 |
 | 2026-05-09 | K-League 1 | Jeju United vs Seoul FC | home | DNB | 2.76 | 2.46 | +12.2% | W | +1.76 |
+| 2026-05-09 | K-League 1 | Gimcheon Sangmu vs Incheon United | home | DNB | 1.72 | 1.55 | +11.0% | L | -1.00 |
 
 Full play-by-play history: [`plays.csv`](plays.csv) | Machine-readable: [`ledger.json`](ledger.json)
 
