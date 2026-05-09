@@ -14,7 +14,7 @@
       "Saudi Pro League",
       "Chinese Super League"
     ],
-    "updated_at": "2026-05-09T20:29:03Z",
+    "updated_at": "2026-05-09T20:34:13Z",
     "source": "https://github.com/veriasia/engine",
     "methodology": "Four-pillar performance rating (Finishing, Creation, Progression, Defensive) with per-league optimised pillar weights, logistic probability model, and market SP blending. Walk-forward backtest with no data leakage."
   },
