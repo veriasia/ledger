@@ -1,106 +1,22 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-05-08T20:33:28Z",
-  "n_pending_locks": 22,
+  "published_at": "2026-05-09T20:08:04Z",
+  "n_pending_locks": 18,
   "commitments": [
     {
-      "match": "Auckland vs Adelaide United",
-      "league": "A-League",
-      "date": "2026-05-09",
-      "pv_matchid": "PV-a_league-19612268",
-      "commitment_hash": "558deca8b603762fe3f43c3d3b00fbb7906aa9d45136112eedfd4ae71f7076ad"
-    },
-    {
-      "match": "Shanghai Shenhua vs Chongqing Tonglianglong FC",
+      "match": "Qingdao West Coast vs Wuhan Three Towns",
       "league": "Chinese Super League",
-      "date": "2026-05-09",
-      "pv_matchid": "PV-chinese_super_league-19674737",
-      "commitment_hash": "cb827207b5773acfa9536eeb21cac03e68b73df88b4d870be8d36ef531209c46"
-    },
-    {
-      "match": "Chengdu Rongcheng vs Henan Songshan Longmen",
-      "league": "Chinese Super League",
-      "date": "2026-05-09",
-      "pv_matchid": "PV-chinese_super_league-19674736",
-      "commitment_hash": "01587067b113069eeb324e53bf34792571ca96e25b110616e3eaa36e65a201f4"
-    },
-    {
-      "match": "Mito Hollyhock vs Urawa Red Diamonds",
-      "league": "J.League",
-      "date": "2026-05-09",
-      "pv_matchid": "PV-j_league-19630298",
-      "commitment_hash": "c20600bf825972b048e3ff2fb6a2efce390dfa1a9da52e8f8973db9175379476"
-    },
-    {
-      "match": "Consadole Sapporo vs Omiya Ardija",
-      "league": "J.League 2",
-      "date": "2026-05-09",
-      "pv_matchid": "PV-j_league_2-19664340",
-      "commitment_hash": "5145bdc3ac5dc0b0fabd330301eff501a7d8c7ecd45279fbcb1c6ccef37d9fda"
-    },
-    {
-      "match": "Zhetysu vs Zhenys",
-      "league": "Kazakhstan Premier League",
-      "date": "2026-05-09",
-      "pv_matchid": "PV-kazakhstan_premier_league-19682088",
-      "commitment_hash": "07d6a91281f2267904a407bab8183b7b7d85c9ce687b307bd139d5bd4cc9a4a2"
-    },
-    {
-      "match": "Yelimay Semey vs Kaspiy",
-      "league": "Kazakhstan Premier League",
-      "date": "2026-05-09",
-      "pv_matchid": "PV-kazakhstan_premier_league-19682091",
-      "commitment_hash": "c79121e760df1a9cc41fa2aeba18e678d29b2fa0e16971ee019e2190386cc1f2"
-    },
-    {
-      "match": "Okzhetpes vs Atyrau",
-      "league": "Kazakhstan Premier League",
-      "date": "2026-05-09",
-      "pv_matchid": "PV-kazakhstan_premier_league-19682086",
-      "commitment_hash": "63709461c63aabdf42bea6490efa8e56bd76031f884296d5f8c23a6b88a75a4d"
-    },
-    {
-      "match": "Gimcheon Sangmu vs Incheon United",
-      "league": "K-League 1",
-      "date": "2026-05-09",
-      "pv_matchid": "PV-k_league-19648159",
-      "commitment_hash": "ae68f59f797b6f57c76460c3c7c605062473ed0175aa30d329d0727501f0f132"
-    },
-    {
-      "match": "Jeju United vs Seoul FC",
-      "league": "K-League 1",
-      "date": "2026-05-09",
-      "pv_matchid": "PV-k_league-19648160",
-      "commitment_hash": "f10f34cd5d1e1a96214a4ac233491c0727e2cb8448707ef335efec06dfbfe6d5"
-    },
-    {
-      "match": "Suwon Samsung Bluewings vs Daegu FC",
-      "league": "K-League 2",
-      "date": "2026-05-09",
-      "pv_matchid": "PV-k_league_2-19676455",
-      "commitment_hash": "a161b261c6acd59d14aa687269fac79bfa810c18a72a728dd54fb6fda1366fe7"
-    },
-    {
-      "match": "Cheongju vs Gimpo FC",
-      "league": "K-League 2",
-      "date": "2026-05-09",
-      "pv_matchid": "PV-k_league_2-19676454",
-      "commitment_hash": "f9bdfe7739b0f4ac1208617ec299146c09203e674c1be7cd67cb4913fc16a25f"
-    },
-    {
-      "match": "Chungnam Asan vs Seoul E-Land",
-      "league": "K-League 2",
-      "date": "2026-05-09",
-      "pv_matchid": "PV-k_league_2-19676457",
-      "commitment_hash": "7bc9ce1f3d3c3c2df1022c4dff3b3e391f477620974b02e4c5a11379f8c10385"
-    },
-    {
-      "match": "JEF United vs Machida Zelvia",
-      "league": "J.League",
       "date": "2026-05-10",
-      "pv_matchid": "PV-j_league-19630297",
-      "commitment_hash": "9e4faffa51cbf6b1ffb7d7f56870d9ed42b6b7cbc52f6f7ed23fadb4f7bbc4a4"
+      "pv_matchid": "PV-chinese_super_league-19674735",
+      "commitment_hash": "b5c5706478409b8a5cfc69b06dd01d4bcec09a3de79bbdd5ce722e456403b61f"
+    },
+    {
+      "match": "Beijing Guoan vs Shanghai Port",
+      "league": "Chinese Super League",
+      "date": "2026-05-10",
+      "pv_matchid": "PV-chinese_super_league-19674732",
+      "commitment_hash": "168331a9980adf1e234a17747f77337fd0e32bbb05f5a17c88f91d1b0a92b5b8"
     },
     {
       "match": "Shimizu S-Pulse vs Avispa Fukuoka",
@@ -110,11 +26,18 @@
       "commitment_hash": "974f96876e436b6ca32ebcfe2ad123b62904c995b26c66727bcb8097cf7aea90"
     },
     {
-      "match": "Shonan Bellmare vs Yokohama FC",
+      "match": "JEF United vs Machida Zelvia",
+      "league": "J.League",
+      "date": "2026-05-10",
+      "pv_matchid": "PV-j_league-19630297",
+      "commitment_hash": "9e4faffa51cbf6b1ffb7d7f56870d9ed42b6b7cbc52f6f7ed23fadb4f7bbc4a4"
+    },
+    {
+      "match": "Fukushima United vs Jubilo Iwata",
       "league": "J.League 2",
       "date": "2026-05-10",
-      "pv_matchid": "PV-j_league_2-19664331",
-      "commitment_hash": "c165adcc1d8476d2e8db69e036eb73c1d88eaaaa70a17191b9c88a73538ffbd2"
+      "pv_matchid": "PV-j_league_2-19664330",
+      "commitment_hash": "c3f5d638e3ce0699a158c94bbd452af209b391ec714cd02ae22dac840c66e26d"
     },
     {
       "match": "Zweigen Kanazawa vs Albirex Niigata",
@@ -124,18 +47,53 @@
       "commitment_hash": "70dc9307d8f839401eb4a33355109055e29b647c0c18889b643213f3b1e409d5"
     },
     {
-      "match": "Astana vs Kyzyl-Zhar",
-      "league": "Kazakhstan Premier League",
+      "match": "Shonan Bellmare vs Yokohama FC",
+      "league": "J.League 2",
       "date": "2026-05-10",
-      "pv_matchid": "PV-kazakhstan_premier_league-19682093",
-      "commitment_hash": "609b95d567ad121ec1465c6a2ee9b7f95adf0253c1fad34411ae2d05204bf450"
+      "pv_matchid": "PV-j_league_2-19664331",
+      "commitment_hash": "ef99559525abf7546b9996fa53c778a84df63304e8326f0d1a5ab4de46638f36"
     },
     {
-      "match": "Tobol vs Irtysh",
+      "match": "Ehime vs Kataller Toyama",
+      "league": "J.League 2",
+      "date": "2026-05-10",
+      "pv_matchid": "PV-j_league_2-19664322",
+      "commitment_hash": "cb8a26fb9d29a55a6d2b88a1a49ada7f53a2b5e4bde442c82d3b3b623fab225b"
+    },
+    {
+      "match": "Tokushima Vortis vs Nara Club",
+      "league": "J.League 2",
+      "date": "2026-05-10",
+      "pv_matchid": "PV-j_league_2-19664327",
+      "commitment_hash": "dca631caa5431df1f9e6f3bfe4994ad5b8b672e00603db377effe926b09b357e"
+    },
+    {
+      "match": "Altay vs Ordabasy",
       "league": "Kazakhstan Premier League",
       "date": "2026-05-10",
-      "pv_matchid": "PV-kazakhstan_premier_league-19682087",
-      "commitment_hash": "2a17e664721b7f3b2ff405884749cda5996d6fe9160f0460d01b0957f702971b"
+      "pv_matchid": "PV-kazakhstan_premier_league-19682092",
+      "commitment_hash": "51df0c5673ef66c82e7fa9f8d053c7e29e493f5753552b654d40ad297fd0ecdc"
+    },
+    {
+      "match": "Ulytau vs Kairat",
+      "league": "Kazakhstan Premier League",
+      "date": "2026-05-10",
+      "pv_matchid": "PV-kazakhstan_premier_league-19681985",
+      "commitment_hash": "ae8027d7ae995a6443196dc2e3b4152a38e3ed877b7c301c55be00d8fe85e296"
+    },
+    {
+      "match": "Aktobe vs Kaisar",
+      "league": "Kazakhstan Premier League",
+      "date": "2026-05-10",
+      "pv_matchid": "PV-kazakhstan_premier_league-19682090",
+      "commitment_hash": "9af296dcf6fefe419d367f23b3a1a840abab984a8435a8c0b5f3e99653fb74c7"
+    },
+    {
+      "match": "Anyang vs Jeonbuk Motors",
+      "league": "K-League 1",
+      "date": "2026-05-10",
+      "pv_matchid": "PV-k_league-19648155",
+      "commitment_hash": "a04d8b7902a09d5487f034c158afc83d61eae0da0371e24b13695e3bc3aea20f"
     },
     {
       "match": "Ulsan Hyundai vs Bucheon 1995",
@@ -145,6 +103,13 @@
       "commitment_hash": "84e575f80cddb85ddaaf647fe0681a51491f0b37576a80a4c8475c56fe8c9dd0"
     },
     {
+      "match": "Gyeongnam FC vs Gimhae City",
+      "league": "K-League 2",
+      "date": "2026-05-10",
+      "pv_matchid": "PV-k_league_2-19676450",
+      "commitment_hash": "9c9ab62e75c4cd76f880dbc8959b74fec897185fc5a40f3d8186aef3a848326b"
+    },
+    {
       "match": "Busan IPark vs Cheonan City",
       "league": "K-League 2",
       "date": "2026-05-10",
@@ -152,11 +117,18 @@
       "commitment_hash": "95457fcd385c85e3eb83e549d8d24f1ea203cba838200e7d9ab7908c648c474a"
     },
     {
-      "match": "Al-Fayha vs Al-Qadsiah",
-      "league": "Saudi Pro League",
+      "match": "BG Pathum United vs PT Prachuap",
+      "league": "Thai Premier League",
       "date": "2026-05-10",
-      "pv_matchid": "PV-saudi_pro_league-19542014",
-      "commitment_hash": "d2c30caf8a2c96df4887ab527d34e67d2374779601f634d7efa4ac5fd3dc5332"
+      "pv_matchid": "PV-thai_premier_league-19619386",
+      "commitment_hash": "9cd5b7ced0b408ed47fcb937256cd50e1022857f9f5f4d4232acf4bd2f2d5c10"
+    },
+    {
+      "match": "Al Riyadh vs Al Fateh",
+      "league": "Saudi Pro League",
+      "date": "2026-05-11",
+      "pv_matchid": "PV-saudi_pro_league-19542011",
+      "commitment_hash": "79f67da002fafa666df28ed3a0e1259549769fa4808c9b74279e7465916aae59"
     }
   ]
 }
