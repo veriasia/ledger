@@ -2,7 +2,7 @@
 
 > **The gold standard for match probability in Asian football.**
 
-> **Last updated:** 2026-05-10 20:25 UTC
+> **Last updated:** 2026-05-10 20:32 UTC
 > **Model:** PV10 v7 Unified | **Markets:** DNB (Draw No Bet, AH 0.0)
 > **Leagues:** A-League, J.League, J.League 2, K-League 1, K-League 2, Saudi Pro League, Chinese Super League
 
@@ -20,7 +20,7 @@ Cumulative profit/loss from all settled positions. Every play is timestamped and
 | **Pushes** | 49 |
 | **P/L** | **+31.13u** |
 | **ROI** | **+16.1%** |
-| **Avg Odds** | 2.41 |
+| **Avg Odds** | 2.38 |
 | **Staked** | 193.5u |
 | **Exp P/L** | +25.62u |
 | **Exp ROI** | +13.2% |
@@ -61,30 +61,30 @@ Locked odds vs Pinnacle closing price. Consistently beating the close is the str
 | Date | League | Match | Side | Market | Odds | Close | CLV | Result | P/L |
 |------|--------|-------|------|--------|------|-------|-----|--------|-----|
 | 2026-05-09 | J.League 2 | Consadole Sapporo vs Omiya Ardija | away | DNB | 1.97 | 1.97 | +0.0% | L | -1.00 |
-| 2026-05-09 | Kazakhstan Premier League | Zhetysu vs Zhenys | away | DNB | 2.17 | 2.02 | +7.4% | W | +1.17 |
 | 2026-05-09 | Kazakhstan Premier League | Okzhetpes vs Atyrau | home | AH -0.50 | 1.98 | 1.42 | +4.9% | L | -1.00 |
+| 2026-05-09 | Kazakhstan Premier League | Yelimay Semey vs Kaspiy | home | AH -1.25 | 1.94 | 1.11 | +9.9% | L | -1.00 |
 | 2026-05-09 | Kazakhstan Premier League | Astana vs Kyzyl-Zhar | home | AH -1.00 | 1.99 | 1.23 | +8.1% | P | +0.00 |
 | 2026-05-09 | Kazakhstan Premier League | Tobol vs Irtysh | home | AH -0.75 | 1.98 | 1.30 | +4.6% | W | +0.49 |
-| 2026-05-09 | Kazakhstan Premier League | Yelimay Semey vs Kaspiy | home | AH -1.25 | 1.94 | 1.11 | +9.9% | L | -1.00 |
-| 2026-05-09 | K-League 1 | Gimcheon Sangmu vs Incheon United | home | AH -0.25 | 1.90 | 1.55 | +11.0% | L | -1.00 |
+| 2026-05-09 | Kazakhstan Premier League | Zhetysu vs Zhenys | away | DNB | 2.17 | 2.02 | +7.4% | W | +1.17 |
 | 2026-05-09 | K-League 1 | Jeju United vs Seoul FC | home | DNB | 2.76 | 2.46 | +12.2% | W | +1.76 |
+| 2026-05-09 | K-League 1 | Gimcheon Sangmu vs Incheon United | home | AH -0.25 | 1.90 | 1.55 | +11.0% | L | -1.00 |
 | 2026-05-09 | K-League 2 | Suwon Samsung Bluewings vs Daegu FC | away | DNB | 2.98 | 2.83 | +5.3% | P | +0.00 |
 | 2026-05-09 | K-League 2 | Chungnam Asan vs Seoul E-Land | home | DNB | 2.26 | 2.26 | +0.0% | W | +1.26 |
 | 2026-05-09 | K-League 2 | Cheongju vs Gimpo FC | home | DNB | 3.03 | 3.03 | +0.0% | P | +0.00 |
-| 2026-05-09 | Saudi Pro League | Al-Fayha vs Al-Qadsiah | away | AH -1.50 | 2.08 | 1.19 | +0.0% | L | -1.00 |
 | 2026-05-09 | Saudi Pro League | Al Khaleej vs Al Ettifaq | away | DNB | 2.30 | 2.08 | +10.6% | W | +1.30 |
-| 2026-05-10 | J.League | Shimizu S-Pulse vs Avispa Fukuoka | home | DNB | 1.53 | 1.53 | +0.0% | L | -0.50 |
+| 2026-05-09 | Saudi Pro League | Al-Fayha vs Al-Qadsiah | away | AH -1.50 | 2.08 | 1.19 | +0.0% | L | -1.00 |
 | 2026-05-10 | J.League | JEF United vs Machida Zelvia | home | DNB | 3.75 | 3.50 | +7.1% | L | -1.00 |
-| 2026-05-10 | J.League 2 | Ehime vs Kataller Toyama | away | DNB | 1.92 | 1.89 | +1.6% | W | +0.92 |
+| 2026-05-10 | J.League | Shimizu S-Pulse vs Avispa Fukuoka | home | AH -0.25 | 1.90 | 1.53 | +0.0% | L | -0.50 |
 | 2026-05-10 | J.League 2 | Zweigen Kanazawa vs Albirex Niigata | away | DNB | 2.03 | 1.95 | +4.1% | P | +0.00 |
-| 2026-05-10 | J.League 2 | Shonan Bellmare vs Yokohama FC | away | DNB | 2.03 | 1.86 | +9.1% | W | +1.03 |
-| 2026-05-10 | J.League 2 | Fukushima United vs Jubilo Iwata | home | DNB | 2.65 | 2.03 | +30.5% | W | +1.65 |
 | 2026-05-10 | J.League 2 | Gainare Tottori vs Giravanz Kitakyushu | away | DNB | 1.97 | 1.97 | +0.0% | P | +0.00 |
-| 2026-05-10 | J.League 2 | Tokushima Vortis vs Nara Club | away | DNB | 5.82 | 4.42 | +31.7% | W | +0.51 |
-| 2026-05-10 | K-League 1 | Anyang vs Jeonbuk Motors | away | DNB | 1.59 | 1.52 | +4.6% | L | -0.50 |
-| 2026-05-10 | K-League 1 | Ulsan Hyundai vs Bucheon 1995 | home | DNB | 1.28 | 1.26 | +1.6% | W | +0.44 |
-| 2026-05-10 | K-League 2 | Busan IPark vs Cheonan City | away | DNB | 3.77 | 3.75 | +0.5% | L | -0.50 |
+| 2026-05-10 | J.League 2 | Shonan Bellmare vs Yokohama FC | away | DNB | 2.03 | 1.86 | +9.1% | W | +1.03 |
+| 2026-05-10 | J.League 2 | Tokushima Vortis vs Nara Club | away | AH +1.00 | 2.02 | 4.42 | +31.7% | W | +0.51 |
+| 2026-05-10 | J.League 2 | Fukushima United vs Jubilo Iwata | home | DNB | 2.65 | 2.03 | +30.5% | W | +1.65 |
+| 2026-05-10 | J.League 2 | Ehime vs Kataller Toyama | away | DNB | 1.92 | 1.89 | +1.6% | W | +0.92 |
+| 2026-05-10 | K-League 1 | Anyang vs Jeonbuk Motors | away | AH -0.25 | 1.85 | 1.52 | +4.6% | L | -0.50 |
+| 2026-05-10 | K-League 1 | Ulsan Hyundai vs Bucheon 1995 | home | AH -0.75 | 1.88 | 1.26 | +1.6% | W | +0.44 |
 | 2026-05-10 | K-League 2 | Gyeongnam FC vs Gimhae City | away | DNB | 2.48 | 2.37 | +4.6% | L | -1.00 |
+| 2026-05-10 | K-League 2 | Busan IPark vs Cheonan City | away | AH +0.75 | 1.94 | 3.75 | +0.5% | L | -0.50 |
 
 Full play-by-play history: [`plays.csv`](plays.csv) | Machine-readable: [`ledger.json`](ledger.json)
 
