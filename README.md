@@ -2,7 +2,7 @@
 
 > **The gold standard for match probability in Asian football.**
 
-> **Last updated:** 2026-05-10 21:11 UTC
+> **Last updated:** 2026-05-11 21:48 UTC
 > **Model:** PV10 v7 Unified | **Markets:** DNB (Draw No Bet, AH 0.0)
 > **Leagues:** A-League, J.League, J.League 2, K-League 1, K-League 2, Saudi Pro League, Chinese Super League
 
@@ -14,17 +14,17 @@ Cumulative profit/loss from all settled positions. Every play is timestamped and
 
 | Metric | Value |
 |--------|-------|
-| **Plays** | 203 |
-| **Wins** | 79 |
+| **Plays** | 204 |
+| **Wins** | 80 |
 | **Losses** | 74 |
 | **Pushes** | 50 |
-| **P/L** | **+27.65u** |
-| **ROI** | **+13.6%** |
+| **P/L** | **+28.61u** |
+| **ROI** | **+14.0%** |
 | **Avg Odds** | 2.38 |
-| **Staked** | 203.5u |
-| **Exp P/L** | +27.12u |
+| **Staked** | 204.5u |
+| **Exp P/L** | +27.18u |
 | **Exp ROI** | +13.3% |
-| **CLV+** | 55.7% |
+| **CLV+** | 55.9% |
 
 ### By League
 
@@ -37,9 +37,9 @@ Cumulative profit/loss from all settled positions. Every play is timestamped and
 | K-League 1 | 33 | 17W 10L 6P | 33.0 | +7.82 | +23.7% |
 | K-League 2 | 15 | 5W 5L 5P | 15.0 | -0.36 | -2.4% |
 | Kazakhstan Premier League | 9 | 4W 4L 1P | 9.0 | -0.77 | -8.6% |
-| Saudi Pro League | 26 | 10W 11L 5P | 24.5 | +3.66 | +14.9% |
+| Saudi Pro League | 27 | 11W 11L 5P | 25.5 | +4.62 | +18.1% |
 | Thai Premier League | 2 | 0W 2L 0P | 2.0 | -2.00 | -100.0% |
-| **ALL** | **203** | **79W 74L 50P** | **203.5** | **+27.65** | **+13.6%** |
+| **ALL** | **204** | **80W 74L 50P** | **204.5** | **+28.61** | **+14.0%** |
 
 ---
 
@@ -49,9 +49,9 @@ Locked odds vs Pinnacle closing price. Consistently beating the close is the str
 
 | Metric | Value |
 |--------|-------|
-| **CLV+** | 73.0% |
-| **Avg CLV** | +4.39% |
-| **Better** | 103 |
+| **CLV+** | 73.2% |
+| **Avg CLV** | +4.40% |
+| **Better** | 104 |
 | **Push** | 62 |
 | **Worse** | 38 |
 
@@ -61,31 +61,31 @@ Locked odds vs Pinnacle closing price. Consistently beating the close is the str
 
 | Date | League | Match | Side | Market | Odds | Close | CLV | Result | P/L |
 |------|--------|-------|------|--------|------|-------|-----|--------|-----|
-| 2026-05-09 | K-League 2 | Cheongju vs Gimpo FC | home | DNB | 3.03 | 3.03 | +0.0% | P | +0.00 |
-| 2026-05-09 | Saudi Pro League | Al-Fayha vs Al-Qadsiah | away | AH -1.50 | 2.08 | 1.19 | +0.0% | L | -1.00 |
 | 2026-05-09 | Saudi Pro League | Al Khaleej vs Al Ettifaq | away | DNB | 2.30 | 2.08 | +10.6% | W | +1.30 |
+| 2026-05-09 | Saudi Pro League | Al-Fayha vs Al-Qadsiah | away | AH -1.50 | 2.08 | 1.19 | +0.0% | L | -1.00 |
+| 2026-05-10 | Chinese Super League | Qingdao West Coast vs Wuhan Three Towns | away | DNB | 3.50 | 3.50 | +0.0% | P | +0.00 |
 | 2026-05-10 | Chinese Super League | Shenzhen Peng City vs Shandong Taishan | away | AH -0.75 | 1.87 | 1.28 | +13.3% | W | +0.44 |
 | 2026-05-10 | Chinese Super League | Beijing Guoan vs Shanghai Port | away | AH +1.00 | 1.98 | 4.45 | +0.0% | W | +0.98 |
-| 2026-05-10 | Chinese Super League | Qingdao West Coast vs Wuhan Three Towns | away | DNB | 3.50 | 3.50 | +0.0% | P | +0.00 |
 | 2026-05-10 | Chinese Super League | Zhejiang vs Tianjin Jinmen Tiger | home | AH -1.00 | 2.12 | 1.25 | +4.8% | L | -1.00 |
-| 2026-05-10 | J.League | Shimizu S-Pulse vs Avispa Fukuoka | home | AH -0.25 | 1.90 | 1.53 | +0.0% | L | -0.50 |
 | 2026-05-10 | J.League | JEF United vs Machida Zelvia | home | DNB | 3.75 | 3.50 | +7.1% | L | -1.00 |
-| 2026-05-10 | J.League 2 | Fukushima United vs Jubilo Iwata | home | DNB | 2.65 | 2.03 | +30.5% | W | +1.65 |
-| 2026-05-10 | J.League 2 | Ehime vs Kataller Toyama | away | DNB | 1.92 | 1.89 | +1.6% | W | +0.92 |
+| 2026-05-10 | J.League | Shimizu S-Pulse vs Avispa Fukuoka | home | AH -0.25 | 1.90 | 1.53 | +0.0% | L | -0.50 |
 | 2026-05-10 | J.League 2 | Gainare Tottori vs Giravanz Kitakyushu | away | DNB | 1.97 | 1.97 | +0.0% | P | +0.00 |
+| 2026-05-10 | J.League 2 | Ehime vs Kataller Toyama | away | DNB | 1.92 | 1.89 | +1.6% | W | +0.92 |
 | 2026-05-10 | J.League 2 | Zweigen Kanazawa vs Albirex Niigata | away | DNB | 2.03 | 1.95 | +4.1% | P | +0.00 |
-| 2026-05-10 | J.League 2 | Shonan Bellmare vs Yokohama FC | away | DNB | 2.03 | 1.86 | +9.1% | W | +1.03 |
 | 2026-05-10 | J.League 2 | Tokushima Vortis vs Nara Club | away | AH +1.00 | 2.02 | 4.42 | +31.7% | W | +0.51 |
-| 2026-05-10 | Kazakhstan Premier League | Aktobe vs Kaisar | home | AH -1.00 | 2.10 | 1.21 | +5.8% | W | +1.10 |
+| 2026-05-10 | J.League 2 | Fukushima United vs Jubilo Iwata | home | DNB | 2.65 | 2.03 | +30.5% | W | +1.65 |
+| 2026-05-10 | J.League 2 | Shonan Bellmare vs Yokohama FC | away | DNB | 2.03 | 1.86 | +9.1% | W | +1.03 |
 | 2026-05-10 | Kazakhstan Premier League | Ulytau vs Kairat | away | AH -1.00 | 1.99 | 1.24 | +11.3% | L | -1.00 |
 | 2026-05-10 | Kazakhstan Premier League | Altay vs Ordabasy | away | AH -0.75 | 1.92 | 1.31 | +0.0% | L | -1.00 |
-| 2026-05-10 | K-League 1 | Anyang vs Jeonbuk Motors | away | AH -0.25 | 1.85 | 1.52 | +4.6% | L | -0.50 |
+| 2026-05-10 | Kazakhstan Premier League | Aktobe vs Kaisar | home | AH -1.00 | 2.10 | 1.21 | +5.8% | W | +1.10 |
 | 2026-05-10 | K-League 1 | Ulsan Hyundai vs Bucheon 1995 | home | AH -0.75 | 1.88 | 1.26 | +1.6% | W | +0.44 |
+| 2026-05-10 | K-League 1 | Anyang vs Jeonbuk Motors | away | AH -0.25 | 1.85 | 1.52 | +4.6% | L | -0.50 |
 | 2026-05-10 | K-League 2 | Gyeongnam FC vs Gimhae City | away | DNB | 2.48 | 2.37 | +4.6% | L | -1.00 |
 | 2026-05-10 | K-League 2 | Busan IPark vs Cheonan City | away | AH +0.75 | 1.94 | 3.75 | +0.5% | L | -0.50 |
 | 2026-05-10 | Saudi Pro League | Al Riyadh vs Al Fateh | away | DNB | 2.76 | 2.72 | +1.5% | L | -1.00 |
 | 2026-05-10 | Thai Premier League | BG Pathum United vs PT Prachuap | away | DNB | 3.18 | 4.51 | -29.5% | L | -1.00 |
 | 2026-05-10 | Thai Premier League | Sukhothai vs Muangthong United | away | DNB | 1.95 | 1.83 | +6.6% | L | -1.00 |
+| 2026-05-11 | Saudi Pro League | Al Taawoun vs Al Ahli | away | AH -0.50 | 1.96 | 1.45 | +6.2% | W | +0.96 |
 
 Full play-by-play history: [`plays.csv`](plays.csv) | Machine-readable: [`ledger.json`](ledger.json)
 
@@ -99,12 +99,12 @@ Model calibration vs Pinnacle starting prices. BSS > 0 means the model outperfor
 |--------|---------|-----------------|----------|--------|
 | A-League | 361 | +0.41% | +22.02% (1) | BEATING |
 | J.League | 743 | -0.25% | -1.87% (22) | TRAILING |
-| J.League 2 | 92 | +5.78% | +9.62% (44) | BEATING |
-| K-League 1 | 323 | -2.16% | +4.21% (13) | TRAILING |
-| K-League 2 | 21 | -15.44% | -6.42% (11) | TRAILING |
+| J.League 2 | 92 | +5.79% | +9.64% (44) | BEATING |
+| K-League 1 | 323 | -2.15% | +4.18% (13) | TRAILING |
+| K-League 2 | 21 | -15.52% | -6.45% (11) | TRAILING |
 | Saudi Pro League | 51 | -1.68% | — | TRAILING |
-| Chinese Super League | 396 | -10.11% | -10.85% (14) | TRAILING |
-| **ALL LEAGUES** | **1,987** | **-1.76%** | **+3.89% (105)** | **TRAILING** |
+| Chinese Super League | 396 | -10.11% | -10.80% (14) | TRAILING |
+| **ALL LEAGUES** | **1,987** | **-1.75%** | **+3.90% (105)** | **TRAILING** |
 
 > *1,987 matches evaluated. Walk-forward backtest using optimised per-league parameters.*
 
