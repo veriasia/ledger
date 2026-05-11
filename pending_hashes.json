@@ -1,7 +1,36 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-05-10T20:09:21Z",
-  "n_pending_locks": 0,
-  "commitments": []
+  "published_at": "2026-05-11T20:59:10Z",
+  "n_pending_locks": 4,
+  "commitments": [
+    {
+      "match": "Incheon United vs Pohang Steelers",
+      "league": "K-League 1",
+      "date": "2026-05-12",
+      "pv_matchid": "PV-k_league-19648152",
+      "commitment_hash": "2b9f24fea2076b01a2ab218b5f860925397fa9e2cc1c5d1b07d95a6634fd0721"
+    },
+    {
+      "match": "Gangwon FC vs Daejeon Hana Citizen",
+      "league": "K-League 1",
+      "date": "2026-05-12",
+      "pv_matchid": "PV-k_league-19648154",
+      "commitment_hash": "3032e4018555cf6c4fae01c8e7e748a5b6b388943b27d5d37f67de1aafbdd91a"
+    },
+    {
+      "match": "Al Nassr vs Al Hilal",
+      "league": "Saudi Pro League",
+      "date": "2026-05-13",
+      "pv_matchid": "PV-saudi_pro_league-19542010",
+      "commitment_hash": "4412a059cc39dbc8e92ba145a691488388fa4c0f98641000b146020ab0269a75"
+    },
+    {
+      "match": "Al Kholood vs Al Okhdoud",
+      "league": "Saudi Pro League",
+      "date": "2026-05-13",
+      "pv_matchid": "PV-saudi_pro_league-19542013",
+      "commitment_hash": "f0af15e2f569559fa1a9829cc93fa08a674f4a6bb71a62aa26dad884498c64ab"
+    }
+  ]
 }
