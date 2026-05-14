@@ -1,15 +1,15 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-05-13T21:07:12Z",
+  "published_at": "2026-05-14T20:51:59Z",
   "n_pending_locks": 1,
   "commitments": [
     {
-      "match": "Al Ettifaq vs Al Ittihad",
-      "league": "Saudi Pro League",
-      "date": "2026-05-15",
-      "pv_matchid": "PV-saudi_pro_league-19542018",
-      "commitment_hash": "6306c4c7452e352a69331f0ff9c4fdccef763d4b6dd950c7fc1ed2918c53e058"
+      "match": "Yokohama F. Marinos vs Kashiwa Reysol",
+      "league": "J.League",
+      "date": "2026-05-16",
+      "pv_matchid": "PV-j_league-19630284",
+      "commitment_hash": "894c01ddae08a30d795d0be51eef2b87207b74cfa0fdcd9980e5603bd168f905"
     }
   ]
 }
