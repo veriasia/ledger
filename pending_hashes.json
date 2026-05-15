@@ -1,15 +1,113 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-05-14T20:51:59Z",
-  "n_pending_locks": 1,
+  "published_at": "2026-05-15T20:39:53Z",
+  "n_pending_locks": 15,
   "commitments": [
+    {
+      "match": "Newcastle United Jets vs Sydney",
+      "league": "A-League",
+      "date": "2026-05-16",
+      "pv_matchid": "PV-a_league-19612267",
+      "commitment_hash": "24be08a94352b2d10f8327b2436118cff1fa8f8da0913a78ad8e217f6ae823d3"
+    },
+    {
+      "match": "Shandong Taishan vs Chongqing Tonglianglong FC",
+      "league": "Chinese Super League",
+      "date": "2026-05-16",
+      "pv_matchid": "PV-chinese_super_league-19674723",
+      "commitment_hash": "37242dce06722f6236f7ef8f0a2682c2e694f541cca8ffee39acd85d41ee739e"
+    },
+    {
+      "match": "Mito Hollyhock vs Tokyo Verdy",
+      "league": "J.League",
+      "date": "2026-05-16",
+      "pv_matchid": "PV-j_league-19630288",
+      "commitment_hash": "4a889d7a9a67c7704e735886a6c45578940969a2034dbbbca325a928dff7acf0"
+    },
     {
       "match": "Yokohama F. Marinos vs Kashiwa Reysol",
       "league": "J.League",
       "date": "2026-05-16",
       "pv_matchid": "PV-j_league-19630284",
       "commitment_hash": "894c01ddae08a30d795d0be51eef2b87207b74cfa0fdcd9980e5603bd168f905"
+    },
+    {
+      "match": "Shonan Bellmare vs Vegalta Sendai",
+      "league": "J.League 2",
+      "date": "2026-05-16",
+      "pv_matchid": "PV-j_league_2-19664320",
+      "commitment_hash": "d615177061d556f5cd0ee8997351dca421d27c1ea886e8a9dccf45881458071c"
+    },
+    {
+      "match": "Ventforet Kofu vs Gifu",
+      "league": "J.League 2",
+      "date": "2026-05-16",
+      "pv_matchid": "PV-j_league_2-19664314",
+      "commitment_hash": "1345d142ea3abb6b9b9601b0a27ebcc9dcc1c35264abafcdb421ae143c6f1d84"
+    },
+    {
+      "match": "Tochigi City vs Montedio Yamagata",
+      "league": "J.League 2",
+      "date": "2026-05-16",
+      "pv_matchid": "PV-j_league_2-19664321",
+      "commitment_hash": "c8234f3ce14d1f6a2f5d80b710986dac7119bb181f5da9206acfe4502b03b986"
+    },
+    {
+      "match": "Sagan Tosu vs Renofa Yamaguchi",
+      "league": "J.League 2",
+      "date": "2026-05-16",
+      "pv_matchid": "PV-j_league_2-19664316",
+      "commitment_hash": "d9b2377a2314bdeca2702f7c228b5072e11b023550cfeef88a9ab27e6e3840e7"
+    },
+    {
+      "match": "Ulytau vs Kaspiy",
+      "league": "Kazakhstan Premier League",
+      "date": "2026-05-16",
+      "pv_matchid": "PV-kazakhstan_premier_league-19682080",
+      "commitment_hash": "f3a446ca4462399fe55f46a81a993c5c9f752c6b2f5fecf781de3af6f9b53227"
+    },
+    {
+      "match": "Okzhetpes vs Astana",
+      "league": "Kazakhstan Premier League",
+      "date": "2026-05-16",
+      "pv_matchid": "PV-kazakhstan_premier_league-19682081",
+      "commitment_hash": "c85b6a4d0075e00a2c23e75f8c9d4e2d5dd7730bbeed4777eaf68f559fc56510"
+    },
+    {
+      "match": "Cheonan City vs Paju Citizen",
+      "league": "K-League 2",
+      "date": "2026-05-16",
+      "pv_matchid": "PV-k_league_2-19676447",
+      "commitment_hash": "9ad7ab8c2da034497ddec6f0d3b21482d2008111fe0a96e6f468e364ab75b95a"
+    },
+    {
+      "match": "Ansan Greeners vs Gimpo FC",
+      "league": "K-League 2",
+      "date": "2026-05-16",
+      "pv_matchid": "PV-k_league_2-19676446",
+      "commitment_hash": "81fae6e2a326d71c80f8b6a61f4288de3d2cff003967076856f1ae80ec4c6ebf"
+    },
+    {
+      "match": "Irtysh vs Yelimay Semey",
+      "league": "Kazakhstan Premier League",
+      "date": "2026-05-17",
+      "pv_matchid": "PV-kazakhstan_premier_league-19682085",
+      "commitment_hash": "b23d3947b1e6e292c437435a012995bcf9c7675616bba0f9f583923e4151c5ef"
+    },
+    {
+      "match": "Jeonbuk Motors vs Gimcheon Sangmu",
+      "league": "K-League 1",
+      "date": "2026-05-17",
+      "pv_matchid": "PV-k_league-19648146",
+      "commitment_hash": "2e75e695f255194c25e0097eea9cf1dedc5d610b7c2bef251ade0c842ae55a54"
+    },
+    {
+      "match": "Seongnam FC vs Gyeongnam FC",
+      "league": "K-League 2",
+      "date": "2026-05-17",
+      "pv_matchid": "PV-k_league_2-19676445",
+      "commitment_hash": "eeeafc1f073d7f984082f4af6cf07e7714977333e34973e5267a2430bf0ef5d7"
     }
   ]
 }
