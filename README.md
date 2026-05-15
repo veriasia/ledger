@@ -2,7 +2,7 @@
 
 > **The gold standard for match probability in Asian football.**
 
-> **Last updated:** 2026-05-14 21:43 UTC
+> **Last updated:** 2026-05-15 21:33 UTC
 > **Model:** PV10 v7 Unified | **Markets:** DNB (Draw No Bet, AH 0.0)
 > **Leagues:** A-League, J.League, J.League 2, K-League 1, K-League 2, Saudi Pro League, Chinese Super League
 
@@ -61,13 +61,13 @@ Locked odds vs Pinnacle closing price. Consistently beating the close is the str
 
 | Date | League | Match | Side | Market | Odds | Close | CLV | Result | P/L |
 |------|--------|-------|------|--------|------|-------|-----|--------|-----|
-| 2026-05-10 | J.League 2 | Ehime vs Kataller Toyama | away | DNB | 1.85 | 1.89 | -2.1% | W | +0.85 |
-| 2026-05-10 | J.League 2 | Gainare Tottori vs Giravanz Kitakyushu | away | DNB | 1.97 | 1.97 | +0.0% | P | +0.00 |
 | 2026-05-10 | J.League 2 | Fukushima United vs Jubilo Iwata | home | DNB | 2.27 | 2.03 | +11.8% | W | +1.27 |
+| 2026-05-10 | J.League 2 | Gainare Tottori vs Giravanz Kitakyushu | away | DNB | 1.97 | 1.97 | +0.0% | P | +0.00 |
+| 2026-05-10 | J.League 2 | Ehime vs Kataller Toyama | away | DNB | 1.85 | 1.89 | -2.1% | W | +0.85 |
 | 2026-05-10 | J.League 2 | Zweigen Kanazawa vs Albirex Niigata | away | DNB | 1.89 | 1.95 | -3.1% | P | +0.00 |
 | 2026-05-10 | J.League 2 | Shonan Bellmare vs Yokohama FC | away | DNB | 1.96 | 1.86 | +5.4% | W | +0.96 |
-| 2026-05-10 | Kazakhstan Premier League | Ulytau vs Kairat | away | AH -1.00 | 1.99 | 1.24 | +7.3% | L | -1.00 |
 | 2026-05-10 | Kazakhstan Premier League | Altay vs Ordabasy | away | AH -0.75 | 1.92 | 1.31 | -2.3% | L | -1.00 |
+| 2026-05-10 | Kazakhstan Premier League | Ulytau vs Kairat | away | AH -1.00 | 1.99 | 1.24 | +7.3% | L | -1.00 |
 | 2026-05-10 | Kazakhstan Premier League | Aktobe vs Kaisar | home | AH -1.00 | 2.10 | 1.21 | +0.8% | W | +1.10 |
 | 2026-05-10 | K-League 1 | Ulsan Hyundai vs Bucheon 1995 | home | AH -0.75 | 1.88 | 1.26 | +1.6% | W | +0.44 |
 | 2026-05-10 | K-League 1 | Anyang vs Jeonbuk Motors | away | AH -0.25 | 1.85 | 1.52 | +1.3% | L | -0.50 |
@@ -82,8 +82,8 @@ Locked odds vs Pinnacle closing price. Consistently beating the close is the str
 | 2026-05-12 | Saudi Pro League | Al Nassr vs Al Hilal | away | DNB | 2.16 | 2.25 | -4.0% | P | +0.00 |
 | 2026-05-12 | Saudi Pro League | Al Kholood vs Al Okhdoud | away | AH +0.75 | 1.93 | 3.53 | +15.9% | W | +0.93 |
 | 2026-05-13 | J.League | Vissel Kobe vs Kyoto Sanga | away | DNB | 3.75 | 3.75 | +0.0% | L | -1.00 |
-| 2026-05-13 | K-League 1 | Anyang vs Gimcheon Sangmu | away | DNB | 2.19 | 2.51 | -12.8% | P | +0.00 |
 | 2026-05-13 | K-League 1 | Ulsan Hyundai vs Jeju United | away | DNB | 3.13 | 2.90 | +7.9% | L | -1.00 |
+| 2026-05-13 | K-League 1 | Anyang vs Gimcheon Sangmu | away | DNB | 2.19 | 2.51 | -12.8% | P | +0.00 |
 | 2026-05-13 | K-League 1 | Bucheon 1995 vs Jeonbuk Motors | away | AH -0.50 | 1.92 | 1.37 | -0.7% | L | -1.00 |
 | 2026-05-14 | Saudi Pro League | Al Ettifaq vs Al Ittihad | away | AH -0.50 | 2.02 | 1.54 | -7.8% | W | +1.02 |
 
@@ -97,16 +97,16 @@ Model calibration vs Pinnacle starting prices. BSS > 0 means the model outperfor
 
 | League | Matches | BSS vs Pinnacle | May 2026 | Status |
 |--------|---------|-----------------|----------|--------|
-| A-League | 361 | +0.41% | +22.02% (1) | BEATING |
-| J.League | 744 | -0.28% | -2.86% (23) | TRAILING |
+| A-League | 362 | +0.32% | +4.91% (2) | BEATING |
+| J.League | 744 | -0.28% | -2.85% (23) | TRAILING |
 | J.League 2 | 93 | +5.67% | +9.42% (45) | BEATING |
-| K-League 1 | 327 | -1.96% | +6.33% (17) | TRAILING |
+| K-League 1 | 327 | -1.95% | +6.29% (17) | TRAILING |
 | K-League 2 | 21 | -15.34% | -6.31% (11) | TRAILING |
 | Saudi Pro League | 51 | -1.68% | — | TRAILING |
-| Chinese Super League | 396 | -10.11% | -10.88% (14) | TRAILING |
-| **ALL LEAGUES** | **1,993** | **-1.74%** | **+3.96% (111)** | **TRAILING** |
+| Chinese Super League | 396 | -10.06% | -10.29% (14) | TRAILING |
+| **ALL LEAGUES** | **1,994** | **-1.74%** | **+3.76% (112)** | **TRAILING** |
 
-> *1,993 matches evaluated. Walk-forward backtest using optimised per-league parameters.*
+> *1,994 matches evaluated. Walk-forward backtest using optimised per-league parameters.*
 
 ---
 
