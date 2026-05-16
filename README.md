@@ -2,7 +2,7 @@
 
 > **The gold standard for match probability in Asian football.**
 
-> **Last updated:** 2026-05-16 21:09 UTC
+> **Last updated:** 2026-05-16 22:15 UTC
 > **Model:** PV10 v7 Unified | **Markets:** DNB (Draw No Bet, AH 0.0)
 > **Leagues:** A-League, J.League, J.League 2, K-League 1, K-League 2, Saudi Pro League, Chinese Super League
 
@@ -64,28 +64,28 @@ Locked odds vs Pinnacle closing price. Consistently beating the close is the str
 | 2026-05-10 | Thai Premier League | BG Pathum United vs PT Prachuap | away | DNB | 2.83 | 4.51 | -37.2% | L | -1.00 |
 | 2026-05-10 | Thai Premier League | Sukhothai vs Muangthong United | away | DNB | 1.95 | 1.83 | +6.6% | L | -1.00 |
 | 2026-05-11 | Saudi Pro League | Al Taawoun vs Al Ahli | away | AH -0.50 | 1.96 | 1.45 | +6.2% | W | +0.96 |
-| 2026-05-12 | K-League 1 | Gangwon FC vs Daejeon Hana Citizen | home | AH -0.25 | 2.00 | 1.63 | -5.5% | W | +1.00 |
 | 2026-05-12 | K-League 1 | Incheon United vs Pohang Steelers | away | DNB | 2.03 | 1.69 | +20.1% | W | +1.03 |
+| 2026-05-12 | K-League 1 | Gangwon FC vs Daejeon Hana Citizen | home | AH -0.25 | 2.00 | 1.63 | -5.5% | W | +1.00 |
 | 2026-05-12 | Saudi Pro League | Al Kholood vs Al Okhdoud | away | AH +0.75 | 1.93 | 3.53 | +15.9% | W | +0.93 |
 | 2026-05-12 | Saudi Pro League | Al Nassr vs Al Hilal | away | DNB | 2.16 | 2.25 | -4.0% | P | +0.00 |
 | 2026-05-13 | J.League | Vissel Kobe vs Kyoto Sanga | away | DNB | 3.75 | 3.75 | +0.0% | L | -1.00 |
-| 2026-05-13 | K-League 1 | Ulsan Hyundai vs Jeju United | away | DNB | 3.13 | 2.90 | +7.9% | L | -1.00 |
 | 2026-05-13 | K-League 1 | Bucheon 1995 vs Jeonbuk Motors | away | AH -0.50 | 1.92 | 1.37 | -0.7% | L | -1.00 |
+| 2026-05-13 | K-League 1 | Ulsan Hyundai vs Jeju United | away | DNB | 3.13 | 2.90 | +7.9% | L | -1.00 |
 | 2026-05-13 | K-League 1 | Anyang vs Gimcheon Sangmu | away | DNB | 2.19 | 2.51 | -12.8% | P | +0.00 |
 | 2026-05-14 | Saudi Pro League | Al Ettifaq vs Al Ittihad | away | AH -0.50 | 2.02 | 1.54 | -7.8% | W | +1.02 |
 | 2026-05-15 | Chinese Super League | Dalian Yingbo vs Qingdao West Coast | home | AH -0.50 | 2.04 | 1.46 | +0.0% | L | -1.00 |
 | 2026-05-15 | Saudi Pro League | Al Taawoun vs Al Riyadh | away | AH +0.75 | 2.07 | 3.79 | +4.5% | W | +1.07 |
 | 2026-05-16 | A-League | Newcastle United Jets vs Sydney | away | DNB | 2.18 | 2.26 | -3.5% | P | +0.00 |
-| 2026-05-16 | Chinese Super League | Shandong Taishan vs Chongqing Tonglianglong FC | home | AH -1.25 | 2.08 | 1.19 | +1.7% | W | +1.08 |
 | 2026-05-16 | Chinese Super League | Wuhan Three Towns vs Liaoning Tieren FC | home | DNB | 1.86 | 1.67 | +11.4% | P | +0.00 |
+| 2026-05-16 | Chinese Super League | Shandong Taishan vs Chongqing Tonglianglong FC | home | AH -1.25 | 2.08 | 1.19 | +1.7% | W | +1.08 |
 | 2026-05-16 | J.League | Mito Hollyhock vs Tokyo Verdy | home | DNB | 1.90 | 2.00 | -5.0% | L | -1.00 |
 | 2026-05-16 | J.League | Yokohama F. Marinos vs Kashiwa Reysol | home | DNB | 2.20 | 2.62 | -16.0% | L | -1.00 |
-| 2026-05-16 | J.League 2 | Tochigi City vs Montedio Yamagata | away | DNB | 2.45 | 2.21 | +10.9% | L | -1.00 |
 | 2026-05-16 | J.League 2 | Shonan Bellmare vs Vegalta Sendai | away | AH -0.25 | 1.88 | 1.77 | -11.3% | W | +0.88 |
-| 2026-05-16 | J.League 2 | Sagan Tosu vs Renofa Yamaguchi | away | DNB | 2.93 | 2.64 | +11.0% | P | +0.00 |
 | 2026-05-16 | J.League 2 | Ventforet Kofu vs Gifu | away | DNB | 2.24 | 2.02 | +10.9% | P | +0.00 |
-| 2026-05-16 | K-League 2 | Cheonan City vs Paju Citizen | home | DNB | 1.81 | 1.75 | +3.4% | P | +0.00 |
+| 2026-05-16 | J.League 2 | Tochigi City vs Montedio Yamagata | away | DNB | 2.45 | 2.21 | +10.9% | L | -1.00 |
+| 2026-05-16 | J.League 2 | Sagan Tosu vs Renofa Yamaguchi | away | DNB | 2.93 | 2.64 | +11.0% | P | +0.00 |
 | 2026-05-16 | K-League 2 | Ansan Greeners vs Gimpo FC | away | AH -1.00 | 1.93 | 1.19 | -1.7% | P | +0.00 |
+| 2026-05-16 | K-League 2 | Cheonan City vs Paju Citizen | home | DNB | 1.81 | 1.75 | +3.4% | P | +0.00 |
 
 Full play-by-play history: [`plays.csv`](plays.csv) | Machine-readable: [`ledger.json`](ledger.json)
 
