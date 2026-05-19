@@ -1,7 +1,22 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-05-18T20:52:30Z",
-  "n_pending_locks": 0,
-  "commitments": []
+  "published_at": "2026-05-19T20:58:21Z",
+  "n_pending_locks": 2,
+  "commitments": [
+    {
+      "match": "Liaoning Tieren FC vs Qingdao Hainiu",
+      "league": "Chinese Super League",
+      "date": "2026-05-20",
+      "pv_matchid": "PV-chinese_super_league-19674717",
+      "commitment_hash": "5359fff4a844bad72f5f6ae59781459dd2c31e34dfab04405450414c593b1654"
+    },
+    {
+      "match": "Chongqing Tonglianglong FC vs Yunnan Yukun",
+      "league": "Chinese Super League",
+      "date": "2026-05-20",
+      "pv_matchid": "PV-chinese_super_league-19674715",
+      "commitment_hash": "c922fd8b53e4967fa78182608cc5c34ad316bb7e35e0e3daff19d2162133b330"
+    }
+  ]
 }
