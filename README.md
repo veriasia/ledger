@@ -2,7 +2,7 @@
 
 > **The gold standard for match probability in Asian football.**
 
-> **Last updated:** 2026-05-19 21:52 UTC
+> **Last updated:** 2026-05-20 22:09 UTC
 > **Model:** PV10 v7 Unified | **Markets:** DNB (Draw No Bet, AH 0.0)
 > **Leagues:** A-League, J.League, J.League 2, K-League 1, K-League 2, Saudi Pro League, Chinese Super League
 
@@ -14,32 +14,32 @@ Cumulative profit/loss from all settled positions. Every play is timestamped and
 
 | Metric | Value |
 |--------|-------|
-| **Plays** | 246 |
+| **Plays** | 249 |
 | **Wins** | 105 |
-| **Losses** | 97 |
+| **Losses** | 100 |
 | **Pushes** | 44 |
-| **P/L** | **+18.72u** |
-| **ROI** | **+7.6%** |
+| **P/L** | **+16.22u** |
+| **ROI** | **+6.5%** |
 | **Avg Odds** | 2.19 |
-| **Staked** | 246.5u |
-| **Exp P/L** | +31.16u |
-| **Exp ROI** | +12.6% |
-| **CLV+** | 43.1% |
+| **Staked** | 249.5u |
+| **Exp P/L** | +31.70u |
+| **Exp ROI** | +12.7% |
+| **CLV+** | 43.0% |
 
 ### By League
 
 | League | Plays | Record | Staked | P/L (units) | ROI |
 |--------|-------|--------|--------|-------------|-----|
 | A-League | 15 | 6W 5L 4P | 15.0 | +2.71 | +18.1% |
-| Chinese Super League | 40 | 14W 18L 8P | 41.5 | -0.63 | -1.5% |
+| Chinese Super League | 42 | 14W 20L 8P | 43.5 | -2.13 | -4.9% |
 | J.League | 48 | 15W 21L 12P | 49.0 | -4.16 | -8.5% |
 | J.League 2 | 35 | 19W 11L 5P | 34.5 | +11.01 | +31.9% |
 | K-League 1 | 40 | 22W 13L 5P | 40.0 | +7.00 | +17.5% |
 | K-League 2 | 20 | 8W 8L 4P | 20.0 | -0.24 | -1.2% |
 | Kazakhstan Premier League | 14 | 6W 7L 1P | 14.0 | -1.79 | -12.8% |
-| Saudi Pro League | 32 | 15W 12L 5P | 30.5 | +6.82 | +22.4% |
+| Saudi Pro League | 33 | 15W 13L 5P | 31.5 | +5.82 | +18.5% |
 | Thai Premier League | 2 | 0W 2L 0P | 2.0 | -2.00 | -100.0% |
-| **ALL** | **246** | **105W 97L 44P** | **246.5** | **+18.72** | **+7.6%** |
+| **ALL** | **249** | **105W 100L 44P** | **249.5** | **+16.22** | **+6.5%** |
 
 ---
 
@@ -49,11 +49,11 @@ Locked odds vs Pinnacle closing price. Consistently beating the close is the str
 
 | Metric | Value |
 |--------|-------|
-| **CLV+** | 49.2% |
-| **Avg CLV** | -0.39% |
-| **Better** | 94 |
+| **CLV+** | 49.0% |
+| **Avg CLV** | -0.42% |
+| **Better** | 95 |
 | **Push** | 55 |
-| **Worse** | 97 |
+| **Worse** | 99 |
 
 ---
 
@@ -61,31 +61,31 @@ Locked odds vs Pinnacle closing price. Consistently beating the close is the str
 
 | Date | League | Match | Side | Market | Odds | Close | CLV | Result | P/L |
 |------|--------|-------|------|--------|------|-------|-----|--------|-----|
-| 2026-05-16 | J.League 2 | Shonan Bellmare vs Vegalta Sendai | away | AH -0.25 | 1.88 | 1.77 | -11.3% | W | +0.88 |
-| 2026-05-16 | J.League 2 | Tochigi City vs Montedio Yamagata | away | AH +0.25 | 1.90 | 2.21 | +10.9% | L | -1.00 |
-| 2026-05-16 | J.League 2 | Ventforet Kofu vs Gifu | away | DNB | 2.24 | 2.02 | +10.9% | P | +0.00 |
-| 2026-05-16 | Kazakhstan Premier League | Ulytau vs Kaspiy | home | AH -0.75 | 2.09 | 1.33 | +9.0% | W | +0.55 |
-| 2026-05-16 | Kazakhstan Premier League | Okzhetpes vs Astana | home | AH +0.50 | 2.06 | 3.18 | -25.5% | W | +1.06 |
 | 2026-05-16 | Kazakhstan Premier League | Irtysh vs Yelimay Semey | away | AH -0.25 | 1.93 | 1.66 | -17.5% | L | -0.50 |
-| 2026-05-16 | K-League 2 | Cheonan City vs Paju Citizen | home | AH -0.25 | 2.12 | 1.75 | +3.4% | L | -0.50 |
+| 2026-05-16 | Kazakhstan Premier League | Okzhetpes vs Astana | home | AH +0.50 | 2.06 | 3.18 | -25.5% | W | +1.06 |
+| 2026-05-16 | Kazakhstan Premier League | Ulytau vs Kaspiy | home | AH -0.75 | 2.09 | 1.33 | +9.0% | W | +0.55 |
 | 2026-05-16 | K-League 2 | Ansan Greeners vs Gimpo FC | away | AH -1.00 | 1.93 | 1.19 | -1.7% | P | +0.00 |
-| 2026-05-17 | J.League 2 | Rayluck Shiga vs Giravanz Kitakyushu | away | AH -0.25 | 1.90 | 1.77 | +1.1% | L | -1.00 |
-| 2026-05-17 | J.League 2 | Kagoshima United vs Roasso Kumamoto | away | AH +0.50 | 2.01 | 3.42 | -5.0% | L | -1.00 |
-| 2026-05-17 | J.League 2 | Blaublitz Akita vs Thespa Kusatsu Gunma | away | AH +0.25 | 1.97 | 3.27 | +1.8% | L | -1.00 |
+| 2026-05-16 | K-League 2 | Cheonan City vs Paju Citizen | home | AH -0.25 | 2.12 | 1.75 | +3.4% | L | -0.50 |
 | 2026-05-17 | J.League 2 | Osaka vs Zweigen Kanazawa | away | AH +0.50 | 1.87 | 2.75 | -8.7% | W | +0.87 |
+| 2026-05-17 | J.League 2 | Blaublitz Akita vs Thespa Kusatsu Gunma | away | AH +0.25 | 1.97 | 3.27 | +1.8% | L | -1.00 |
+| 2026-05-17 | J.League 2 | Kagoshima United vs Roasso Kumamoto | away | AH +0.50 | 2.01 | 3.42 | -5.0% | L | -1.00 |
 | 2026-05-17 | J.League 2 | Iwaki vs Matsumoto Yamaga | away | AH +0.25 | 1.88 | 2.51 | -14.3% | W | +0.44 |
+| 2026-05-17 | J.League 2 | Rayluck Shiga vs Giravanz Kitakyushu | away | AH -0.25 | 1.90 | 1.77 | +1.1% | L | -1.00 |
 | 2026-05-17 | Kazakhstan Premier League | Kaisar vs Tobol | away | AH -0.50 | 1.93 | 1.41 | +12.8% | L | -1.00 |
 | 2026-05-17 | Kazakhstan Premier League | Aktobe vs Atyrau | home | AH -0.75 | 2.08 | 1.31 | -2.3% | L | -1.00 |
-| 2026-05-17 | K-League 1 | Gangwon FC vs Ulsan Hyundai | home | AH -0.25 | 1.99 | 1.65 | -3.6% | W | +0.99 |
 | 2026-05-17 | K-League 1 | Jeonbuk Motors vs Gimcheon Sangmu | home | AH -0.75 | 2.03 | 1.32 | -2.3% | W | +0.52 |
+| 2026-05-17 | K-League 1 | Gangwon FC vs Ulsan Hyundai | home | AH -0.25 | 1.99 | 1.65 | -3.6% | W | +0.99 |
 | 2026-05-17 | K-League 2 | Chungnam Asan vs Suwon FC | home | DNB | 1.92 | 1.94 | -1.0% | L | -1.00 |
-| 2026-05-17 | K-League 2 | Seongnam FC vs Gyeongnam FC | home | AH -0.50 | 1.94 | 1.37 | -5.1% | L | -1.00 |
 | 2026-05-17 | K-League 2 | Hwaseong vs Busan IPark | home | AH +0.25 | 1.93 | 2.47 | -1.2% | W | +0.93 |
+| 2026-05-17 | K-League 2 | Seongnam FC vs Gyeongnam FC | home | AH -0.50 | 1.94 | 1.37 | -5.1% | L | -1.00 |
 | 2026-05-17 | Saudi Pro League | Al Shabab vs Al Ittihad | away | AH -0.50 | 2.02 | 1.79 | +0.0% | L | -1.00 |
+| 2026-05-19 | Chinese Super League | Shenzhen Peng City vs Dalian Yingbo | away | DNB | 1.97 | 2.07 | -4.8% | P | +0.00 |
 | 2026-05-19 | Chinese Super League | Chengdu Rongcheng vs Shanghai Port | away | AH +0.75 | 1.93 | 3.32 | +0.0% | W | +0.93 |
 | 2026-05-19 | Chinese Super League | Qingdao West Coast vs Beijing Guoan | away | AH -0.75 | 1.97 | 1.33 | +0.8% | L | -1.00 |
 | 2026-05-19 | Chinese Super League | Tianjin Jinmen Tiger vs Henan Songshan Longmen | away | AH -0.25 | 1.99 | 1.60 | +13.1% | W | +0.99 |
-| 2026-05-19 | Chinese Super League | Shenzhen Peng City vs Dalian Yingbo | away | DNB | 1.97 | 2.07 | -4.8% | P | +0.00 |
+| 2026-05-20 | Chinese Super League | Chongqing Tonglianglong FC vs Yunnan Yukun | away | AH -0.25 | 2.11 | 1.80 | +1.7% | L | -0.50 |
+| 2026-05-20 | Chinese Super League | Liaoning Tieren FC vs Qingdao Hainiu | away | AH +0.25 | 2.03 | 2.49 | -4.8% | L | -1.00 |
+| 2026-05-20 | Saudi Pro League | Al Najma vs Al Shabab | away | AH -1.00 | 1.99 | 1.27 | -6.3% | L | -1.00 |
 
 Full play-by-play history: [`plays.csv`](plays.csv) | Machine-readable: [`ledger.json`](ledger.json)
 
@@ -98,15 +98,15 @@ Model calibration vs Pinnacle starting prices. BSS > 0 means the model outperfor
 | League | Matches | BSS vs Pinnacle | May 2026 | Status |
 |--------|---------|-----------------|----------|--------|
 | A-League | 362 | +0.33% | +4.83% (2) | BEATING |
-| J.League | 750 | -0.33% | -3.98% (29) | TRAILING |
-| J.League 2 | 107 | +5.00% | +7.51% (59) | BEATING |
-| K-League 1 | 333 | -2.05% | +3.44% (23) | TRAILING |
-| K-League 2 | 25 | -11.17% | -0.12% (15) | TRAILING |
+| J.League | 750 | -0.33% | -3.94% (29) | TRAILING |
+| J.League 2 | 107 | +5.01% | +7.52% (59) | BEATING |
+| K-League 1 | 333 | -2.04% | +3.45% (23) | TRAILING |
+| K-League 2 | 25 | -11.15% | -0.09% (15) | TRAILING |
 | Saudi Pro League | 51 | -1.68% | — | TRAILING |
-| Chinese Super League | 404 | -3.58% | -2.23% (22) | TRAILING |
-| **ALL LEAGUES** | **2,032** | **-0.79%** | **+3.19% (150)** | **TRAILING** |
+| Chinese Super League | 406 | -3.69% | -3.76% (24) | TRAILING |
+| **ALL LEAGUES** | **2,034** | **-0.81%** | **+2.93% (152)** | **TRAILING** |
 
-> *2,032 matches evaluated. Walk-forward backtest using optimised per-league parameters.*
+> *2,034 matches evaluated. Walk-forward backtest using optimised per-league parameters.*
 
 ---
 
