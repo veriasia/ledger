@@ -1,7 +1,15 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-05-20T21:18:14Z",
-  "n_pending_locks": 0,
-  "commitments": []
+  "published_at": "2026-05-21T21:10:54Z",
+  "n_pending_locks": 1,
+  "commitments": [
+    {
+      "match": "Altay vs Okzhetpes",
+      "league": "Kazakhstan Premier League",
+      "date": "2026-05-22",
+      "pv_matchid": "PV-kazakhstan_premier_league-19682076",
+      "commitment_hash": "9c3ef346924ee4c066800802715496e0a87faac61019503ab0764378fe667c7f"
+    }
+  ]
 }
