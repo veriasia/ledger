@@ -1,15 +1,57 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-05-21T21:10:54Z",
-  "n_pending_locks": 1,
+  "published_at": "2026-05-22T20:53:56Z",
+  "n_pending_locks": 7,
   "commitments": [
     {
-      "match": "Altay vs Okzhetpes",
+      "match": "Dalian Yingbo vs Chengdu Rongcheng",
+      "league": "Chinese Super League",
+      "date": "2026-05-23",
+      "pv_matchid": "PV-chinese_super_league-19674711",
+      "commitment_hash": "2979ee39a9370ea8b718fe2e728f877fc2debfa8eca666b27e0a760d55c191d3"
+    },
+    {
+      "match": "Shanghai Port vs Tianjin Jinmen Tiger",
+      "league": "Chinese Super League",
+      "date": "2026-05-23",
+      "pv_matchid": "PV-chinese_super_league-19674713",
+      "commitment_hash": "01edfbf1580eb31486b2aec2d30990d5108b2754cac5cbec22a388a493c48a9c"
+    },
+    {
+      "match": "Parceiro Nagano vs Ventforet Kofu",
+      "league": "J.League 2",
+      "date": "2026-05-23",
+      "pv_matchid": "PV-j_league_2-19664292",
+      "commitment_hash": "e8993636253dbcfe5d266a352f12b5a51b903c51d3c42561bcfdc16e3ec89c9b"
+    },
+    {
+      "match": "Sagan Tosu vs Ryukyu",
+      "league": "J.League 2",
+      "date": "2026-05-23",
+      "pv_matchid": "PV-j_league_2-19664293",
+      "commitment_hash": "19d6dba05b69a6135649bf3fee1308e69847d31ff57d69a6a32d43c98a98a53b"
+    },
+    {
+      "match": "Yelimay Semey vs Zhenys",
       "league": "Kazakhstan Premier League",
-      "date": "2026-05-22",
-      "pv_matchid": "PV-kazakhstan_premier_league-19682076",
-      "commitment_hash": "9c3ef346924ee4c066800802715496e0a87faac61019503ab0764378fe667c7f"
+      "date": "2026-05-23",
+      "pv_matchid": "PV-kazakhstan_premier_league-19682072",
+      "commitment_hash": "3714dbd95b156095280c6e85a164c66e4b6d53675ec009e919b42e48bbbb4981"
+    },
+    {
+      "match": "Cheongju vs Hwaseong",
+      "league": "K-League 2",
+      "date": "2026-05-23",
+      "pv_matchid": "PV-k_league_2-19676439",
+      "commitment_hash": "dcd5fa2e17fdbaa0254a55e0808c06b614e14607acc9295c63ff76951abe5003"
+    },
+    {
+      "match": "Aktobe vs Kyzyl-Zhar",
+      "league": "Kazakhstan Premier League",
+      "date": "2026-05-24",
+      "pv_matchid": "PV-kazakhstan_premier_league-19682077",
+      "commitment_hash": "ca57e314c8b3152337d2d924df2e85625b162d2681156143be011fa3b8bad7e9"
     }
   ]
 }
