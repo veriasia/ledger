@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-05-23T21:13:48Z",
+  "checked_at": "2026-05-24T10:52:49Z",
   "status": "degraded",
-  "overall_bss_vs_sp_pct": -0.9936,
+  "overall_bss_vs_sp_pct": -1.0187,
   "all_leagues_positive": false,
   "leagues_negative": [
     "J.League",
@@ -36,8 +36,8 @@
       "n_sp_matches": 51
     },
     "chinese_super_league": {
-      "bss_vs_sp_pct": -3.6947,
-      "n_sp_matches": 406
+      "bss_vs_sp_pct": -3.8194,
+      "n_sp_matches": 408
     }
   }
 }
