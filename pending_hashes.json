@@ -1,15 +1,22 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-05-24T10:51:13Z",
-  "n_pending_locks": 1,
+  "published_at": "2026-05-24T20:31:00Z",
+  "n_pending_locks": 2,
   "commitments": [
     {
-      "match": "Shanghai Shenhua vs Shenzhen Peng City",
-      "league": "Chinese Super League",
-      "date": "2026-05-24",
-      "pv_matchid": "PV-chinese_super_league-19674706",
-      "commitment_hash": "9484e0a5147e97e435630d63af16af003e3e0d30c576d0a2dd7c9695ba14b669"
+      "match": "Suwon Samsung Bluewings vs Cheonan City",
+      "league": "K-League 2",
+      "date": "2026-05-25",
+      "pv_matchid": "PV-k_league_2-19676435",
+      "commitment_hash": "685bf954a4553fe6a996e13475b75f8d5c14d94b6771fe16246bc906b2f67911"
+    },
+    {
+      "match": "Paju Citizen vs Gimpo FC",
+      "league": "K-League 2",
+      "date": "2026-05-25",
+      "pv_matchid": "PV-k_league_2-19676434",
+      "commitment_hash": "836720e010d2f9a2a51d06937fc44d01927c79f8eeffb14b8db57cc084854083"
     }
   ]
 }
