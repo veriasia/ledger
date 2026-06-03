@@ -1,15 +1,29 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-06-02T22:09:23Z",
-  "n_pending_locks": 1,
+  "published_at": "2026-06-03T22:10:06Z",
+  "n_pending_locks": 3,
   "commitments": [
+    {
+      "match": "Omiya Ardija vs Kochi United",
+      "league": "J.League 2",
+      "date": "2026-06-06",
+      "pv_matchid": "PV-j_league_2-19711627",
+      "commitment_hash": "cf13e93f5778c1990bc001a3e18eb81c6bca0966e7519cd5bc6ddae75869046e"
+    },
     {
       "match": "Matsumoto Yamaga vs Nara Club",
       "league": "J.League 2",
       "date": "2026-06-06",
       "pv_matchid": "PV-j_league_2-19712139",
       "commitment_hash": "dce98864ef2ce174a2c249c23204c323c0d9210253bc1d8b57286afa2180e3f7"
+    },
+    {
+      "match": "Oita Trinita vs Montedio Yamagata",
+      "league": "J.League 2",
+      "date": "2026-06-07",
+      "pv_matchid": "PV-j_league_2-19712144",
+      "commitment_hash": "b79d4a5373f66a26279628d83f02ed5295f32cf8119bf154441067817d1c8eb1"
     }
   ]
 }
