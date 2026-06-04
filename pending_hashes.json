@@ -1,9 +1,16 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-06-03T22:10:06Z",
-  "n_pending_locks": 3,
+  "published_at": "2026-06-04T21:10:53Z",
+  "n_pending_locks": 4,
   "commitments": [
+    {
+      "match": "Vegalta Sendai vs Kataller Toyama",
+      "league": "J.League 2",
+      "date": "2026-06-06",
+      "pv_matchid": "PV-j_league_2-19711630",
+      "commitment_hash": "aa7f711d620e72413e2a4ceebd1718be5ea1f9e3c560bac8b6c3a89e4b727438"
+    },
     {
       "match": "Omiya Ardija vs Kochi United",
       "league": "J.League 2",
