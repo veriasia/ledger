@@ -2,7 +2,7 @@
 
 > **The gold standard for match probability in Asian football.**
 
-> **Last updated:** 2026-06-03 22:36 UTC
+> **Last updated:** 2026-06-04 21:59 UTC
 > **Model:** PV10 v7 Unified | **Markets:** DNB (Draw No Bet, AH 0.0)
 > **Leagues:** A-League, J.League, J.League 2, K-League 1, K-League 2, Saudi Pro League, Chinese Super League
 
@@ -63,21 +63,21 @@ Locked odds vs Pinnacle closing price. Consistently beating the close is the str
 |------|--------|-------|------|--------|------|-------|-----|--------|-----|
 | 2026-05-23 | Chinese Super League | Shanghai Port vs Tianjin Jinmen Tiger | away | DNB | 3.68 | 3.56 | +3.4% | W | +0.90 |
 | 2026-05-23 | Chinese Super League | Dalian Yingbo vs Chengdu Rongcheng | away | DNB | 1.51 | 1.81 | -16.6% | L | -1.00 |
+| 2026-05-23 | J.League 2 | Parceiro Nagano vs Ventforet Kofu | home | DNB | 2.48 | 2.24 | +10.7% | W | +0.85 |
 | 2026-05-23 | J.League 2 | Sagan Tosu vs Ryukyu | away | DNB | 3.75 | 5.05 | -25.7% | W | +1.02 |
 | 2026-05-23 | J.League 2 | Nara Club vs Kataller Toyama | away | DNB | 1.45 | 1.24 | +16.9% | L | -1.00 |
 | 2026-05-23 | J.League 2 | Thespa Kusatsu Gunma vs Sagamihara | away | DNB | 1.64 | 1.67 | -1.8% | L | -1.00 |
-| 2026-05-23 | J.League 2 | Parceiro Nagano vs Ventforet Kofu | home | DNB | 2.48 | 2.24 | +10.7% | W | +0.85 |
-| 2026-05-23 | Kazakhstan Premier League | Aktobe vs Kyzyl-Zhar | away | DNB | 3.05 | 3.33 | -8.4% | W | +1.03 |
 | 2026-05-23 | Kazakhstan Premier League | Yelimay Semey vs Zhenys | home | DNB | 1.23 | 1.33 | -7.5% | W | +0.53 |
+| 2026-05-23 | Kazakhstan Premier League | Aktobe vs Kyzyl-Zhar | away | DNB | 3.05 | 3.33 | -8.4% | W | +1.03 |
 | 2026-05-23 | K-League 2 | Cheongju vs Hwaseong | home | DNB | 1.85 | 1.86 | -0.5% | L | -1.00 |
 | 2026-05-24 | Chinese Super League | Shanghai Shenhua vs Shenzhen Peng City | home | DNB | 1.30 | 1.25 | +4.0% | L | -1.00 |
 | 2026-05-24 | Chinese Super League | Qingdao Hainiu vs Chongqing Tonglianglong FC | home | DNB | 1.74 | 1.63 | +6.8% | L | -1.00 |
-| 2026-05-24 | K-League 2 | Seoul E-Land vs Seongnam FC | home | DNB | 1.47 | 1.48 | -0.7% | W | +1.06 |
 | 2026-05-24 | K-League 2 | Yongin City vs Chungnam Asan | away | DNB | 1.61 | 1.64 | -1.8% | L | -0.50 |
+| 2026-05-24 | K-League 2 | Seoul E-Land vs Seongnam FC | home | DNB | 1.47 | 1.48 | -0.7% | W | +1.06 |
 | 2026-05-25 | K-League 2 | Suwon Samsung Bluewings vs Cheonan City | home | DNB | 1.23 | 1.20 | +2.5% | P | +0.00 |
 | 2026-05-25 | K-League 2 | Paju Citizen vs Gimpo FC | away | DNB | 1.43 | 1.41 | +1.4% | W | +0.99 |
-| 2026-05-30 | Chinese Super League | Chongqing Tonglianglong FC vs Beijing Guoan | away | DNB | 1.40 | 1.79 | -21.8% | W | +1.15 |
 | 2026-05-30 | Chinese Super League | Chengdu Rongcheng vs Shandong Taishan | away | DNB | 2.37 | 3.22 | -26.4% | L | -0.50 |
+| 2026-05-30 | Chinese Super League | Chongqing Tonglianglong FC vs Beijing Guoan | away | DNB | 1.40 | 1.79 | -21.8% | W | +1.15 |
 | 2026-05-30 | J.League | Sanfrecce Hiroshima vs Kawasaki Frontale | away | DNB | 3.23 | 3.11 | +3.9% | L | -1.00 |
 | 2026-05-30 | J.League 2 | Shonan Bellmare vs Iwaki | away | DNB | 1.85 | 1.88 | -1.6% | W | +0.85 |
 | 2026-05-30 | K-League 2 | Chungnam Asan vs Suwon Samsung Bluewings | away | DNB | 1.44 | 1.36 | +5.9% | L | -1.00 |
@@ -101,7 +101,7 @@ Model calibration vs Pinnacle starting prices. BSS > 0 means the model outperfor
 | J.League | 764 | -0.47% | — | TRAILING |
 | J.League 2 | 134 | +5.59% | +19.43% (1) | BEATING |
 | K-League 1 | 333 | -2.04% | — | TRAILING |
-| K-League 2 | 38 | -16.10% | — | TRAILING |
+| K-League 2 | 38 | -16.14% | — | TRAILING |
 | Saudi Pro League | 51 | -1.68% | — | TRAILING |
 | Chinese Super League | 418 | -4.10% | — | TRAILING |
 | **ALL LEAGUES** | **2,101** | **-0.95%** | **+19.43% (1)** | **TRAILING** |
