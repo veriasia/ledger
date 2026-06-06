@@ -1,30 +1,9 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-06-05T21:06:58Z",
-  "n_pending_locks": 4,
+  "published_at": "2026-06-06T20:38:51Z",
+  "n_pending_locks": 1,
   "commitments": [
-    {
-      "match": "Vegalta Sendai vs Kataller Toyama",
-      "league": "J.League 2",
-      "date": "2026-06-06",
-      "pv_matchid": "PV-j_league_2-19711630",
-      "commitment_hash": "aa7f711d620e72413e2a4ceebd1718be5ea1f9e3c560bac8b6c3a89e4b727438"
-    },
-    {
-      "match": "Omiya Ardija vs Kochi United",
-      "league": "J.League 2",
-      "date": "2026-06-06",
-      "pv_matchid": "PV-j_league_2-19711627",
-      "commitment_hash": "cf13e93f5778c1990bc001a3e18eb81c6bca0966e7519cd5bc6ddae75869046e"
-    },
-    {
-      "match": "Matsumoto Yamaga vs Nara Club",
-      "league": "J.League 2",
-      "date": "2026-06-06",
-      "pv_matchid": "PV-j_league_2-19712139",
-      "commitment_hash": "dce98864ef2ce174a2c249c23204c323c0d9210253bc1d8b57286afa2180e3f7"
-    },
     {
       "match": "Oita Trinita vs Montedio Yamagata",
       "league": "J.League 2",
