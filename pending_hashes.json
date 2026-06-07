@@ -1,15 +1,7 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-06-06T20:38:51Z",
-  "n_pending_locks": 1,
-  "commitments": [
-    {
-      "match": "Oita Trinita vs Montedio Yamagata",
-      "league": "J.League 2",
-      "date": "2026-06-07",
-      "pv_matchid": "PV-j_league_2-19712144",
-      "commitment_hash": "b79d4a5373f66a26279628d83f02ed5295f32cf8119bf154441067817d1c8eb1"
-    }
-  ]
+  "published_at": "2026-06-07T20:44:51Z",
+  "n_pending_locks": 0,
+  "commitments": []
 }
