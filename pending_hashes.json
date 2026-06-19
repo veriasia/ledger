@@ -1,7 +1,15 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-06-18T21:33:17Z",
-  "n_pending_locks": 0,
-  "commitments": []
+  "published_at": "2026-06-19T20:52:10Z",
+  "n_pending_locks": 1,
+  "commitments": [
+    {
+      "match": "Okzhetpes vs Tobol",
+      "league": "Kazakhstan Premier League",
+      "date": "2026-06-21",
+      "pv_matchid": "PV-kazakhstan_premier_league-19682051",
+      "commitment_hash": "8a73861762a1a281e2754f198ca420142fcf4dfb9aad996f01b5767bdb681f90"
+    }
+  ]
 }
