@@ -2,7 +2,7 @@
 
 > **The gold standard for match probability in Asian football.**
 
-> **Last updated:** 2026-06-24 21:52 UTC
+> **Last updated:** 2026-06-25 21:05 UTC
 > **Model:** PV10 v7 Unified | **Markets:** DNB (Draw No Bet, AH 0.0)
 > **Leagues:** A-League, J.League, J.League 2, K-League 1, K-League 2, Saudi Pro League, Chinese Super League
 
@@ -62,14 +62,14 @@ Locked odds vs Pinnacle closing price. Consistently beating the close is the str
 | Date | League | Match | Side | Market | Odds | Close | CLV | Result | P/L |
 |------|--------|-------|------|--------|------|-------|-----|--------|-----|
 | 2026-05-23 | K-League 2 | Cheongju vs Hwaseong | home | DNB | 1.85 | 1.86 | -0.5% | L | -1.00 |
-| 2026-05-24 | Chinese Super League | Shanghai Shenhua vs Shenzhen Peng City | home | AH -1.00 | 1.88 | 1.25 | +4.0% | L | -1.00 |
 | 2026-05-24 | Chinese Super League | Qingdao Hainiu vs Chongqing Tonglianglong FC | home | AH -0.25 | 2.02 | 1.63 | +6.8% | L | -1.00 |
-| 2026-05-24 | K-League 2 | Yongin City vs Chungnam Asan | away | AH -0.25 | 1.96 | 1.64 | -1.8% | L | -0.50 |
+| 2026-05-24 | Chinese Super League | Shanghai Shenhua vs Shenzhen Peng City | home | AH -1.00 | 1.88 | 1.25 | +4.0% | L | -1.00 |
 | 2026-05-24 | K-League 2 | Seoul E-Land vs Seongnam FC | home | AH -0.50 | 2.06 | 1.48 | -0.7% | W | +1.06 |
-| 2026-05-25 | K-League 2 | Suwon Samsung Bluewings vs Cheonan City | home | AH -1.00 | 1.98 | 1.20 | +2.5% | P | +0.00 |
+| 2026-05-24 | K-League 2 | Yongin City vs Chungnam Asan | away | AH -0.25 | 1.96 | 1.64 | -1.8% | L | -0.50 |
 | 2026-05-25 | K-League 2 | Paju Citizen vs Gimpo FC | away | AH -0.50 | 1.99 | 1.41 | +1.4% | W | +0.99 |
-| 2026-05-30 | Chinese Super League | Chengdu Rongcheng vs Shandong Taishan | away | DNB | 2.37 | 3.22 | -26.4% | L | -1.00 |
+| 2026-05-25 | K-League 2 | Suwon Samsung Bluewings vs Cheonan City | home | AH -1.00 | 1.98 | 1.20 | +2.5% | P | +0.00 |
 | 2026-05-30 | Chinese Super League | Chongqing Tonglianglong FC vs Beijing Guoan | away | AH -0.25 | 2.15 | 1.79 | -21.8% | W | +1.15 |
+| 2026-05-30 | Chinese Super League | Chengdu Rongcheng vs Shandong Taishan | away | DNB | 2.37 | 3.22 | -26.4% | L | -1.00 |
 | 2026-05-30 | J.League | Sanfrecce Hiroshima vs Kawasaki Frontale | away | DNB | 3.23 | 3.11 | +3.9% | L | -1.00 |
 | 2026-05-30 | J.League 2 | Shonan Bellmare vs Iwaki | away | DNB | 1.85 | 1.88 | -1.6% | W | +0.85 |
 | 2026-05-30 | K-League 2 | Chungnam Asan vs Suwon Samsung Bluewings | away | AH -0.75 | 2.07 | 1.36 | +5.9% | L | -1.00 |
