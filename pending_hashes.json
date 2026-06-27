@@ -1,7 +1,15 @@
 {
   "schema": "veriasia-lock-commitment-v1",
   "description": "SHA-256 commitments for pending locked plays. Each hash commits to: pv_matchid|league|date|home|away|side|odds|edge|locked_at. Full details are revealed post-settlement in ledger.json and plays.csv. To verify: compute sha256 of the pipe-delimited cleartext and compare.",
-  "published_at": "2026-06-26T20:09:08Z",
-  "n_pending_locks": 0,
-  "commitments": []
+  "published_at": "2026-06-27T19:56:02Z",
+  "n_pending_locks": 1,
+  "commitments": [
+    {
+      "match": "Dalian Yingbo vs Shanghai Shenhua",
+      "league": "Chinese Super League",
+      "date": "2026-06-28",
+      "pv_matchid": "PV-chinese_super_league-19674690",
+      "commitment_hash": "bf8d23ab44e747d67c3a345cbc20c3e6a5a874d265ced63c57a632e559e0105c"
+    }
+  ]
 }
