@@ -2,7 +2,7 @@
 
 > **The gold standard for match probability in Asian football.**
 
-> **Last updated:** 2026-06-29 21:02 UTC
+> **Last updated:** 2026-06-30 21:07 UTC
 > **Model:** PV10 v7 Unified | **Markets:** DNB (Draw No Bet, AH 0.0)
 > **Leagues:** A-League, J.League, J.League 2, K-League 1, K-League 2, Saudi Pro League, Chinese Super League
 
@@ -73,13 +73,13 @@ Locked odds vs Pinnacle closing price. Consistently beating the close is the str
 | 2026-05-30 | K-League 2 | Chungnam Asan vs Suwon Samsung Bluewings | away | AH -0.75 | 2.07 | 1.36 | +5.9% | L | -1.00 |
 | 2026-05-31 | Chinese Super League | Tianjin Jinmen Tiger vs Dalian Yingbo | away | AH -0.25 | 2.13 | 1.74 | -2.3% | L | -1.00 |
 | 2026-05-31 | J.League | Fagiano Okayama FC vs Urawa Red Diamonds | home | DNB | 2.12 | 1.95 | +8.7% | P | +0.00 |
-| 2026-05-31 | K-League 2 | Ansan Greeners vs Cheonan City | home | DNB | 2.91 | 3.14 | -7.3% | L | -1.00 |
 | 2026-05-31 | K-League 2 | Hwaseong vs Gyeongnam FC | away | DNB | 2.49 | 2.57 | -3.1% | L | -1.00 |
+| 2026-05-31 | K-League 2 | Ansan Greeners vs Cheonan City | home | DNB | 2.91 | 3.14 | -7.3% | L | -1.00 |
 | 2026-06-01 | J.League 2 | Vanraure Hachinohe vs Fukushima United | away | DNB | 2.88 | 3.27 | -11.9% | W | +1.88 |
 | 2026-06-06 | J.League | Tokyo Verdy vs Gamba Osaka | home | DNB | 1.94 | 1.42 | +36.6% | L | -1.00 |
-| 2026-06-06 | J.League 2 | Matsumoto Yamaga vs Nara Club | away | DNB | 2.69 | 3.22 | -16.5% | W | +1.69 |
 | 2026-06-06 | J.League 2 | Vegalta Sendai vs Kataller Toyama | away | DNB | 2.11 | 2.06 | +2.4% | P | +0.00 |
 | 2026-06-06 | J.League 2 | Tochigi City vs Rayluck Shiga | away | DNB | 2.52 | 2.52 | +0.0% | L | -1.00 |
+| 2026-06-06 | J.League 2 | Matsumoto Yamaga vs Nara Club | away | DNB | 2.69 | 3.22 | -16.5% | W | +1.69 |
 | 2026-06-06 | J.League 2 | Omiya Ardija vs Kochi United | away | DNB | 3.53 | 2.55 | +38.4% | L | -1.00 |
 | 2026-06-07 | J.League 2 | Oita Trinita vs Montedio Yamagata | away | DNB | 1.90 | 2.09 | -9.1% | L | -1.00 |
 | 2026-06-07 | K-League 2 | Cheonan City vs Suwon FC | home | DNB | 2.31 | 2.31 | +0.0% | P | +0.00 |
@@ -98,13 +98,13 @@ Model calibration vs Pinnacle starting prices. BSS > 0 means the model outperfor
 | League | Matches | BSS vs Pinnacle | Jun 2026 | Status |
 |--------|---------|-----------------|----------|--------|
 | A-League | 363 | +0.24% | — | BEATING |
-| J.League | 774 | -0.37% | +5.91% (10) | TRAILING |
-| J.League 2 | 147 | +4.52% | -7.33% (14) | BEATING |
+| J.League | 774 | -0.37% | +5.93% (10) | TRAILING |
+| J.League 2 | 147 | +4.52% | -7.30% (14) | BEATING |
 | K-League 1 | 333 | -1.92% | — | TRAILING |
-| K-League 2 | 40 | -13.41% | +12.88% (2) | TRAILING |
+| K-League 2 | 40 | -13.41% | +12.99% (2) | TRAILING |
 | Saudi Pro League | 51 | -1.68% | — | TRAILING |
-| Chinese Super League | 426 | -4.04% | -2.32% (8) | TRAILING |
-| **ALL LEAGUES** | **2,134** | **-0.93%** | **+0.20% (34)** | **TRAILING** |
+| Chinese Super League | 426 | -4.04% | -2.17% (8) | TRAILING |
+| **ALL LEAGUES** | **2,134** | **-0.93%** | **+0.26% (34)** | **TRAILING** |
 
 > *2,134 matches evaluated. Walk-forward backtest using optimised per-league parameters.*
 
