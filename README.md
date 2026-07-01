@@ -2,7 +2,7 @@
 
 > **The gold standard for match probability in Asian football.**
 
-> **Last updated:** 2026-06-30 21:07 UTC
+> **Last updated:** 2026-07-01 21:01 UTC
 > **Model:** PV10 v7 Unified | **Markets:** DNB (Draw No Bet, AH 0.0)
 > **Leagues:** A-League, J.League, J.League 2, K-League 1, K-League 2, Saudi Pro League, Chinese Super League
 
@@ -95,16 +95,16 @@ Full play-by-play history: [`plays.csv`](plays.csv) | Machine-readable: [`ledger
 
 Model calibration vs Pinnacle starting prices. BSS > 0 means the model outperforms the sharpest bookmaker. Computed via walk-forward backtest (no data leakage).
 
-| League | Matches | BSS vs Pinnacle | Jun 2026 | Status |
+| League | Matches | BSS vs Pinnacle | Jul 2026 | Status |
 |--------|---------|-----------------|----------|--------|
 | A-League | 363 | +0.24% | — | BEATING |
-| J.League | 774 | -0.37% | +5.93% (10) | TRAILING |
-| J.League 2 | 147 | +4.52% | -7.30% (14) | BEATING |
+| J.League | 774 | -0.37% | — | TRAILING |
+| J.League 2 | 147 | +4.52% | — | BEATING |
 | K-League 1 | 333 | -1.92% | — | TRAILING |
-| K-League 2 | 40 | -13.41% | +12.99% (2) | TRAILING |
+| K-League 2 | 40 | -13.39% | — | TRAILING |
 | Saudi Pro League | 51 | -1.68% | — | TRAILING |
-| Chinese Super League | 426 | -4.04% | -2.17% (8) | TRAILING |
-| **ALL LEAGUES** | **2,134** | **-0.93%** | **+0.26% (34)** | **TRAILING** |
+| Chinese Super League | 426 | -4.04% | — | TRAILING |
+| **ALL LEAGUES** | **2,134** | **-0.93%** | — | **TRAILING** |
 
 > *2,134 matches evaluated. Walk-forward backtest using optimised per-league parameters.*
 

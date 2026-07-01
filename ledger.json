@@ -14,19 +14,19 @@
       "Saudi Pro League",
       "Chinese Super League"
     ],
-    "updated_at": "2026-06-30T21:07:03Z",
+    "updated_at": "2026-07-01T21:01:46Z",
     "source": "https://github.com/veriasia/engine",
     "methodology": "Four-pillar performance rating (Finishing, Creation, Progression, Defensive) with per-league optimised pillar weights, logistic probability model, and market SP blending. Walk-forward backtest with no data leakage."
   },
   "model_accuracy": {
     "description": "Brier Skill Score (BSS) vs Pinnacle starting prices. Positive = model beats the market.",
     "overall": {
-      "bss_vs_pinnacle_sp_pct": -0.9303,
+      "bss_vs_pinnacle_sp_pct": -0.9305,
       "n_matches": 2134,
-      "model_brier": 0.22054,
+      "model_brier": 0.220541,
       "market_brier": 0.218507,
-      "bss_this_month_pct": 0.2587,
-      "n_matches_month": 34
+      "bss_this_month_pct": null,
+      "n_matches_month": 0
     },
     "by_league": {
       "a_league": {
@@ -40,20 +40,20 @@
       },
       "j_league": {
         "league_name": "J.League",
-        "bss_vs_pinnacle_sp_pct": -0.3729,
+        "bss_vs_pinnacle_sp_pct": -0.3748,
         "n_sp_matches": 774,
-        "bss_this_month_pct": 5.9331,
-        "n_sp_matches_month": 10,
-        "bss_vs_naive_pct": 7.298,
+        "bss_this_month_pct": null,
+        "n_sp_matches_month": 0,
+        "bss_vs_naive_pct": 7.2965,
         "n_naive_matches": 880
       },
       "j_league_2": {
         "league_name": "J.League 2",
-        "bss_vs_pinnacle_sp_pct": 4.5207,
+        "bss_vs_pinnacle_sp_pct": 4.5227,
         "n_sp_matches": 147,
-        "bss_this_month_pct": -7.3027,
-        "n_sp_matches_month": 14,
-        "bss_vs_naive_pct": 0.3232,
+        "bss_this_month_pct": null,
+        "n_sp_matches_month": 0,
+        "bss_vs_naive_pct": 0.3245,
         "n_naive_matches": 255
       },
       "k_league": {
@@ -67,11 +67,11 @@
       },
       "k_league_2": {
         "league_name": "K-League 2",
-        "bss_vs_pinnacle_sp_pct": -13.4124,
+        "bss_vs_pinnacle_sp_pct": -13.395,
         "n_sp_matches": 40,
-        "bss_this_month_pct": 12.9912,
-        "n_sp_matches_month": 2,
-        "bss_vs_naive_pct": -12.5424,
+        "bss_this_month_pct": null,
+        "n_sp_matches_month": 0,
+        "bss_vs_naive_pct": -12.5319,
         "n_naive_matches": 60
       },
       "saudi_pro_league": {
@@ -87,8 +87,8 @@
         "league_name": "Chinese Super League",
         "bss_vs_pinnacle_sp_pct": -4.0386,
         "n_sp_matches": 426,
-        "bss_this_month_pct": -2.1748,
-        "n_sp_matches_month": 8,
+        "bss_this_month_pct": null,
+        "n_sp_matches_month": 0,
         "bss_vs_naive_pct": 28.5139,
         "n_naive_matches": 434
       }
